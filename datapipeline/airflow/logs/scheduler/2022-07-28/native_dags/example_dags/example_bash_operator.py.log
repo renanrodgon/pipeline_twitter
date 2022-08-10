@@ -1,0 +1,805 @@
+[2022-07-27 22:18:42,752] {processor.py:153} INFO - Started process (PID=3841) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:18:42,752] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:18:42,752] {logging_mixin.py:115} INFO - [2022-07-27 22:18:42,752] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:18:42,760] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:18:42,773] {logging_mixin.py:115} INFO - [2022-07-27 22:18:42,773] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:18:42,785] {logging_mixin.py:115} INFO - [2022-07-27 22:18:42,784] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:18:42,798] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds
+[2022-07-27 22:19:16,335] {processor.py:153} INFO - Started process (PID=3954) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:19:16,336] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:19:16,336] {logging_mixin.py:115} INFO - [2022-07-27 22:19:16,336] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:19:16,345] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:19:16,358] {logging_mixin.py:115} INFO - [2022-07-27 22:19:16,358] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:16,371] {logging_mixin.py:115} INFO - [2022-07-27 22:19:16,371] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:19:16,383] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.049 seconds
+[2022-07-27 22:19:49,632] {processor.py:153} INFO - Started process (PID=3992) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:19:49,632] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:19:49,633] {logging_mixin.py:115} INFO - [2022-07-27 22:19:49,633] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:19:49,641] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:19:49,652] {logging_mixin.py:115} INFO - [2022-07-27 22:19:49,652] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:49,664] {logging_mixin.py:115} INFO - [2022-07-27 22:19:49,664] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:19:49,673] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 22:20:22,253] {processor.py:153} INFO - Started process (PID=4309) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:20:22,254] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:20:22,254] {logging_mixin.py:115} INFO - [2022-07-27 22:20:22,254] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:20:22,261] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:20:22,272] {logging_mixin.py:115} INFO - [2022-07-27 22:20:22,272] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:22,281] {logging_mixin.py:115} INFO - [2022-07-27 22:20:22,281] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:20:22,290] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 22:20:56,861] {processor.py:153} INFO - Started process (PID=4350) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:20:56,862] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:20:56,862] {logging_mixin.py:115} INFO - [2022-07-27 22:20:56,862] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:20:56,869] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:20:56,879] {logging_mixin.py:115} INFO - [2022-07-27 22:20:56,879] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:56,889] {logging_mixin.py:115} INFO - [2022-07-27 22:20:56,889] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:20:56,933] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.074 seconds
+[2022-07-27 22:21:27,859] {processor.py:153} INFO - Started process (PID=4394) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:21:27,862] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:21:27,862] {logging_mixin.py:115} INFO - [2022-07-27 22:21:27,862] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:21:27,870] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:21:27,881] {logging_mixin.py:115} INFO - [2022-07-27 22:21:27,881] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:27,891] {logging_mixin.py:115} INFO - [2022-07-27 22:21:27,891] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:21:27,901] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 22:22:02,163] {processor.py:153} INFO - Started process (PID=4437) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:22:02,163] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:22:02,164] {logging_mixin.py:115} INFO - [2022-07-27 22:22:02,164] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:22:02,172] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:22:02,184] {logging_mixin.py:115} INFO - [2022-07-27 22:22:02,184] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:02,195] {logging_mixin.py:115} INFO - [2022-07-27 22:22:02,195] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:22:02,206] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:22:34,663] {processor.py:153} INFO - Started process (PID=4485) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:22:34,664] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:22:34,664] {logging_mixin.py:115} INFO - [2022-07-27 22:22:34,664] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:22:34,672] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:22:34,685] {logging_mixin.py:115} INFO - [2022-07-27 22:22:34,685] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:34,700] {logging_mixin.py:115} INFO - [2022-07-27 22:22:34,700] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:22:34,715] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2022-07-27 22:23:08,325] {processor.py:153} INFO - Started process (PID=4538) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:23:08,326] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:23:08,326] {logging_mixin.py:115} INFO - [2022-07-27 22:23:08,326] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:23:08,334] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:23:08,348] {logging_mixin.py:115} INFO - [2022-07-27 22:23:08,348] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:08,362] {logging_mixin.py:115} INFO - [2022-07-27 22:23:08,362] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:23:08,376] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2022-07-27 22:23:39,842] {processor.py:153} INFO - Started process (PID=4579) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:23:39,842] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:23:39,842] {logging_mixin.py:115} INFO - [2022-07-27 22:23:39,842] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:23:39,850] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:23:39,865] {logging_mixin.py:115} INFO - [2022-07-27 22:23:39,865] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:39,880] {logging_mixin.py:115} INFO - [2022-07-27 22:23:39,880] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:23:39,890] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2022-07-27 22:24:13,196] {processor.py:153} INFO - Started process (PID=4615) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:24:13,197] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:24:13,198] {logging_mixin.py:115} INFO - [2022-07-27 22:24:13,198] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:24:13,206] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:24:13,219] {logging_mixin.py:115} INFO - [2022-07-27 22:24:13,219] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:13,229] {logging_mixin.py:115} INFO - [2022-07-27 22:24:13,229] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:24:13,239] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.044 seconds
+[2022-07-27 22:24:46,838] {processor.py:153} INFO - Started process (PID=4667) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:24:46,838] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:24:46,838] {logging_mixin.py:115} INFO - [2022-07-27 22:24:46,838] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:24:46,847] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:24:46,860] {logging_mixin.py:115} INFO - [2022-07-27 22:24:46,860] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:46,873] {logging_mixin.py:115} INFO - [2022-07-27 22:24:46,873] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:24:46,885] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.049 seconds
+[2022-07-27 22:25:17,836] {processor.py:153} INFO - Started process (PID=4722) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:25:17,836] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:25:17,837] {logging_mixin.py:115} INFO - [2022-07-27 22:25:17,837] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:25:17,847] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:25:17,858] {logging_mixin.py:115} INFO - [2022-07-27 22:25:17,858] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:17,870] {logging_mixin.py:115} INFO - [2022-07-27 22:25:17,869] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:25:17,881] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds
+[2022-07-27 22:25:51,507] {processor.py:153} INFO - Started process (PID=4764) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:25:51,508] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:25:51,508] {logging_mixin.py:115} INFO - [2022-07-27 22:25:51,508] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:25:51,516] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:25:51,527] {logging_mixin.py:115} INFO - [2022-07-27 22:25:51,527] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:51,537] {logging_mixin.py:115} INFO - [2022-07-27 22:25:51,537] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:25:51,546] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2022-07-27 22:26:24,669] {processor.py:153} INFO - Started process (PID=4818) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:26:24,670] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:26:24,670] {logging_mixin.py:115} INFO - [2022-07-27 22:26:24,670] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:26:24,679] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:26:24,691] {logging_mixin.py:115} INFO - [2022-07-27 22:26:24,691] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:24,702] {logging_mixin.py:115} INFO - [2022-07-27 22:26:24,702] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:26:24,773] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2022-07-27 22:26:57,254] {processor.py:153} INFO - Started process (PID=4860) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:26:57,255] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:26:57,255] {logging_mixin.py:115} INFO - [2022-07-27 22:26:57,255] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:26:57,262] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:26:57,274] {logging_mixin.py:115} INFO - [2022-07-27 22:26:57,274] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:57,285] {logging_mixin.py:115} INFO - [2022-07-27 22:26:57,285] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:26:57,300] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds
+[2022-07-27 22:27:31,900] {processor.py:153} INFO - Started process (PID=4902) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:27:31,901] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:27:31,901] {logging_mixin.py:115} INFO - [2022-07-27 22:27:31,901] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:27:31,908] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:27:31,918] {logging_mixin.py:115} INFO - [2022-07-27 22:27:31,918] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:31,928] {logging_mixin.py:115} INFO - [2022-07-27 22:27:31,928] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:27:31,974] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.076 seconds
+[2022-07-27 22:28:04,150] {processor.py:153} INFO - Started process (PID=4940) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:28:04,150] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:28:04,150] {logging_mixin.py:115} INFO - [2022-07-27 22:28:04,150] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:28:04,161] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:28:04,175] {logging_mixin.py:115} INFO - [2022-07-27 22:28:04,175] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:04,186] {logging_mixin.py:115} INFO - [2022-07-27 22:28:04,186] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:28:04,196] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds
+[2022-07-27 22:28:37,291] {processor.py:153} INFO - Started process (PID=4994) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:28:37,292] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:28:37,292] {logging_mixin.py:115} INFO - [2022-07-27 22:28:37,292] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:28:37,301] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:28:37,312] {logging_mixin.py:115} INFO - [2022-07-27 22:28:37,311] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:37,325] {logging_mixin.py:115} INFO - [2022-07-27 22:28:37,325] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:28:37,336] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.046 seconds
+[2022-07-27 22:29:09,292] {processor.py:153} INFO - Started process (PID=5046) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:29:09,297] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:29:09,298] {logging_mixin.py:115} INFO - [2022-07-27 22:29:09,298] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:29:09,308] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:29:09,319] {logging_mixin.py:115} INFO - [2022-07-27 22:29:09,319] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:09,331] {logging_mixin.py:115} INFO - [2022-07-27 22:29:09,331] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:29:09,342] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.052 seconds
+[2022-07-27 22:29:41,863] {processor.py:153} INFO - Started process (PID=5095) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:29:41,863] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:29:41,863] {logging_mixin.py:115} INFO - [2022-07-27 22:29:41,863] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:29:41,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:29:41,881] {logging_mixin.py:115} INFO - [2022-07-27 22:29:41,881] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:41,893] {logging_mixin.py:115} INFO - [2022-07-27 22:29:41,893] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:29:41,904] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 22:30:15,509] {processor.py:153} INFO - Started process (PID=5143) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:30:15,511] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:30:15,511] {logging_mixin.py:115} INFO - [2022-07-27 22:30:15,511] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:30:15,522] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:30:15,534] {logging_mixin.py:115} INFO - [2022-07-27 22:30:15,534] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:15,547] {logging_mixin.py:115} INFO - [2022-07-27 22:30:15,547] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:30:15,560] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.052 seconds
+[2022-07-27 22:30:47,995] {processor.py:153} INFO - Started process (PID=5184) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:30:47,996] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:30:47,996] {logging_mixin.py:115} INFO - [2022-07-27 22:30:47,996] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:30:48,005] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:30:48,014] {logging_mixin.py:115} INFO - [2022-07-27 22:30:48,014] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:48,026] {logging_mixin.py:115} INFO - [2022-07-27 22:30:48,025] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:30:48,037] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 22:31:19,433] {processor.py:153} INFO - Started process (PID=5237) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:31:19,433] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:31:19,434] {logging_mixin.py:115} INFO - [2022-07-27 22:31:19,434] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:31:19,445] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:31:19,456] {logging_mixin.py:115} INFO - [2022-07-27 22:31:19,456] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:19,472] {logging_mixin.py:115} INFO - [2022-07-27 22:31:19,472] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:31:19,482] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.052 seconds
+[2022-07-27 22:31:53,082] {processor.py:153} INFO - Started process (PID=5279) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:31:53,083] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:31:53,083] {logging_mixin.py:115} INFO - [2022-07-27 22:31:53,083] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:31:53,092] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:31:53,101] {logging_mixin.py:115} INFO - [2022-07-27 22:31:53,101] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:53,111] {logging_mixin.py:115} INFO - [2022-07-27 22:31:53,111] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:31:53,120] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2022-07-27 22:32:24,611] {processor.py:153} INFO - Started process (PID=5327) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:32:24,612] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:32:24,612] {logging_mixin.py:115} INFO - [2022-07-27 22:32:24,612] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:32:24,625] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:32:24,636] {logging_mixin.py:115} INFO - [2022-07-27 22:32:24,636] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:24,648] {logging_mixin.py:115} INFO - [2022-07-27 22:32:24,648] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:32:24,659] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2022-07-27 22:33:01,848] {processor.py:153} INFO - Started process (PID=5375) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:33:01,849] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:33:01,849] {logging_mixin.py:115} INFO - [2022-07-27 22:33:01,849] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:33:01,858] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:33:01,869] {logging_mixin.py:115} INFO - [2022-07-27 22:33:01,869] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:01,881] {logging_mixin.py:115} INFO - [2022-07-27 22:33:01,880] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:33:01,892] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:33:34,126] {processor.py:153} INFO - Started process (PID=5419) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:33:34,126] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:33:34,127] {logging_mixin.py:115} INFO - [2022-07-27 22:33:34,127] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:33:34,136] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:33:34,147] {logging_mixin.py:115} INFO - [2022-07-27 22:33:34,147] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:34,158] {logging_mixin.py:115} INFO - [2022-07-27 22:33:34,158] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:33:34,169] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:34:07,909] {processor.py:153} INFO - Started process (PID=5482) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:34:07,910] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:34:07,910] {logging_mixin.py:115} INFO - [2022-07-27 22:34:07,910] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:34:07,920] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:34:07,931] {logging_mixin.py:115} INFO - [2022-07-27 22:34:07,931] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:07,950] {logging_mixin.py:115} INFO - [2022-07-27 22:34:07,950] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:34:07,962] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.055 seconds
+[2022-07-27 22:34:39,875] {processor.py:153} INFO - Started process (PID=5518) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:34:39,875] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:34:39,876] {logging_mixin.py:115} INFO - [2022-07-27 22:34:39,876] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:34:39,884] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:34:39,893] {logging_mixin.py:115} INFO - [2022-07-27 22:34:39,893] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:39,903] {logging_mixin.py:115} INFO - [2022-07-27 22:34:39,903] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:34:39,913] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2022-07-27 22:35:13,952] {processor.py:153} INFO - Started process (PID=5560) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:35:13,952] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:35:13,953] {logging_mixin.py:115} INFO - [2022-07-27 22:35:13,953] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:35:13,963] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:35:13,972] {logging_mixin.py:115} INFO - [2022-07-27 22:35:13,972] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:13,985] {logging_mixin.py:115} INFO - [2022-07-27 22:35:13,985] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:35:13,994] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 22:35:46,559] {processor.py:153} INFO - Started process (PID=5616) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:35:46,559] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:35:46,560] {logging_mixin.py:115} INFO - [2022-07-27 22:35:46,560] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:35:46,570] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:35:46,584] {logging_mixin.py:115} INFO - [2022-07-27 22:35:46,583] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:46,600] {logging_mixin.py:115} INFO - [2022-07-27 22:35:46,600] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:35:46,614] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.057 seconds
+[2022-07-27 22:36:21,847] {processor.py:153} INFO - Started process (PID=5662) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:36:21,848] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:36:21,848] {logging_mixin.py:115} INFO - [2022-07-27 22:36:21,848] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:36:21,857] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:36:21,868] {logging_mixin.py:115} INFO - [2022-07-27 22:36:21,868] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:21,880] {logging_mixin.py:115} INFO - [2022-07-27 22:36:21,880] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:36:21,892] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds
+[2022-07-27 22:36:52,689] {processor.py:153} INFO - Started process (PID=5798) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:36:52,689] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:36:52,689] {logging_mixin.py:115} INFO - [2022-07-27 22:36:52,689] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:36:52,699] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:36:52,710] {logging_mixin.py:115} INFO - [2022-07-27 22:36:52,710] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:52,720] {logging_mixin.py:115} INFO - [2022-07-27 22:36:52,720] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:36:52,731] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.044 seconds
+[2022-07-27 22:37:27,094] {processor.py:153} INFO - Started process (PID=5834) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:37:27,095] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:37:27,095] {logging_mixin.py:115} INFO - [2022-07-27 22:37:27,095] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:37:27,110] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:37:27,122] {logging_mixin.py:115} INFO - [2022-07-27 22:37:27,122] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:27,134] {logging_mixin.py:115} INFO - [2022-07-27 22:37:27,134] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:37:27,145] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2022-07-27 22:37:59,752] {processor.py:153} INFO - Started process (PID=5877) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:37:59,752] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:37:59,752] {logging_mixin.py:115} INFO - [2022-07-27 22:37:59,752] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:37:59,762] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:37:59,771] {logging_mixin.py:115} INFO - [2022-07-27 22:37:59,771] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:59,782] {logging_mixin.py:115} INFO - [2022-07-27 22:37:59,782] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:37:59,795] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:38:32,330] {processor.py:153} INFO - Started process (PID=5923) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:38:32,331] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:38:32,331] {logging_mixin.py:115} INFO - [2022-07-27 22:38:32,331] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:38:32,341] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:38:32,355] {logging_mixin.py:115} INFO - [2022-07-27 22:38:32,355] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:32,368] {logging_mixin.py:115} INFO - [2022-07-27 22:38:32,368] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:38:32,378] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2022-07-27 22:39:06,930] {processor.py:153} INFO - Started process (PID=5962) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:39:06,930] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:39:06,931] {logging_mixin.py:115} INFO - [2022-07-27 22:39:06,931] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:39:06,940] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:39:06,950] {logging_mixin.py:115} INFO - [2022-07-27 22:39:06,950] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:06,964] {logging_mixin.py:115} INFO - [2022-07-27 22:39:06,964] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:39:07,024] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.096 seconds
+[2022-07-27 22:39:38,750] {processor.py:153} INFO - Started process (PID=6018) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:39:38,750] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:39:38,750] {logging_mixin.py:115} INFO - [2022-07-27 22:39:38,750] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:39:38,759] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:39:38,769] {logging_mixin.py:115} INFO - [2022-07-27 22:39:38,769] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:38,782] {logging_mixin.py:115} INFO - [2022-07-27 22:39:38,782] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:39:38,793] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:40:11,517] {processor.py:153} INFO - Started process (PID=6057) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:40:11,518] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:40:11,518] {logging_mixin.py:115} INFO - [2022-07-27 22:40:11,518] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:40:11,528] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:40:11,540] {logging_mixin.py:115} INFO - [2022-07-27 22:40:11,540] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:11,552] {logging_mixin.py:115} INFO - [2022-07-27 22:40:11,552] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:40:11,566] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2022-07-27 22:40:44,506] {processor.py:153} INFO - Started process (PID=6101) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:40:44,506] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:40:44,507] {logging_mixin.py:115} INFO - [2022-07-27 22:40:44,507] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:40:44,516] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:40:44,527] {logging_mixin.py:115} INFO - [2022-07-27 22:40:44,527] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:44,541] {logging_mixin.py:115} INFO - [2022-07-27 22:40:44,541] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:40:44,600] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.096 seconds
+[2022-07-27 22:41:16,484] {processor.py:153} INFO - Started process (PID=6149) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:41:16,484] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:41:16,484] {logging_mixin.py:115} INFO - [2022-07-27 22:41:16,484] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:41:16,491] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:41:16,501] {logging_mixin.py:115} INFO - [2022-07-27 22:41:16,501] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:16,511] {logging_mixin.py:115} INFO - [2022-07-27 22:41:16,511] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:41:16,519] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 22:41:48,439] {processor.py:153} INFO - Started process (PID=6202) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:41:48,439] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:41:48,439] {logging_mixin.py:115} INFO - [2022-07-27 22:41:48,439] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:41:48,446] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:41:48,456] {logging_mixin.py:115} INFO - [2022-07-27 22:41:48,456] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:48,466] {logging_mixin.py:115} INFO - [2022-07-27 22:41:48,466] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:41:48,475] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 22:42:22,063] {processor.py:153} INFO - Started process (PID=6254) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:42:22,063] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:42:22,064] {logging_mixin.py:115} INFO - [2022-07-27 22:42:22,064] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:42:22,071] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:42:22,080] {logging_mixin.py:115} INFO - [2022-07-27 22:42:22,080] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:22,090] {logging_mixin.py:115} INFO - [2022-07-27 22:42:22,090] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:42:22,135] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.074 seconds
+[2022-07-27 22:42:55,427] {processor.py:153} INFO - Started process (PID=6310) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:42:55,427] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:42:55,427] {logging_mixin.py:115} INFO - [2022-07-27 22:42:55,427] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:42:55,435] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:42:55,446] {logging_mixin.py:115} INFO - [2022-07-27 22:42:55,446] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:55,457] {logging_mixin.py:115} INFO - [2022-07-27 22:42:55,457] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:42:55,467] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.042 seconds
+[2022-07-27 22:43:28,505] {processor.py:153} INFO - Started process (PID=6369) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:43:28,505] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:43:28,506] {logging_mixin.py:115} INFO - [2022-07-27 22:43:28,506] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:43:28,513] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:43:28,527] {logging_mixin.py:115} INFO - [2022-07-27 22:43:28,527] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:28,538] {logging_mixin.py:115} INFO - [2022-07-27 22:43:28,538] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:43:28,551] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds
+[2022-07-27 22:43:59,906] {processor.py:153} INFO - Started process (PID=6409) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:43:59,907] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:43:59,907] {logging_mixin.py:115} INFO - [2022-07-27 22:43:59,907] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:43:59,914] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:43:59,923] {logging_mixin.py:115} INFO - [2022-07-27 22:43:59,923] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:59,933] {logging_mixin.py:115} INFO - [2022-07-27 22:43:59,933] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:43:59,942] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 22:44:34,834] {processor.py:153} INFO - Started process (PID=6444) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:44:34,834] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:44:34,834] {logging_mixin.py:115} INFO - [2022-07-27 22:44:34,834] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:44:34,841] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:44:34,850] {logging_mixin.py:115} INFO - [2022-07-27 22:44:34,850] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:34,861] {logging_mixin.py:115} INFO - [2022-07-27 22:44:34,861] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:44:34,870] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 22:45:08,805] {processor.py:153} INFO - Started process (PID=6484) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:45:08,806] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:45:08,806] {logging_mixin.py:115} INFO - [2022-07-27 22:45:08,806] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:45:08,813] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:45:08,822] {logging_mixin.py:115} INFO - [2022-07-27 22:45:08,822] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:08,832] {logging_mixin.py:115} INFO - [2022-07-27 22:45:08,832] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:45:08,841] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 22:45:40,760] {processor.py:153} INFO - Started process (PID=6535) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:45:40,760] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:45:40,761] {logging_mixin.py:115} INFO - [2022-07-27 22:45:40,760] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:45:40,767] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:45:40,776] {logging_mixin.py:115} INFO - [2022-07-27 22:45:40,776] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:40,786] {logging_mixin.py:115} INFO - [2022-07-27 22:45:40,786] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:45:40,794] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.036 seconds
+[2022-07-27 22:46:17,278] {processor.py:153} INFO - Started process (PID=6597) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:46:17,278] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:46:17,279] {logging_mixin.py:115} INFO - [2022-07-27 22:46:17,279] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:46:17,286] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:46:17,295] {logging_mixin.py:115} INFO - [2022-07-27 22:46:17,295] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:17,305] {logging_mixin.py:115} INFO - [2022-07-27 22:46:17,305] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:46:17,314] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-07-27 22:46:52,548] {processor.py:153} INFO - Started process (PID=6647) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:46:52,549] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:46:52,549] {logging_mixin.py:115} INFO - [2022-07-27 22:46:52,549] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:46:52,556] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:46:52,566] {logging_mixin.py:115} INFO - [2022-07-27 22:46:52,566] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:52,576] {logging_mixin.py:115} INFO - [2022-07-27 22:46:52,576] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:46:52,585] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-07-27 22:47:24,722] {processor.py:153} INFO - Started process (PID=6695) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:47:24,722] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:47:24,723] {logging_mixin.py:115} INFO - [2022-07-27 22:47:24,723] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:47:24,730] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:47:24,740] {logging_mixin.py:115} INFO - [2022-07-27 22:47:24,740] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:24,761] {logging_mixin.py:115} INFO - [2022-07-27 22:47:24,761] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:47:24,772] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.052 seconds
+[2022-07-27 22:47:59,424] {processor.py:153} INFO - Started process (PID=6787) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:47:59,425] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:47:59,425] {logging_mixin.py:115} INFO - [2022-07-27 22:47:59,425] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:47:59,439] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:47:59,456] {logging_mixin.py:115} INFO - [2022-07-27 22:47:59,456] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:59,472] {logging_mixin.py:115} INFO - [2022-07-27 22:47:59,472] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:47:59,487] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2022-07-27 22:48:34,141] {processor.py:153} INFO - Started process (PID=6841) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:48:34,141] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:48:34,142] {logging_mixin.py:115} INFO - [2022-07-27 22:48:34,142] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:48:34,148] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:48:34,159] {logging_mixin.py:115} INFO - [2022-07-27 22:48:34,159] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:34,171] {logging_mixin.py:115} INFO - [2022-07-27 22:48:34,171] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:48:34,182] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 22:49:05,015] {processor.py:153} INFO - Started process (PID=6904) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:49:05,016] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:49:05,016] {logging_mixin.py:115} INFO - [2022-07-27 22:49:05,016] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:49:05,024] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:49:05,039] {logging_mixin.py:115} INFO - [2022-07-27 22:49:05,037] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:05,053] {logging_mixin.py:115} INFO - [2022-07-27 22:49:05,053] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:49:05,064] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.051 seconds
+[2022-07-27 22:49:37,668] {processor.py:153} INFO - Started process (PID=6939) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:49:37,669] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:49:37,669] {logging_mixin.py:115} INFO - [2022-07-27 22:49:37,669] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:49:37,677] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:49:37,687] {logging_mixin.py:115} INFO - [2022-07-27 22:49:37,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:37,699] {logging_mixin.py:115} INFO - [2022-07-27 22:49:37,699] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:49:37,711] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:50:09,621] {processor.py:153} INFO - Started process (PID=6978) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:50:09,622] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:50:09,622] {logging_mixin.py:115} INFO - [2022-07-27 22:50:09,622] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:50:09,629] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:50:09,641] {logging_mixin.py:115} INFO - [2022-07-27 22:50:09,641] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:09,654] {logging_mixin.py:115} INFO - [2022-07-27 22:50:09,654] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:50:09,668] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.049 seconds
+[2022-07-27 22:50:47,423] {processor.py:153} INFO - Started process (PID=7035) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:50:47,423] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:50:47,424] {logging_mixin.py:115} INFO - [2022-07-27 22:50:47,424] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:50:47,431] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:50:47,442] {logging_mixin.py:115} INFO - [2022-07-27 22:50:47,442] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:47,453] {logging_mixin.py:115} INFO - [2022-07-27 22:50:47,452] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:50:47,463] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.042 seconds
+[2022-07-27 22:51:20,080] {processor.py:153} INFO - Started process (PID=7083) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:51:20,080] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:51:20,081] {logging_mixin.py:115} INFO - [2022-07-27 22:51:20,081] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:51:20,089] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:51:20,100] {logging_mixin.py:115} INFO - [2022-07-27 22:51:20,100] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:20,112] {logging_mixin.py:115} INFO - [2022-07-27 22:51:20,112] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:51:20,123] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:51:53,515] {processor.py:153} INFO - Started process (PID=7124) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:51:53,516] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:51:53,516] {logging_mixin.py:115} INFO - [2022-07-27 22:51:53,516] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:51:53,523] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:51:53,532] {logging_mixin.py:115} INFO - [2022-07-27 22:51:53,532] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:53,542] {logging_mixin.py:115} INFO - [2022-07-27 22:51:53,542] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:51:53,551] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 22:52:25,393] {processor.py:153} INFO - Started process (PID=7162) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:52:25,393] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:52:25,394] {logging_mixin.py:115} INFO - [2022-07-27 22:52:25,394] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:52:25,401] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:52:25,413] {logging_mixin.py:115} INFO - [2022-07-27 22:52:25,412] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:25,425] {logging_mixin.py:115} INFO - [2022-07-27 22:52:25,425] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:52:25,436] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.046 seconds
+[2022-07-27 22:52:57,912] {processor.py:153} INFO - Started process (PID=7207) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:52:57,914] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:52:57,915] {logging_mixin.py:115} INFO - [2022-07-27 22:52:57,915] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:52:57,922] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:52:57,935] {logging_mixin.py:115} INFO - [2022-07-27 22:52:57,934] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:57,945] {logging_mixin.py:115} INFO - [2022-07-27 22:52:57,945] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:52:57,958] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds
+[2022-07-27 22:53:29,312] {processor.py:153} INFO - Started process (PID=7242) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:53:29,313] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:53:29,313] {logging_mixin.py:115} INFO - [2022-07-27 22:53:29,313] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:53:29,320] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:53:29,331] {logging_mixin.py:115} INFO - [2022-07-27 22:53:29,331] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:29,342] {logging_mixin.py:115} INFO - [2022-07-27 22:53:29,342] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:53:29,355] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 22:54:03,002] {processor.py:153} INFO - Started process (PID=7299) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:54:03,005] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:54:03,005] {logging_mixin.py:115} INFO - [2022-07-27 22:54:03,005] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:54:03,014] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:54:03,024] {logging_mixin.py:115} INFO - [2022-07-27 22:54:03,023] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:03,036] {logging_mixin.py:115} INFO - [2022-07-27 22:54:03,036] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:54:03,045] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.046 seconds
+[2022-07-27 22:54:34,897] {processor.py:153} INFO - Started process (PID=7339) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:54:34,898] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:54:34,898] {logging_mixin.py:115} INFO - [2022-07-27 22:54:34,898] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:54:34,906] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:54:34,916] {logging_mixin.py:115} INFO - [2022-07-27 22:54:34,916] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:34,927] {logging_mixin.py:115} INFO - [2022-07-27 22:54:34,927] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:54:34,976] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.081 seconds
+[2022-07-27 22:55:09,723] {processor.py:153} INFO - Started process (PID=7392) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:55:09,724] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:55:09,724] {logging_mixin.py:115} INFO - [2022-07-27 22:55:09,724] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:55:09,733] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:55:09,743] {logging_mixin.py:115} INFO - [2022-07-27 22:55:09,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:09,754] {logging_mixin.py:115} INFO - [2022-07-27 22:55:09,754] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:55:09,762] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2022-07-27 22:55:45,590] {processor.py:153} INFO - Started process (PID=7451) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:55:45,590] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:55:45,590] {logging_mixin.py:115} INFO - [2022-07-27 22:55:45,590] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:55:45,598] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:55:45,610] {logging_mixin.py:115} INFO - [2022-07-27 22:55:45,610] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:45,622] {logging_mixin.py:115} INFO - [2022-07-27 22:55:45,622] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:55:45,632] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.044 seconds
+[2022-07-27 22:56:19,270] {processor.py:153} INFO - Started process (PID=7497) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:56:19,271] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:56:19,272] {logging_mixin.py:115} INFO - [2022-07-27 22:56:19,271] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:56:19,280] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:56:19,290] {logging_mixin.py:115} INFO - [2022-07-27 22:56:19,290] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:19,302] {logging_mixin.py:115} INFO - [2022-07-27 22:56:19,302] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:56:19,312] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.044 seconds
+[2022-07-27 22:56:51,525] {processor.py:153} INFO - Started process (PID=7563) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:56:51,525] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:56:51,526] {logging_mixin.py:115} INFO - [2022-07-27 22:56:51,526] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:56:51,533] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:56:51,544] {logging_mixin.py:115} INFO - [2022-07-27 22:56:51,544] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:51,557] {logging_mixin.py:115} INFO - [2022-07-27 22:56:51,557] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:56:51,575] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.052 seconds
+[2022-07-27 22:57:26,109] {processor.py:153} INFO - Started process (PID=7600) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:57:26,110] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:57:26,110] {logging_mixin.py:115} INFO - [2022-07-27 22:57:26,110] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:57:26,117] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:57:26,127] {logging_mixin.py:115} INFO - [2022-07-27 22:57:26,127] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:26,137] {logging_mixin.py:115} INFO - [2022-07-27 22:57:26,136] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:57:26,145] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 22:57:58,039] {processor.py:153} INFO - Started process (PID=7634) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:57:58,040] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:57:58,040] {logging_mixin.py:115} INFO - [2022-07-27 22:57:58,040] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:57:58,047] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:57:58,056] {logging_mixin.py:115} INFO - [2022-07-27 22:57:58,056] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:58,067] {logging_mixin.py:115} INFO - [2022-07-27 22:57:58,067] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:57:58,076] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 22:58:28,610] {processor.py:153} INFO - Started process (PID=7683) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:58:28,610] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:58:28,611] {logging_mixin.py:115} INFO - [2022-07-27 22:58:28,611] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:58:28,618] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:58:28,628] {logging_mixin.py:115} INFO - [2022-07-27 22:58:28,628] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:28,638] {logging_mixin.py:115} INFO - [2022-07-27 22:58:28,638] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:58:28,647] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-07-27 22:59:02,839] {processor.py:153} INFO - Started process (PID=7719) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:59:02,839] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:59:02,839] {logging_mixin.py:115} INFO - [2022-07-27 22:59:02,839] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:59:02,847] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:59:02,856] {logging_mixin.py:115} INFO - [2022-07-27 22:59:02,855] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:02,865] {logging_mixin.py:115} INFO - [2022-07-27 22:59:02,865] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:59:02,874] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 22:59:34,264] {processor.py:153} INFO - Started process (PID=7754) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:59:34,264] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 22:59:34,264] {logging_mixin.py:115} INFO - [2022-07-27 22:59:34,264] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:59:34,271] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 22:59:34,283] {logging_mixin.py:115} INFO - [2022-07-27 22:59:34,283] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:34,295] {logging_mixin.py:115} INFO - [2022-07-27 22:59:34,295] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 22:59:34,307] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds
+[2022-07-27 23:00:10,207] {processor.py:153} INFO - Started process (PID=7812) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:00:10,208] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:00:10,208] {logging_mixin.py:115} INFO - [2022-07-27 23:00:10,208] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:00:10,216] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:00:10,227] {logging_mixin.py:115} INFO - [2022-07-27 23:00:10,226] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:10,237] {logging_mixin.py:115} INFO - [2022-07-27 23:00:10,237] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:00:10,246] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2022-07-27 23:00:42,207] {processor.py:153} INFO - Started process (PID=7849) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:00:42,208] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:00:42,208] {logging_mixin.py:115} INFO - [2022-07-27 23:00:42,208] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:00:42,215] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:00:42,224] {logging_mixin.py:115} INFO - [2022-07-27 23:00:42,224] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:42,234] {logging_mixin.py:115} INFO - [2022-07-27 23:00:42,234] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:00:42,243] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:01:19,219] {processor.py:153} INFO - Started process (PID=7886) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:01:19,219] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:01:19,219] {logging_mixin.py:115} INFO - [2022-07-27 23:01:19,219] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:01:19,227] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:01:19,236] {logging_mixin.py:115} INFO - [2022-07-27 23:01:19,236] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:19,246] {logging_mixin.py:115} INFO - [2022-07-27 23:01:19,246] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:01:19,255] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 23:01:50,084] {processor.py:153} INFO - Started process (PID=7939) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:01:50,084] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:01:50,085] {logging_mixin.py:115} INFO - [2022-07-27 23:01:50,085] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:01:50,091] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:01:50,101] {logging_mixin.py:115} INFO - [2022-07-27 23:01:50,101] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:50,111] {logging_mixin.py:115} INFO - [2022-07-27 23:01:50,111] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:01:50,120] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:02:24,886] {processor.py:153} INFO - Started process (PID=7988) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:02:24,887] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:02:24,887] {logging_mixin.py:115} INFO - [2022-07-27 23:02:24,887] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:02:24,894] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:02:24,904] {logging_mixin.py:115} INFO - [2022-07-27 23:02:24,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:24,914] {logging_mixin.py:115} INFO - [2022-07-27 23:02:24,914] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:02:24,922] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 23:02:58,397] {processor.py:153} INFO - Started process (PID=8043) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:02:58,398] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:02:58,398] {logging_mixin.py:115} INFO - [2022-07-27 23:02:58,398] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:02:58,405] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:02:58,414] {logging_mixin.py:115} INFO - [2022-07-27 23:02:58,414] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:58,424] {logging_mixin.py:115} INFO - [2022-07-27 23:02:58,424] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:02:58,432] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.036 seconds
+[2022-07-27 23:03:29,756] {processor.py:153} INFO - Started process (PID=8082) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:03:29,756] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:03:29,756] {logging_mixin.py:115} INFO - [2022-07-27 23:03:29,756] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:03:29,763] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:03:29,772] {logging_mixin.py:115} INFO - [2022-07-27 23:03:29,772] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:29,782] {logging_mixin.py:115} INFO - [2022-07-27 23:03:29,782] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:03:29,791] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:04:04,822] {processor.py:153} INFO - Started process (PID=8126) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:04:04,822] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:04:04,823] {logging_mixin.py:115} INFO - [2022-07-27 23:04:04,823] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:04:04,830] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:04:04,839] {logging_mixin.py:115} INFO - [2022-07-27 23:04:04,839] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:04,849] {logging_mixin.py:115} INFO - [2022-07-27 23:04:04,848] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:04:04,857] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.036 seconds
+[2022-07-27 23:04:40,787] {processor.py:153} INFO - Started process (PID=8164) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:04:40,787] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:04:40,787] {logging_mixin.py:115} INFO - [2022-07-27 23:04:40,787] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:04:40,795] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:04:40,804] {logging_mixin.py:115} INFO - [2022-07-27 23:04:40,804] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:40,813] {logging_mixin.py:115} INFO - [2022-07-27 23:04:40,813] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:04:40,821] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.036 seconds
+[2022-07-27 23:05:13,112] {processor.py:153} INFO - Started process (PID=8222) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:05:13,112] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:05:13,112] {logging_mixin.py:115} INFO - [2022-07-27 23:05:13,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:05:13,119] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:05:13,128] {logging_mixin.py:115} INFO - [2022-07-27 23:05:13,128] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:13,138] {logging_mixin.py:115} INFO - [2022-07-27 23:05:13,138] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:05:13,146] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.036 seconds
+[2022-07-27 23:05:47,337] {processor.py:153} INFO - Started process (PID=8275) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:05:47,337] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:05:47,338] {logging_mixin.py:115} INFO - [2022-07-27 23:05:47,338] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:05:47,346] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:05:47,357] {logging_mixin.py:115} INFO - [2022-07-27 23:05:47,357] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:47,368] {logging_mixin.py:115} INFO - [2022-07-27 23:05:47,368] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:05:47,377] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 23:06:23,381] {processor.py:153} INFO - Started process (PID=8325) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:06:23,382] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:06:23,382] {logging_mixin.py:115} INFO - [2022-07-27 23:06:23,382] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:06:23,392] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:06:23,407] {logging_mixin.py:115} INFO - [2022-07-27 23:06:23,407] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:23,418] {logging_mixin.py:115} INFO - [2022-07-27 23:06:23,418] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:06:23,429] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2022-07-27 23:06:55,985] {processor.py:153} INFO - Started process (PID=8368) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:06:55,985] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:06:55,985] {logging_mixin.py:115} INFO - [2022-07-27 23:06:55,985] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:06:55,993] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:06:56,002] {logging_mixin.py:115} INFO - [2022-07-27 23:06:56,002] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:56,014] {logging_mixin.py:115} INFO - [2022-07-27 23:06:56,014] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:06:56,023] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2022-07-27 23:07:31,938] {processor.py:153} INFO - Started process (PID=8417) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:07:31,938] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:07:31,939] {logging_mixin.py:115} INFO - [2022-07-27 23:07:31,939] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:07:31,946] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:07:31,955] {logging_mixin.py:115} INFO - [2022-07-27 23:07:31,955] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:31,965] {logging_mixin.py:115} INFO - [2022-07-27 23:07:31,965] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:07:31,974] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 23:08:03,893] {processor.py:153} INFO - Started process (PID=8466) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:08:03,894] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:08:03,894] {logging_mixin.py:115} INFO - [2022-07-27 23:08:03,894] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:08:03,901] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:08:03,910] {logging_mixin.py:115} INFO - [2022-07-27 23:08:03,910] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:03,920] {logging_mixin.py:115} INFO - [2022-07-27 23:08:03,920] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:08:03,928] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:08:36,960] {processor.py:153} INFO - Started process (PID=8511) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:08:36,960] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:08:36,961] {logging_mixin.py:115} INFO - [2022-07-27 23:08:36,961] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:08:36,968] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:08:36,978] {logging_mixin.py:115} INFO - [2022-07-27 23:08:36,978] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:36,989] {logging_mixin.py:115} INFO - [2022-07-27 23:08:36,989] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:08:36,999] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2022-07-27 23:09:08,877] {processor.py:153} INFO - Started process (PID=8547) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:09:08,877] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:09:08,878] {logging_mixin.py:115} INFO - [2022-07-27 23:09:08,878] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:09:08,886] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:09:08,897] {logging_mixin.py:115} INFO - [2022-07-27 23:09:08,897] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:08,910] {logging_mixin.py:115} INFO - [2022-07-27 23:09:08,909] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:09:08,923] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.049 seconds
+[2022-07-27 23:09:42,161] {processor.py:153} INFO - Started process (PID=8597) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:09:42,162] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:09:42,162] {logging_mixin.py:115} INFO - [2022-07-27 23:09:42,162] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:09:42,169] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:09:42,179] {logging_mixin.py:115} INFO - [2022-07-27 23:09:42,179] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:42,188] {logging_mixin.py:115} INFO - [2022-07-27 23:09:42,188] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:09:42,197] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 23:10:14,879] {processor.py:153} INFO - Started process (PID=8641) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:10:14,880] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:10:14,880] {logging_mixin.py:115} INFO - [2022-07-27 23:10:14,880] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:10:14,888] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:10:14,900] {logging_mixin.py:115} INFO - [2022-07-27 23:10:14,900] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:14,910] {logging_mixin.py:115} INFO - [2022-07-27 23:10:14,910] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:10:14,920] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 23:10:47,097] {processor.py:153} INFO - Started process (PID=8699) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:10:47,098] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:10:47,098] {logging_mixin.py:115} INFO - [2022-07-27 23:10:47,098] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:10:47,107] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:10:47,117] {logging_mixin.py:115} INFO - [2022-07-27 23:10:47,117] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:47,127] {logging_mixin.py:115} INFO - [2022-07-27 23:10:47,127] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:10:47,137] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2022-07-27 23:11:19,002] {processor.py:153} INFO - Started process (PID=8740) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:11:19,002] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:11:19,003] {logging_mixin.py:115} INFO - [2022-07-27 23:11:19,003] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:11:19,010] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:11:19,021] {logging_mixin.py:115} INFO - [2022-07-27 23:11:19,021] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:19,032] {logging_mixin.py:115} INFO - [2022-07-27 23:11:19,032] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:11:19,041] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.042 seconds
+[2022-07-27 23:11:54,911] {processor.py:153} INFO - Started process (PID=8779) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:11:54,911] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:11:54,912] {logging_mixin.py:115} INFO - [2022-07-27 23:11:54,912] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:11:54,920] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:11:54,929] {logging_mixin.py:115} INFO - [2022-07-27 23:11:54,929] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:54,940] {logging_mixin.py:115} INFO - [2022-07-27 23:11:54,940] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:11:54,948] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2022-07-27 23:12:25,756] {processor.py:153} INFO - Started process (PID=8838) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:12:25,756] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:12:25,756] {logging_mixin.py:115} INFO - [2022-07-27 23:12:25,756] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:12:25,763] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:12:25,772] {logging_mixin.py:115} INFO - [2022-07-27 23:12:25,772] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:25,782] {logging_mixin.py:115} INFO - [2022-07-27 23:12:25,782] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:12:25,790] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:13:00,052] {processor.py:153} INFO - Started process (PID=8874) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:13:00,053] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:13:00,053] {logging_mixin.py:115} INFO - [2022-07-27 23:13:00,053] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:13:00,060] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:13:00,069] {logging_mixin.py:115} INFO - [2022-07-27 23:13:00,069] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:00,080] {logging_mixin.py:115} INFO - [2022-07-27 23:13:00,080] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:13:00,090] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-07-27 23:13:35,083] {processor.py:153} INFO - Started process (PID=8911) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:13:35,083] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:13:35,084] {logging_mixin.py:115} INFO - [2022-07-27 23:13:35,083] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:13:35,091] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:13:35,100] {logging_mixin.py:115} INFO - [2022-07-27 23:13:35,100] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:35,110] {logging_mixin.py:115} INFO - [2022-07-27 23:13:35,110] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:13:35,118] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:14:07,282] {processor.py:153} INFO - Started process (PID=8945) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:14:07,283] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:14:07,283] {logging_mixin.py:115} INFO - [2022-07-27 23:14:07,283] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:14:07,290] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:14:07,299] {logging_mixin.py:115} INFO - [2022-07-27 23:14:07,299] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:07,309] {logging_mixin.py:115} INFO - [2022-07-27 23:14:07,309] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:14:07,318] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:14:40,433] {processor.py:153} INFO - Started process (PID=8982) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:14:40,433] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:14:40,433] {logging_mixin.py:115} INFO - [2022-07-27 23:14:40,433] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:14:40,441] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:14:40,450] {logging_mixin.py:115} INFO - [2022-07-27 23:14:40,450] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:40,460] {logging_mixin.py:115} INFO - [2022-07-27 23:14:40,460] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:14:40,469] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds
+[2022-07-27 23:15:13,522] {processor.py:153} INFO - Started process (PID=9039) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:15:13,523] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:15:13,523] {logging_mixin.py:115} INFO - [2022-07-27 23:15:13,523] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:15:13,530] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:15:13,539] {logging_mixin.py:115} INFO - [2022-07-27 23:15:13,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:13,549] {logging_mixin.py:115} INFO - [2022-07-27 23:15:13,549] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:15:13,558] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:15:48,088] {processor.py:153} INFO - Started process (PID=9083) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:15:48,089] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:15:48,089] {logging_mixin.py:115} INFO - [2022-07-27 23:15:48,089] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:15:48,096] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:15:48,105] {logging_mixin.py:115} INFO - [2022-07-27 23:15:48,105] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:48,115] {logging_mixin.py:115} INFO - [2022-07-27 23:15:48,115] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:15:48,123] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.036 seconds
+[2022-07-27 23:16:21,540] {processor.py:153} INFO - Started process (PID=9119) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:16:21,540] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:16:21,540] {logging_mixin.py:115} INFO - [2022-07-27 23:16:21,540] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:16:21,547] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:16:21,556] {logging_mixin.py:115} INFO - [2022-07-27 23:16:21,556] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:21,566] {logging_mixin.py:115} INFO - [2022-07-27 23:16:21,566] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:16:21,577] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-07-27 23:16:54,018] {processor.py:153} INFO - Started process (PID=9152) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:16:54,018] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:16:54,018] {logging_mixin.py:115} INFO - [2022-07-27 23:16:54,018] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:16:54,025] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:16:54,035] {logging_mixin.py:115} INFO - [2022-07-27 23:16:54,035] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:54,044] {logging_mixin.py:115} INFO - [2022-07-27 23:16:54,044] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:16:54,053] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:17:28,737] {processor.py:153} INFO - Started process (PID=9196) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:17:28,738] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:17:28,738] {logging_mixin.py:115} INFO - [2022-07-27 23:17:28,738] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:17:28,745] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:17:28,755] {logging_mixin.py:115} INFO - [2022-07-27 23:17:28,755] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:28,766] {logging_mixin.py:115} INFO - [2022-07-27 23:17:28,766] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:17:28,774] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-07-27 23:18:03,609] {processor.py:153} INFO - Started process (PID=9231) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:18:03,609] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:18:03,609] {logging_mixin.py:115} INFO - [2022-07-27 23:18:03,609] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:18:03,616] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:18:03,625] {logging_mixin.py:115} INFO - [2022-07-27 23:18:03,625] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:03,636] {logging_mixin.py:115} INFO - [2022-07-27 23:18:03,635] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:18:03,644] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:18:35,605] {processor.py:153} INFO - Started process (PID=9266) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:18:35,605] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:18:35,605] {logging_mixin.py:115} INFO - [2022-07-27 23:18:35,605] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:18:35,612] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:18:35,627] {logging_mixin.py:115} INFO - [2022-07-27 23:18:35,627] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:35,637] {logging_mixin.py:115} INFO - [2022-07-27 23:18:35,637] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:18:35,646] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2022-07-27 23:19:09,336] {processor.py:153} INFO - Started process (PID=9302) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:19:09,337] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:19:09,337] {logging_mixin.py:115} INFO - [2022-07-27 23:19:09,337] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:19:09,344] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:19:09,354] {logging_mixin.py:115} INFO - [2022-07-27 23:19:09,354] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:09,365] {logging_mixin.py:115} INFO - [2022-07-27 23:19:09,365] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:19:09,378] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.044 seconds
+[2022-07-27 23:19:42,352] {processor.py:153} INFO - Started process (PID=9337) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:19:42,352] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:19:42,353] {logging_mixin.py:115} INFO - [2022-07-27 23:19:42,353] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:19:42,360] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:19:42,369] {logging_mixin.py:115} INFO - [2022-07-27 23:19:42,368] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:42,378] {logging_mixin.py:115} INFO - [2022-07-27 23:19:42,378] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:19:42,387] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.036 seconds
+[2022-07-27 23:20:17,164] {processor.py:153} INFO - Started process (PID=9374) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:20:17,164] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:20:17,164] {logging_mixin.py:115} INFO - [2022-07-27 23:20:17,164] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:20:17,171] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:20:17,181] {logging_mixin.py:115} INFO - [2022-07-27 23:20:17,181] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:17,193] {logging_mixin.py:115} INFO - [2022-07-27 23:20:17,192] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:20:17,201] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-07-27 23:20:50,705] {processor.py:153} INFO - Started process (PID=9412) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:20:50,705] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:20:50,706] {logging_mixin.py:115} INFO - [2022-07-27 23:20:50,706] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:20:50,712] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:20:50,721] {logging_mixin.py:115} INFO - [2022-07-27 23:20:50,721] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:50,731] {logging_mixin.py:115} INFO - [2022-07-27 23:20:50,731] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:20:50,740] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.037 seconds
+[2022-07-27 23:21:23,388] {processor.py:153} INFO - Started process (PID=9460) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:21:23,388] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:21:23,389] {logging_mixin.py:115} INFO - [2022-07-27 23:21:23,389] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:21:23,396] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:21:23,406] {logging_mixin.py:115} INFO - [2022-07-27 23:21:23,406] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:23,416] {logging_mixin.py:115} INFO - [2022-07-27 23:21:23,416] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:21:23,431] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2022-07-27 23:21:57,099] {processor.py:153} INFO - Started process (PID=9513) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:21:57,099] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-07-27 23:21:57,100] {logging_mixin.py:115} INFO - [2022-07-27 23:21:57,100] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:21:57,108] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-07-27 23:21:57,120] {logging_mixin.py:115} INFO - [2022-07-27 23:21:57,120] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:57,133] {logging_mixin.py:115} INFO - [2022-07-27 23:21:57,133] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-07-27T00:00:00+00:00, run_after=2022-07-28T00:00:00+00:00
+[2022-07-27 23:21:57,144] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds

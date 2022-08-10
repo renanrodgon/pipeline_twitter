@@ -1,0 +1,140 @@
+[2022-07-31 21:13:02,602] {processor.py:153} INFO - Started process (PID=4986) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:13:02,602] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:13:02,603] {logging_mixin.py:115} INFO - [2022-07-31 21:13:02,603] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:13:02,615] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:13:02,622] {logging_mixin.py:115} INFO - [2022-07-31 21:13:02,622] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:02,633] {logging_mixin.py:115} INFO - [2022-07-31 21:13:02,633] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:10:00+00:00, run_after=2022-08-01T00:12:00+00:00
+[2022-07-31 21:13:02,641] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-07-31 21:13:36,779] {processor.py:153} INFO - Started process (PID=5036) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:13:36,780] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:13:36,780] {logging_mixin.py:115} INFO - [2022-07-31 21:13:36,780] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:13:36,793] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:13:36,802] {logging_mixin.py:115} INFO - [2022-07-31 21:13:36,802] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:36,814] {logging_mixin.py:115} INFO - [2022-07-31 21:13:36,814] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:10:00+00:00, run_after=2022-08-01T00:12:00+00:00
+[2022-07-31 21:13:36,824] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds
+[2022-07-31 21:14:10,416] {processor.py:153} INFO - Started process (PID=5075) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:14:10,417] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:14:10,417] {logging_mixin.py:115} INFO - [2022-07-31 21:14:10,417] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:14:10,430] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:14:10,440] {logging_mixin.py:115} INFO - [2022-07-31 21:14:10,440] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:10,454] {logging_mixin.py:115} INFO - [2022-07-31 21:14:10,454] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:12:00+00:00, run_after=2022-08-01T00:14:00+00:00
+[2022-07-31 21:14:10,465] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-07-31 21:14:43,460] {processor.py:153} INFO - Started process (PID=5127) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:14:43,460] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:14:43,460] {logging_mixin.py:115} INFO - [2022-07-31 21:14:43,460] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:14:43,472] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:14:43,480] {logging_mixin.py:115} INFO - [2022-07-31 21:14:43,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:43,491] {logging_mixin.py:115} INFO - [2022-07-31 21:14:43,491] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:12:00+00:00, run_after=2022-08-01T00:14:00+00:00
+[2022-07-31 21:14:43,499] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-07-31 21:15:17,141] {processor.py:153} INFO - Started process (PID=5183) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:15:17,141] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:15:17,142] {logging_mixin.py:115} INFO - [2022-07-31 21:15:17,142] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:15:17,154] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:15:17,162] {logging_mixin.py:115} INFO - [2022-07-31 21:15:17,162] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:17,173] {logging_mixin.py:115} INFO - [2022-07-31 21:15:17,173] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:12:00+00:00, run_after=2022-08-01T00:14:00+00:00
+[2022-07-31 21:15:17,181] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-07-31 21:15:51,813] {processor.py:153} INFO - Started process (PID=5226) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:15:51,814] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:15:51,814] {logging_mixin.py:115} INFO - [2022-07-31 21:15:51,814] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:15:51,826] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:15:51,833] {logging_mixin.py:115} INFO - [2022-07-31 21:15:51,833] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:51,845] {logging_mixin.py:115} INFO - [2022-07-31 21:15:51,844] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:12:00+00:00, run_after=2022-08-01T00:14:00+00:00
+[2022-07-31 21:15:51,852] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-07-31 21:16:23,737] {processor.py:153} INFO - Started process (PID=5266) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:16:23,737] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:16:23,738] {logging_mixin.py:115} INFO - [2022-07-31 21:16:23,738] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:16:23,750] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:16:23,758] {logging_mixin.py:115} INFO - [2022-07-31 21:16:23,758] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:23,769] {logging_mixin.py:115} INFO - [2022-07-31 21:16:23,769] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:14:00+00:00, run_after=2022-08-01T00:16:00+00:00
+[2022-07-31 21:16:23,777] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-07-31 21:16:59,662] {processor.py:153} INFO - Started process (PID=5310) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:16:59,662] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:16:59,663] {logging_mixin.py:115} INFO - [2022-07-31 21:16:59,663] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:16:59,675] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:16:59,683] {logging_mixin.py:115} INFO - [2022-07-31 21:16:59,683] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:59,694] {logging_mixin.py:115} INFO - [2022-07-31 21:16:59,694] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:14:00+00:00, run_after=2022-08-01T00:16:00+00:00
+[2022-07-31 21:16:59,702] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-07-31 21:17:33,936] {processor.py:153} INFO - Started process (PID=5360) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:17:33,936] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 21:17:33,936] {logging_mixin.py:115} INFO - [2022-07-31 21:17:33,936] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:17:33,948] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 21:17:33,956] {logging_mixin.py:115} INFO - [2022-07-31 21:17:33,956] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:33,967] {logging_mixin.py:115} INFO - [2022-07-31 21:17:33,967] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T00:14:00+00:00, run_after=2022-08-01T00:16:00+00:00
+[2022-07-31 21:17:33,976] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-07-31 22:20:51,797] {processor.py:153} INFO - Started process (PID=7037) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:20:51,798] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:20:51,798] {logging_mixin.py:115} INFO - [2022-07-31 22:20:51,798] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:20:51,810] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:20:51,818] {logging_mixin.py:115} INFO - [2022-07-31 22:20:51,818] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:20:51,829] {logging_mixin.py:115} INFO - [2022-07-31 22:20:51,829] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:18:00+00:00, run_after=2022-08-01T01:20:00+00:00
+[2022-07-31 22:20:51,837] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-07-31 22:21:25,981] {processor.py:153} INFO - Started process (PID=7090) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:21:25,981] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:21:25,981] {logging_mixin.py:115} INFO - [2022-07-31 22:21:25,981] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:21:25,994] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:21:26,003] {logging_mixin.py:115} INFO - [2022-07-31 22:21:26,003] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:26,014] {logging_mixin.py:115} INFO - [2022-07-31 22:21:26,014] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:18:00+00:00, run_after=2022-08-01T01:20:00+00:00
+[2022-07-31 22:21:26,022] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-07-31 22:21:59,621] {processor.py:153} INFO - Started process (PID=7141) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:21:59,622] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:21:59,622] {logging_mixin.py:115} INFO - [2022-07-31 22:21:59,622] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:21:59,634] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:21:59,642] {logging_mixin.py:115} INFO - [2022-07-31 22:21:59,642] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:59,653] {logging_mixin.py:115} INFO - [2022-07-31 22:21:59,653] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:18:00+00:00, run_after=2022-08-01T01:20:00+00:00
+[2022-07-31 22:21:59,661] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-07-31 22:22:32,687] {processor.py:153} INFO - Started process (PID=7194) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:22:32,687] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:22:32,688] {logging_mixin.py:115} INFO - [2022-07-31 22:22:32,688] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:22:32,700] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:22:32,708] {logging_mixin.py:115} INFO - [2022-07-31 22:22:32,708] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:32,720] {logging_mixin.py:115} INFO - [2022-07-31 22:22:32,720] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:20:00+00:00, run_after=2022-08-01T01:22:00+00:00
+[2022-07-31 22:22:32,732] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds
+[2022-07-31 22:23:06,397] {processor.py:153} INFO - Started process (PID=7234) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:23:06,398] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:23:06,398] {logging_mixin.py:115} INFO - [2022-07-31 22:23:06,398] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:23:06,411] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:23:06,419] {logging_mixin.py:115} INFO - [2022-07-31 22:23:06,418] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:06,430] {logging_mixin.py:115} INFO - [2022-07-31 22:23:06,429] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:20:00+00:00, run_after=2022-08-01T01:22:00+00:00
+[2022-07-31 22:23:06,438] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-07-31 22:23:40,905] {processor.py:153} INFO - Started process (PID=7279) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:23:40,905] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:23:40,905] {logging_mixin.py:115} INFO - [2022-07-31 22:23:40,905] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:23:40,918] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:23:40,926] {logging_mixin.py:115} INFO - [2022-07-31 22:23:40,926] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:40,937] {logging_mixin.py:115} INFO - [2022-07-31 22:23:40,937] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:20:00+00:00, run_after=2022-08-01T01:22:00+00:00
+[2022-07-31 22:23:40,945] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-07-31 22:24:14,255] {processor.py:153} INFO - Started process (PID=7382) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:24:14,256] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:24:14,256] {logging_mixin.py:115} INFO - [2022-07-31 22:24:14,256] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:24:14,270] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:24:14,279] {logging_mixin.py:115} INFO - [2022-07-31 22:24:14,279] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:14,291] {logging_mixin.py:115} INFO - [2022-07-31 22:24:14,291] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:22:00+00:00, run_after=2022-08-01T01:24:00+00:00
+[2022-07-31 22:24:14,300] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-07-31 22:24:49,017] {processor.py:153} INFO - Started process (PID=7439) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:24:49,017] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:24:49,017] {logging_mixin.py:115} INFO - [2022-07-31 22:24:49,017] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:24:49,030] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:24:49,038] {logging_mixin.py:115} INFO - [2022-07-31 22:24:49,037] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:49,049] {logging_mixin.py:115} INFO - [2022-07-31 22:24:49,048] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:22:00+00:00, run_after=2022-08-01T01:24:00+00:00
+[2022-07-31 22:24:49,059] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-07-31 22:25:20,964] {processor.py:153} INFO - Started process (PID=7522) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:25:20,964] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:25:20,964] {logging_mixin.py:115} INFO - [2022-07-31 22:25:20,964] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:25:20,979] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:25:20,988] {logging_mixin.py:115} INFO - [2022-07-31 22:25:20,988] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:21,007] {logging_mixin.py:115} INFO - [2022-07-31 22:25:21,007] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:22:00+00:00, run_after=2022-08-01T01:24:00+00:00
+[2022-07-31 22:25:21,019] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-07-31 22:25:53,827] {processor.py:153} INFO - Started process (PID=7560) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:25:53,827] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:25:53,828] {logging_mixin.py:115} INFO - [2022-07-31 22:25:53,828] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:25:53,840] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:25:53,848] {logging_mixin.py:115} INFO - [2022-07-31 22:25:53,848] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:53,859] {logging_mixin.py:115} INFO - [2022-07-31 22:25:53,859] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:22:00+00:00, run_after=2022-08-01T01:24:00+00:00
+[2022-07-31 22:25:53,868] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-07-31 22:26:26,530] {processor.py:153} INFO - Started process (PID=7605) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:26:26,530] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-07-31 22:26:26,530] {logging_mixin.py:115} INFO - [2022-07-31 22:26:26,530] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:26:26,543] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-07-31 22:26:26,552] {logging_mixin.py:115} INFO - [2022-07-31 22:26:26,552] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:26:26,564] {logging_mixin.py:115} INFO - [2022-07-31 22:26:26,564] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-01T01:24:00+00:00, run_after=2022-08-01T01:26:00+00:00
+[2022-07-31 22:26:26,574] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds

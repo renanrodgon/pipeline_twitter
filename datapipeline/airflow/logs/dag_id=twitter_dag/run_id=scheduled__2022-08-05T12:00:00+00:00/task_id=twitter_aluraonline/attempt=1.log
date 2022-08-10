@@ -1,0 +1,28 @@
+[2022-08-09 23:58:01,761] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: twitter_dag.twitter_aluraonline scheduled__2022-08-05T12:00:00+00:00 [queued]>
+[2022-08-09 23:58:01,766] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: twitter_dag.twitter_aluraonline scheduled__2022-08-05T12:00:00+00:00 [queued]>
+[2022-08-09 23:58:01,766] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-09 23:58:01,766] {taskinstance.py:1377} INFO - Starting attempt 1 of 1
+[2022-08-09 23:58:01,767] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-09 23:58:01,776] {taskinstance.py:1397} INFO - Executing <Task(TwitterOperator): twitter_aluraonline> on 2022-08-05 12:00:00+00:00
+[2022-08-09 23:58:01,779] {standard_task_runner.py:52} INFO - Started process 12070 to run task
+[2022-08-09 23:58:01,781] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'twitter_dag', 'twitter_aluraonline', 'scheduled__2022-08-05T12:00:00+00:00', '--job-id', '22', '--raw', '--subdir', 'DAGS_FOLDER/twitter_dag.py', '--cfg-path', '/tmp/tmpc2ga2bt_', '--error-file', '/tmp/tmphfeksimv']
+[2022-08-09 23:58:01,782] {standard_task_runner.py:80} INFO - Job 22: Subtask twitter_aluraonline
+[2022-08-09 23:58:01,818] {task_command.py:371} INFO - Running <TaskInstance: twitter_dag.twitter_aluraonline scheduled__2022-08-05T12:00:00+00:00 [running]> on host renan-VirtualBox
+[2022-08-09 23:58:01,846] {logging_mixin.py:115} WARNING - /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/utils/context.py:202 AirflowContextDeprecationWarning: Accessing 'execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_start' or 'logical_date' instead.
+[2022-08-09 23:58:01,848] {logging_mixin.py:115} WARNING - /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/utils/context.py:202 AirflowContextDeprecationWarning: Accessing 'next_execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_end' instead.
+[2022-08-09 23:58:01,869] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=twitter_dag
+AIRFLOW_CTX_TASK_ID=twitter_aluraonline
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-05T12:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-08-05T12:00:00+00:00
+[2022-08-09 23:58:01,874] {base.py:68} INFO - Using connection ID 'twitter_default' for task execution.
+[2022-08-09 23:58:01,875] {twitter_hook.py:39} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-08-05T12:00:00.00Z&end_time=2022-08-06T12:00:00.00Z
+[2022-08-09 23:58:02,152] {twitter_hook.py:39} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-08-05T12:00:00.00Z&end_time=2022-08-06T12:00:00.00Z&next_token=b26v89c19zqg8o3fpz5m89dd87is2lhho6fex06piajy5
+[2022-08-09 23:58:02,409] {twitter_hook.py:39} INFO - URL: https://api.twitter.com/2/tweets/search/recent?query=AluraOnline&tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text&expansions=author_id&user.fields=id,name,username,created_at&start_time=2022-08-05T12:00:00.00Z&end_time=2022-08-06T12:00:00.00Z&next_token=b26v89c19zqg8o3fpz5m855ex6vn927v8l326hxg96z5p
+[2022-08-09 23:58:02,624] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=twitter_dag, task_id=twitter_aluraonline, execution_date=20220805T120000, start_date=20220810T025801, end_date=20220810T025802
+[2022-08-09 23:58:02,650] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-08-09 23:58:02,723] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

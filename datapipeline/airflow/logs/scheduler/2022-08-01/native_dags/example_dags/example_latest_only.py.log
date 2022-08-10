@@ -1,0 +1,133 @@
+[2022-07-31 21:13:12,245] {processor.py:153} INFO - Started process (PID=4999) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:13:12,246] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:13:12,246] {logging_mixin.py:115} INFO - [2022-07-31 21:13:12,246] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:13:12,249] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:13:12,260] {logging_mixin.py:115} INFO - [2022-07-31 21:13:12,260] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:12,269] {logging_mixin.py:115} INFO - [2022-07-31 21:13:12,269] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:13:12.269706+00:00, run_after=2022-08-01T00:13:12.269706+00:00
+[2022-07-31 21:13:12,278] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds
+[2022-07-31 21:13:47,050] {processor.py:153} INFO - Started process (PID=5046) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:13:47,051] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:13:47,051] {logging_mixin.py:115} INFO - [2022-07-31 21:13:47,051] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:13:47,054] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:13:47,067] {logging_mixin.py:115} INFO - [2022-07-31 21:13:47,067] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:47,078] {logging_mixin.py:115} INFO - [2022-07-31 21:13:47,078] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:13:47.078394+00:00, run_after=2022-08-01T00:13:47.078394+00:00
+[2022-07-31 21:13:47,088] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2022-07-31 21:14:19,550] {processor.py:153} INFO - Started process (PID=5098) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:14:19,550] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:14:19,550] {logging_mixin.py:115} INFO - [2022-07-31 21:14:19,550] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:14:19,553] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:14:19,564] {logging_mixin.py:115} INFO - [2022-07-31 21:14:19,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:19,573] {logging_mixin.py:115} INFO - [2022-07-31 21:14:19,573] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:14:19.573484+00:00, run_after=2022-08-01T00:14:19.573484+00:00
+[2022-07-31 21:14:19,582] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds
+[2022-07-31 21:14:52,604] {processor.py:153} INFO - Started process (PID=5138) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:14:52,605] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:14:52,605] {logging_mixin.py:115} INFO - [2022-07-31 21:14:52,605] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:14:52,608] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:14:52,618] {logging_mixin.py:115} INFO - [2022-07-31 21:14:52,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:52,627] {logging_mixin.py:115} INFO - [2022-07-31 21:14:52,627] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:14:52.627675+00:00, run_after=2022-08-01T00:14:52.627675+00:00
+[2022-07-31 21:14:52,636] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2022-07-31 21:15:27,405] {processor.py:153} INFO - Started process (PID=5194) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:15:27,406] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:15:27,406] {logging_mixin.py:115} INFO - [2022-07-31 21:15:27,406] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:15:27,409] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:15:27,420] {logging_mixin.py:115} INFO - [2022-07-31 21:15:27,420] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:27,429] {logging_mixin.py:115} INFO - [2022-07-31 21:15:27,429] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:15:27.429311+00:00, run_after=2022-08-01T00:15:27.429311+00:00
+[2022-07-31 21:15:27,437] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds
+[2022-07-31 21:16:01,799] {processor.py:153} INFO - Started process (PID=5240) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:16:01,800] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:16:01,800] {logging_mixin.py:115} INFO - [2022-07-31 21:16:01,800] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:16:01,802] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:16:01,813] {logging_mixin.py:115} INFO - [2022-07-31 21:16:01,813] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:01,822] {logging_mixin.py:115} INFO - [2022-07-31 21:16:01,822] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:16:01.822644+00:00, run_after=2022-08-01T00:16:01.822644+00:00
+[2022-07-31 21:16:01,831] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2022-07-31 21:16:33,907] {processor.py:153} INFO - Started process (PID=5276) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:16:33,907] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:16:33,908] {logging_mixin.py:115} INFO - [2022-07-31 21:16:33,908] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:16:33,911] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:16:33,921] {logging_mixin.py:115} INFO - [2022-07-31 21:16:33,921] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:33,930] {logging_mixin.py:115} INFO - [2022-07-31 21:16:33,930] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:16:33.930476+00:00, run_after=2022-08-01T00:16:33.930476+00:00
+[2022-07-31 21:16:33,939] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2022-07-31 21:17:11,550] {processor.py:153} INFO - Started process (PID=5332) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:17:11,550] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:17:11,551] {logging_mixin.py:115} INFO - [2022-07-31 21:17:11,551] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:17:11,553] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:17:11,567] {logging_mixin.py:115} INFO - [2022-07-31 21:17:11,567] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:11,580] {logging_mixin.py:115} INFO - [2022-07-31 21:17:11,580] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:17:11.580409+00:00, run_after=2022-08-01T00:17:11.580409+00:00
+[2022-07-31 21:17:11,590] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2022-07-31 21:17:46,864] {processor.py:153} INFO - Started process (PID=5373) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:17:46,864] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 21:17:46,864] {logging_mixin.py:115} INFO - [2022-07-31 21:17:46,864] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:17:46,867] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 21:17:46,878] {logging_mixin.py:115} INFO - [2022-07-31 21:17:46,878] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:46,887] {logging_mixin.py:115} INFO - [2022-07-31 21:17:46,887] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T20:17:46.887597+00:00, run_after=2022-08-01T00:17:46.887597+00:00
+[2022-07-31 21:17:46,896] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds
+[2022-07-31 22:21:01,441] {processor.py:153} INFO - Started process (PID=7047) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:21:01,442] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:21:01,442] {logging_mixin.py:115} INFO - [2022-07-31 22:21:01,442] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:21:01,445] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:21:01,455] {logging_mixin.py:115} INFO - [2022-07-31 22:21:01,455] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:01,465] {logging_mixin.py:115} INFO - [2022-07-31 22:21:01,465] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:21:01.465076+00:00, run_after=2022-08-01T01:21:01.465076+00:00
+[2022-07-31 22:21:01,473] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2022-07-31 22:21:36,242] {processor.py:153} INFO - Started process (PID=7106) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:21:36,243] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:21:36,243] {logging_mixin.py:115} INFO - [2022-07-31 22:21:36,243] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:21:36,246] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:21:36,256] {logging_mixin.py:115} INFO - [2022-07-31 22:21:36,256] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:36,265] {logging_mixin.py:115} INFO - [2022-07-31 22:21:36,265] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:21:36.265528+00:00, run_after=2022-08-01T01:21:36.265528+00:00
+[2022-07-31 22:21:36,274] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds
+[2022-07-31 22:22:08,756] {processor.py:153} INFO - Started process (PID=7153) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:22:08,756] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:22:08,756] {logging_mixin.py:115} INFO - [2022-07-31 22:22:08,756] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:22:08,759] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:22:08,770] {logging_mixin.py:115} INFO - [2022-07-31 22:22:08,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:08,779] {logging_mixin.py:115} INFO - [2022-07-31 22:22:08,779] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:22:08.779270+00:00, run_after=2022-08-01T01:22:08.779270+00:00
+[2022-07-31 22:22:08,788] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds
+[2022-07-31 22:22:41,838] {processor.py:153} INFO - Started process (PID=7205) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:22:41,838] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:22:41,839] {logging_mixin.py:115} INFO - [2022-07-31 22:22:41,839] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:22:41,842] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:22:41,853] {logging_mixin.py:115} INFO - [2022-07-31 22:22:41,853] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:41,864] {logging_mixin.py:115} INFO - [2022-07-31 22:22:41,864] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:22:41.864552+00:00, run_after=2022-08-01T01:22:41.864552+00:00
+[2022-07-31 22:22:41,874] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.038 seconds
+[2022-07-31 22:23:16,671] {processor.py:153} INFO - Started process (PID=7247) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:23:16,677] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:23:16,677] {logging_mixin.py:115} INFO - [2022-07-31 22:23:16,677] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:23:16,680] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:23:16,693] {logging_mixin.py:115} INFO - [2022-07-31 22:23:16,693] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:16,710] {logging_mixin.py:115} INFO - [2022-07-31 22:23:16,710] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:23:16.710195+00:00, run_after=2022-08-01T01:23:16.710195+00:00
+[2022-07-31 22:23:16,726] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.057 seconds
+[2022-07-31 22:23:49,907] {processor.py:153} INFO - Started process (PID=7289) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:23:49,907] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:23:49,908] {logging_mixin.py:115} INFO - [2022-07-31 22:23:49,908] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:23:49,911] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:23:49,923] {logging_mixin.py:115} INFO - [2022-07-31 22:23:49,923] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:49,934] {logging_mixin.py:115} INFO - [2022-07-31 22:23:49,934] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:23:49.934072+00:00, run_after=2022-08-01T01:23:49.934072+00:00
+[2022-07-31 22:23:49,943] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.038 seconds
+[2022-07-31 22:24:24,254] {processor.py:153} INFO - Started process (PID=7407) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:24:24,254] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:24:24,254] {logging_mixin.py:115} INFO - [2022-07-31 22:24:24,254] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:24:24,257] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:24:24,268] {logging_mixin.py:115} INFO - [2022-07-31 22:24:24,268] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:24,279] {logging_mixin.py:115} INFO - [2022-07-31 22:24:24,279] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:24:24.279066+00:00, run_after=2022-08-01T01:24:24.279066+00:00
+[2022-07-31 22:24:24,288] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.036 seconds
+[2022-07-31 22:24:58,147] {processor.py:153} INFO - Started process (PID=7460) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:24:58,148] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:24:58,148] {logging_mixin.py:115} INFO - [2022-07-31 22:24:58,148] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:24:58,151] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:24:58,168] {logging_mixin.py:115} INFO - [2022-07-31 22:24:58,168] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:58,183] {logging_mixin.py:115} INFO - [2022-07-31 22:24:58,183] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:24:58.183009+00:00, run_after=2022-08-01T01:24:58.183009+00:00
+[2022-07-31 22:24:58,198] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-07-31 22:25:32,226] {processor.py:153} INFO - Started process (PID=7534) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:25:32,226] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:25:32,227] {logging_mixin.py:115} INFO - [2022-07-31 22:25:32,227] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:25:32,230] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:25:32,245] {logging_mixin.py:115} INFO - [2022-07-31 22:25:32,245] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:32,257] {logging_mixin.py:115} INFO - [2022-07-31 22:25:32,256] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:25:32.256736+00:00, run_after=2022-08-01T01:25:32.256736+00:00
+[2022-07-31 22:25:32,272] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2022-07-31 22:26:07,121] {processor.py:153} INFO - Started process (PID=7579) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:26:07,122] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-07-31 22:26:07,122] {logging_mixin.py:115} INFO - [2022-07-31 22:26:07,122] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:26:07,125] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-07-31 22:26:07,136] {logging_mixin.py:115} INFO - [2022-07-31 22:26:07,136] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:26:07,145] {logging_mixin.py:115} INFO - [2022-07-31 22:26:07,145] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-07-31T21:26:07.145546+00:00, run_after=2022-08-01T01:26:07.145546+00:00
+[2022-07-31 22:26:07,154] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.034 seconds

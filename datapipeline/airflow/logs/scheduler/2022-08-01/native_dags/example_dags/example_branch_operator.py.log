@@ -1,0 +1,133 @@
+[2022-07-31 21:13:16,253] {processor.py:153} INFO - Started process (PID=5006) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:13:16,253] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:13:16,254] {logging_mixin.py:115} INFO - [2022-07-31 21:13:16,254] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:13:16,260] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:13:16,270] {logging_mixin.py:115} INFO - [2022-07-31 21:13:16,270] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:16,280] {logging_mixin.py:115} INFO - [2022-07-31 21:13:16,280] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:13:16,290] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.039 seconds
+[2022-07-31 21:13:49,938] {processor.py:153} INFO - Started process (PID=5050) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:13:49,938] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:13:49,938] {logging_mixin.py:115} INFO - [2022-07-31 21:13:49,938] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:13:49,945] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:13:49,955] {logging_mixin.py:115} INFO - [2022-07-31 21:13:49,955] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:49,965] {logging_mixin.py:115} INFO - [2022-07-31 21:13:49,965] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:13:49,974] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.038 seconds
+[2022-07-31 21:14:25,811] {processor.py:153} INFO - Started process (PID=5106) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:14:25,812] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:14:25,812] {logging_mixin.py:115} INFO - [2022-07-31 21:14:25,812] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:14:25,819] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:14:25,830] {logging_mixin.py:115} INFO - [2022-07-31 21:14:25,830] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:25,840] {logging_mixin.py:115} INFO - [2022-07-31 21:14:25,840] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:14:25,849] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.039 seconds
+[2022-07-31 21:14:58,787] {processor.py:153} INFO - Started process (PID=5144) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:14:58,787] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:14:58,787] {logging_mixin.py:115} INFO - [2022-07-31 21:14:58,787] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:14:58,794] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:14:58,804] {logging_mixin.py:115} INFO - [2022-07-31 21:14:58,804] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:58,814] {logging_mixin.py:115} INFO - [2022-07-31 21:14:58,814] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:14:58,822] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.037 seconds
+[2022-07-31 21:15:35,647] {processor.py:153} INFO - Started process (PID=5202) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:15:35,648] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:15:35,648] {logging_mixin.py:115} INFO - [2022-07-31 21:15:35,648] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:15:35,654] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:15:35,665] {logging_mixin.py:115} INFO - [2022-07-31 21:15:35,665] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:35,675] {logging_mixin.py:115} INFO - [2022-07-31 21:15:35,675] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:15:35,685] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.040 seconds
+[2022-07-31 21:16:09,466] {processor.py:153} INFO - Started process (PID=5249) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:16:09,466] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:16:09,466] {logging_mixin.py:115} INFO - [2022-07-31 21:16:09,466] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:16:09,473] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:16:09,483] {logging_mixin.py:115} INFO - [2022-07-31 21:16:09,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:09,493] {logging_mixin.py:115} INFO - [2022-07-31 21:16:09,493] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:16:09,501] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.037 seconds
+[2022-07-31 21:16:44,263] {processor.py:153} INFO - Started process (PID=5287) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:16:44,264] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:16:44,264] {logging_mixin.py:115} INFO - [2022-07-31 21:16:44,264] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:16:44,270] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:16:44,281] {logging_mixin.py:115} INFO - [2022-07-31 21:16:44,281] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:44,291] {logging_mixin.py:115} INFO - [2022-07-31 21:16:44,291] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:16:44,300] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.038 seconds
+[2022-07-31 21:17:19,296] {processor.py:153} INFO - Started process (PID=5345) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:17:19,297] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:17:19,297] {logging_mixin.py:115} INFO - [2022-07-31 21:17:19,297] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:17:19,303] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:17:19,314] {logging_mixin.py:115} INFO - [2022-07-31 21:17:19,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:19,324] {logging_mixin.py:115} INFO - [2022-07-31 21:17:19,324] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:17:19,334] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.039 seconds
+[2022-07-31 21:17:52,983] {processor.py:153} INFO - Started process (PID=5397) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:17:52,983] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 21:17:52,983] {logging_mixin.py:115} INFO - [2022-07-31 21:17:52,983] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:17:52,992] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 21:17:53,002] {logging_mixin.py:115} INFO - [2022-07-31 21:17:53,002] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:53,014] {logging_mixin.py:115} INFO - [2022-07-31 21:17:53,014] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:17:53,027] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.046 seconds
+[2022-07-31 22:21:05,448] {processor.py:153} INFO - Started process (PID=7051) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:21:05,448] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:21:05,448] {logging_mixin.py:115} INFO - [2022-07-31 22:21:05,448] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:21:05,455] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:21:05,466] {logging_mixin.py:115} INFO - [2022-07-31 22:21:05,466] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:05,476] {logging_mixin.py:115} INFO - [2022-07-31 22:21:05,475] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:21:05,485] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.039 seconds
+[2022-07-31 22:21:39,122] {processor.py:153} INFO - Started process (PID=7110) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:21:39,122] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:21:39,122] {logging_mixin.py:115} INFO - [2022-07-31 22:21:39,122] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:21:39,129] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:21:39,140] {logging_mixin.py:115} INFO - [2022-07-31 22:21:39,140] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:39,150] {logging_mixin.py:115} INFO - [2022-07-31 22:21:39,150] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:21:39,158] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.038 seconds
+[2022-07-31 22:22:15,026] {processor.py:153} INFO - Started process (PID=7167) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:22:15,026] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:22:15,026] {logging_mixin.py:115} INFO - [2022-07-31 22:22:15,026] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:22:15,033] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:22:15,044] {logging_mixin.py:115} INFO - [2022-07-31 22:22:15,044] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:15,054] {logging_mixin.py:115} INFO - [2022-07-31 22:22:15,054] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:22:15,066] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.042 seconds
+[2022-07-31 22:22:48,004] {processor.py:153} INFO - Started process (PID=7211) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:22:48,005] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:22:48,005] {logging_mixin.py:115} INFO - [2022-07-31 22:22:48,005] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:22:48,012] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:22:48,025] {logging_mixin.py:115} INFO - [2022-07-31 22:22:48,025] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:48,036] {logging_mixin.py:115} INFO - [2022-07-31 22:22:48,036] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:22:48,047] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.044 seconds
+[2022-07-31 22:23:24,914] {processor.py:153} INFO - Started process (PID=7257) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:23:24,914] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:23:24,915] {logging_mixin.py:115} INFO - [2022-07-31 22:23:24,914] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:23:24,921] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:23:24,932] {logging_mixin.py:115} INFO - [2022-07-31 22:23:24,932] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:24,942] {logging_mixin.py:115} INFO - [2022-07-31 22:23:24,942] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:23:24,951] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.038 seconds
+[2022-07-31 22:23:57,723] {processor.py:153} INFO - Started process (PID=7298) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:23:57,723] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:23:57,724] {logging_mixin.py:115} INFO - [2022-07-31 22:23:57,724] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:23:57,732] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:23:57,744] {logging_mixin.py:115} INFO - [2022-07-31 22:23:57,744] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:57,756] {logging_mixin.py:115} INFO - [2022-07-31 22:23:57,755] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:23:57,767] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.046 seconds
+[2022-07-31 22:24:37,669] {processor.py:153} INFO - Started process (PID=7420) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:24:37,669] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:24:37,669] {logging_mixin.py:115} INFO - [2022-07-31 22:24:37,669] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:24:37,676] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:24:37,687] {logging_mixin.py:115} INFO - [2022-07-31 22:24:37,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:37,697] {logging_mixin.py:115} INFO - [2022-07-31 22:24:37,697] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:24:37,707] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.039 seconds
+[2022-07-31 22:25:12,006] {processor.py:153} INFO - Started process (PID=7511) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:25:12,007] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:25:12,007] {logging_mixin.py:115} INFO - [2022-07-31 22:25:12,007] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:25:12,014] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:25:12,027] {logging_mixin.py:115} INFO - [2022-07-31 22:25:12,027] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:12,038] {logging_mixin.py:115} INFO - [2022-07-31 22:25:12,038] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:25:12,049] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.044 seconds
+[2022-07-31 22:25:47,755] {processor.py:153} INFO - Started process (PID=7550) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:25:47,755] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:25:47,756] {logging_mixin.py:115} INFO - [2022-07-31 22:25:47,756] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:25:47,764] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:25:47,773] {logging_mixin.py:115} INFO - [2022-07-31 22:25:47,773] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:47,783] {logging_mixin.py:115} INFO - [2022-07-31 22:25:47,783] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:25:47,792] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.038 seconds
+[2022-07-31 22:26:20,610] {processor.py:153} INFO - Started process (PID=7599) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:26:20,611] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-07-31 22:26:20,611] {logging_mixin.py:115} INFO - [2022-07-31 22:26:20,611] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:26:20,620] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-07-31 22:26:20,629] {logging_mixin.py:115} INFO - [2022-07-31 22:26:20,629] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:26:20,640] {logging_mixin.py:115} INFO - [2022-07-31 22:26:20,640] {dag.py:2968} INFO - Setting next_dagrun for example_branch_operator to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 22:26:20,649] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.040 seconds

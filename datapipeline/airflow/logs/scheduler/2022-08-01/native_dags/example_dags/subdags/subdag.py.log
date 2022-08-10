@@ -1,0 +1,100 @@
+[2022-07-31 21:13:03,735] {processor.py:153} INFO - Started process (PID=4987) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:13:03,735] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:13:03,736] {logging_mixin.py:115} INFO - [2022-07-31 21:13:03,736] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:13:03,736] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:13:03,742] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 21:13:37,773] {processor.py:153} INFO - Started process (PID=5037) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:13:37,773] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:13:37,774] {logging_mixin.py:115} INFO - [2022-07-31 21:13:37,774] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:13:37,775] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:13:37,781] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2022-07-31 21:14:11,543] {processor.py:153} INFO - Started process (PID=5088) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:14:11,543] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:14:11,544] {logging_mixin.py:115} INFO - [2022-07-31 21:14:11,543] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:14:11,545] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:14:11,553] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2022-07-31 21:14:44,585] {processor.py:153} INFO - Started process (PID=5128) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:14:44,586] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:14:44,586] {logging_mixin.py:115} INFO - [2022-07-31 21:14:44,586] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:14:44,587] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:14:44,593] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 21:15:18,265] {processor.py:153} INFO - Started process (PID=5184) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:15:18,266] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:15:18,266] {logging_mixin.py:115} INFO - [2022-07-31 21:15:18,266] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:15:18,267] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:15:18,272] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 21:15:52,946] {processor.py:153} INFO - Started process (PID=5227) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:15:52,947] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:15:52,947] {logging_mixin.py:115} INFO - [2022-07-31 21:15:52,947] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:15:52,948] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:15:52,954] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2022-07-31 21:16:24,864] {processor.py:153} INFO - Started process (PID=5267) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:16:24,865] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:16:24,865] {logging_mixin.py:115} INFO - [2022-07-31 21:16:24,865] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:16:24,866] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:16:24,871] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 21:17:00,298] {processor.py:153} INFO - Started process (PID=5311) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:17:00,299] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:17:00,299] {logging_mixin.py:115} INFO - [2022-07-31 21:17:00,299] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:17:00,300] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:17:00,306] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 21:17:34,341] {processor.py:153} INFO - Started process (PID=5361) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:17:34,342] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 21:17:34,342] {logging_mixin.py:115} INFO - [2022-07-31 21:17:34,342] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:17:34,343] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 21:17:34,349] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 22:20:52,929] {processor.py:153} INFO - Started process (PID=7038) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:20:52,930] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:20:52,930] {logging_mixin.py:115} INFO - [2022-07-31 22:20:52,930] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:20:52,931] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:20:52,937] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 22:21:26,973] {processor.py:153} INFO - Started process (PID=7091) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:21:26,973] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:21:26,973] {logging_mixin.py:115} INFO - [2022-07-31 22:21:26,973] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:21:26,974] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:21:26,981] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2022-07-31 22:22:00,749] {processor.py:153} INFO - Started process (PID=7143) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:22:00,750] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:22:00,750] {logging_mixin.py:115} INFO - [2022-07-31 22:22:00,750] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:22:00,751] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:22:00,757] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2022-07-31 22:22:33,814] {processor.py:153} INFO - Started process (PID=7195) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:22:33,814] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:22:33,814] {logging_mixin.py:115} INFO - [2022-07-31 22:22:33,814] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:22:33,815] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:22:33,822] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2022-07-31 22:23:07,525] {processor.py:153} INFO - Started process (PID=7235) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:23:07,526] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:23:07,526] {logging_mixin.py:115} INFO - [2022-07-31 22:23:07,526] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:23:07,527] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:23:07,533] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2022-07-31 22:23:41,186] {processor.py:153} INFO - Started process (PID=7280) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:23:41,187] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:23:41,187] {logging_mixin.py:115} INFO - [2022-07-31 22:23:41,187] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:23:41,188] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:23:41,194] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2022-07-31 22:24:15,382] {processor.py:153} INFO - Started process (PID=7392) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:24:15,382] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:24:15,383] {logging_mixin.py:115} INFO - [2022-07-31 22:24:15,383] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:24:15,389] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:24:15,396] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2022-07-31 22:24:50,617] {processor.py:153} INFO - Started process (PID=7441) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:24:50,617] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:24:50,618] {logging_mixin.py:115} INFO - [2022-07-31 22:24:50,618] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:24:50,618] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:24:50,625] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2022-07-31 22:25:22,092] {processor.py:153} INFO - Started process (PID=7523) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:25:22,093] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:25:22,093] {logging_mixin.py:115} INFO - [2022-07-31 22:25:22,093] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:25:22,094] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:25:22,101] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2022-07-31 22:25:54,640] {processor.py:153} INFO - Started process (PID=7562) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:25:54,641] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:25:54,641] {logging_mixin.py:115} INFO - [2022-07-31 22:25:54,641] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:25:54,643] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:25:54,649] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2022-07-31 22:26:27,655] {processor.py:153} INFO - Started process (PID=7606) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:26:27,656] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-07-31 22:26:27,656] {logging_mixin.py:115} INFO - [2022-07-31 22:26:27,656] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:26:27,657] {processor.py:653} WARNING - No viable dags retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-07-31 22:26:27,663] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds

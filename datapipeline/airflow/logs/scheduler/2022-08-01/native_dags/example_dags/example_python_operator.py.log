@@ -1,0 +1,168 @@
+[2022-07-31 21:12:50,766] {processor.py:153} INFO - Started process (PID=4964) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:12:50,766] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:12:50,767] {logging_mixin.py:115} INFO - [2022-07-31 21:12:50,767] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:12:50,778] {logging_mixin.py:115} INFO - [2022-07-31 21:12:50,778] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:12:50,779] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:12:50,787] {logging_mixin.py:115} INFO - [2022-07-31 21:12:50,787] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:12:50,797] {logging_mixin.py:115} INFO - [2022-07-31 21:12:50,797] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:12:50,808] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.044 seconds
+[2022-07-31 21:13:22,511] {processor.py:153} INFO - Started process (PID=5018) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:13:22,512] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:13:22,512] {logging_mixin.py:115} INFO - [2022-07-31 21:13:22,512] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:13:22,524] {logging_mixin.py:115} INFO - [2022-07-31 21:13:22,524] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:13:22,524] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:13:22,532] {logging_mixin.py:115} INFO - [2022-07-31 21:13:22,532] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:22,541] {logging_mixin.py:115} INFO - [2022-07-31 21:13:22,541] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:13:22,551] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2022-07-31 21:13:56,194] {processor.py:153} INFO - Started process (PID=5056) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:13:56,194] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:13:56,194] {logging_mixin.py:115} INFO - [2022-07-31 21:13:56,194] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:13:56,206] {logging_mixin.py:115} INFO - [2022-07-31 21:13:56,206] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:13:56,206] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:13:56,214] {logging_mixin.py:115} INFO - [2022-07-31 21:13:56,214] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:56,223] {logging_mixin.py:115} INFO - [2022-07-31 21:13:56,223] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:13:56,232] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2022-07-31 21:14:29,535] {processor.py:153} INFO - Started process (PID=5111) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:14:29,535] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:14:29,536] {logging_mixin.py:115} INFO - [2022-07-31 21:14:29,535] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:14:29,547] {logging_mixin.py:115} INFO - [2022-07-31 21:14:29,547] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:14:29,548] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:14:29,556] {logging_mixin.py:115} INFO - [2022-07-31 21:14:29,556] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:29,565] {logging_mixin.py:115} INFO - [2022-07-31 21:14:29,565] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:14:29,573] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 21:15:00,613] {processor.py:153} INFO - Started process (PID=5146) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:15:00,614] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:15:00,614] {logging_mixin.py:115} INFO - [2022-07-31 21:15:00,614] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:15:00,626] {logging_mixin.py:115} INFO - [2022-07-31 21:15:00,625] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:15:00,626] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:15:00,634] {logging_mixin.py:115} INFO - [2022-07-31 21:15:00,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:00,643] {logging_mixin.py:115} INFO - [2022-07-31 21:15:00,643] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:15:00,651] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2022-07-31 21:15:34,522] {processor.py:153} INFO - Started process (PID=5201) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:15:34,522] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:15:34,522] {logging_mixin.py:115} INFO - [2022-07-31 21:15:34,522] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:15:34,534] {logging_mixin.py:115} INFO - [2022-07-31 21:15:34,534] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:15:34,534] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:15:34,542] {logging_mixin.py:115} INFO - [2022-07-31 21:15:34,542] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:34,551] {logging_mixin.py:115} INFO - [2022-07-31 21:15:34,551] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:15:34,561] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2022-07-31 21:16:07,208] {processor.py:153} INFO - Started process (PID=5247) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:16:07,209] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:16:07,209] {logging_mixin.py:115} INFO - [2022-07-31 21:16:07,209] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:16:07,221] {logging_mixin.py:115} INFO - [2022-07-31 21:16:07,221] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:16:07,221] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:16:07,229] {logging_mixin.py:115} INFO - [2022-07-31 21:16:07,229] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:07,238] {logging_mixin.py:115} INFO - [2022-07-31 21:16:07,238] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:16:07,247] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 21:16:41,187] {processor.py:153} INFO - Started process (PID=5284) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:16:41,188] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:16:41,188] {logging_mixin.py:115} INFO - [2022-07-31 21:16:41,188] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:16:41,199] {logging_mixin.py:115} INFO - [2022-07-31 21:16:41,199] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:16:41,199] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:16:41,208] {logging_mixin.py:115} INFO - [2022-07-31 21:16:41,208] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:41,217] {logging_mixin.py:115} INFO - [2022-07-31 21:16:41,217] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:16:41,226] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 21:17:16,061] {processor.py:153} INFO - Started process (PID=5339) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:17:16,061] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:17:16,062] {logging_mixin.py:115} INFO - [2022-07-31 21:17:16,062] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:17:16,074] {logging_mixin.py:115} INFO - [2022-07-31 21:17:16,074] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:17:16,074] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:17:16,082] {logging_mixin.py:115} INFO - [2022-07-31 21:17:16,082] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:16,091] {logging_mixin.py:115} INFO - [2022-07-31 21:17:16,091] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:17:16,099] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 21:17:49,477] {processor.py:153} INFO - Started process (PID=5377) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:17:49,477] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 21:17:49,478] {logging_mixin.py:115} INFO - [2022-07-31 21:17:49,478] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:17:49,489] {logging_mixin.py:115} INFO - [2022-07-31 21:17:49,489] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 21:17:49,489] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 21:17:49,497] {logging_mixin.py:115} INFO - [2022-07-31 21:17:49,497] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:49,506] {logging_mixin.py:115} INFO - [2022-07-31 21:17:49,506] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 21:17:49,515] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2022-07-31 22:20:39,949] {processor.py:153} INFO - Started process (PID=7023) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:20:39,949] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:20:39,949] {logging_mixin.py:115} INFO - [2022-07-31 22:20:39,949] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:20:39,962] {logging_mixin.py:115} INFO - [2022-07-31 22:20:39,962] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:20:39,962] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:20:39,970] {logging_mixin.py:115} INFO - [2022-07-31 22:20:39,970] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:20:39,979] {logging_mixin.py:115} INFO - [2022-07-31 22:20:39,979] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:20:39,988] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2022-07-31 22:21:11,704] {processor.py:153} INFO - Started process (PID=7058) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:21:11,704] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:21:11,705] {logging_mixin.py:115} INFO - [2022-07-31 22:21:11,705] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:21:11,717] {logging_mixin.py:115} INFO - [2022-07-31 22:21:11,717] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:21:11,717] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:21:11,725] {logging_mixin.py:115} INFO - [2022-07-31 22:21:11,725] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:11,734] {logging_mixin.py:115} INFO - [2022-07-31 22:21:11,734] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:21:11,742] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 22:21:45,383] {processor.py:153} INFO - Started process (PID=7118) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:21:45,383] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:21:45,384] {logging_mixin.py:115} INFO - [2022-07-31 22:21:45,383] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:21:45,395] {logging_mixin.py:115} INFO - [2022-07-31 22:21:45,395] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:21:45,395] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:21:45,403] {logging_mixin.py:115} INFO - [2022-07-31 22:21:45,403] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:45,412] {logging_mixin.py:115} INFO - [2022-07-31 22:21:45,412] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:21:45,421] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2022-07-31 22:22:18,750] {processor.py:153} INFO - Started process (PID=7178) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:22:18,751] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:22:18,751] {logging_mixin.py:115} INFO - [2022-07-31 22:22:18,751] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:22:18,765] {logging_mixin.py:115} INFO - [2022-07-31 22:22:18,765] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:22:18,765] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:22:18,775] {logging_mixin.py:115} INFO - [2022-07-31 22:22:18,775] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:18,786] {logging_mixin.py:115} INFO - [2022-07-31 22:22:18,786] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:22:18,796] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.048 seconds
+[2022-07-31 22:22:49,858] {processor.py:153} INFO - Started process (PID=7214) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:22:49,858] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:22:49,858] {logging_mixin.py:115} INFO - [2022-07-31 22:22:49,858] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:22:49,870] {logging_mixin.py:115} INFO - [2022-07-31 22:22:49,870] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:22:49,870] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:22:49,879] {logging_mixin.py:115} INFO - [2022-07-31 22:22:49,879] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:49,888] {logging_mixin.py:115} INFO - [2022-07-31 22:22:49,888] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:22:49,898] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.042 seconds
+[2022-07-31 22:23:23,788] {processor.py:153} INFO - Started process (PID=7256) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:23:23,788] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:23:23,789] {logging_mixin.py:115} INFO - [2022-07-31 22:23:23,788] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:23:23,800] {logging_mixin.py:115} INFO - [2022-07-31 22:23:23,800] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:23:23,800] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:23:23,809] {logging_mixin.py:115} INFO - [2022-07-31 22:23:23,809] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:23,818] {logging_mixin.py:115} INFO - [2022-07-31 22:23:23,818] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:23:23,826] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 22:23:56,303] {processor.py:153} INFO - Started process (PID=7296) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:23:56,303] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:23:56,303] {logging_mixin.py:115} INFO - [2022-07-31 22:23:56,303] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:23:56,315] {logging_mixin.py:115} INFO - [2022-07-31 22:23:56,315] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:23:56,315] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:23:56,323] {logging_mixin.py:115} INFO - [2022-07-31 22:23:56,323] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:56,333] {logging_mixin.py:115} INFO - [2022-07-31 22:23:56,332] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:23:56,341] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 22:24:29,232] {processor.py:153} INFO - Started process (PID=7412) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:24:29,232] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:24:29,233] {logging_mixin.py:115} INFO - [2022-07-31 22:24:29,233] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:24:29,244] {logging_mixin.py:115} INFO - [2022-07-31 22:24:29,244] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:24:29,244] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:24:29,253] {logging_mixin.py:115} INFO - [2022-07-31 22:24:29,253] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:29,262] {logging_mixin.py:115} INFO - [2022-07-31 22:24:29,262] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:24:29,270] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 22:25:02,997] {processor.py:153} INFO - Started process (PID=7498) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:25:02,997] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:25:02,998] {logging_mixin.py:115} INFO - [2022-07-31 22:25:02,998] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:25:03,010] {logging_mixin.py:115} INFO - [2022-07-31 22:25:03,010] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:25:03,010] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:25:03,018] {logging_mixin.py:115} INFO - [2022-07-31 22:25:03,018] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:03,028] {logging_mixin.py:115} INFO - [2022-07-31 22:25:03,028] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:25:03,036] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2022-07-31 22:25:36,360] {processor.py:153} INFO - Started process (PID=7538) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:25:36,361] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:25:36,361] {logging_mixin.py:115} INFO - [2022-07-31 22:25:36,361] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:25:36,373] {logging_mixin.py:115} INFO - [2022-07-31 22:25:36,373] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:25:36,373] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:25:36,382] {logging_mixin.py:115} INFO - [2022-07-31 22:25:36,382] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:36,391] {logging_mixin.py:115} INFO - [2022-07-31 22:25:36,391] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:25:36,399] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2022-07-31 22:26:09,994] {processor.py:153} INFO - Started process (PID=7585) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:26:09,995] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-07-31 22:26:09,995] {logging_mixin.py:115} INFO - [2022-07-31 22:26:09,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:26:10,006] {logging_mixin.py:115} INFO - [2022-07-31 22:26:10,006] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-07-31 22:26:10,007] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-07-31 22:26:10,015] {logging_mixin.py:115} INFO - [2022-07-31 22:26:10,015] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:26:10,025] {logging_mixin.py:115} INFO - [2022-07-31 22:26:10,024] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-07-31 22:26:10,033] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds

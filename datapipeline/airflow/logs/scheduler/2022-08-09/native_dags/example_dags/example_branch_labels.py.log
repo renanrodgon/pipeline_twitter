@@ -1,0 +1,441 @@
+[2022-08-08 23:55:15,963] {processor.py:153} INFO - Started process (PID=9855) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:55:15,963] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-08 23:55:15,963] {logging_mixin.py:115} INFO - [2022-08-08 23:55:15,963] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:55:15,968] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:55:15,980] {logging_mixin.py:115} INFO - [2022-08-08 23:55:15,980] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-08 23:55:15,994] {logging_mixin.py:115} INFO - [2022-08-08 23:55:15,994] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-08 23:55:16,004] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.044 seconds
+[2022-08-08 23:55:47,350] {processor.py:153} INFO - Started process (PID=9953) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:55:47,350] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-08 23:55:47,350] {logging_mixin.py:115} INFO - [2022-08-08 23:55:47,350] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:55:47,355] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:55:47,364] {logging_mixin.py:115} INFO - [2022-08-08 23:55:47,364] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-08 23:55:47,376] {logging_mixin.py:115} INFO - [2022-08-08 23:55:47,376] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-08 23:55:47,385] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-08 23:56:21,882] {processor.py:153} INFO - Started process (PID=10043) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:56:21,883] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-08 23:56:21,883] {logging_mixin.py:115} INFO - [2022-08-08 23:56:21,883] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:56:21,887] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:56:21,898] {logging_mixin.py:115} INFO - [2022-08-08 23:56:21,898] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-08 23:56:21,908] {logging_mixin.py:115} INFO - [2022-08-08 23:56:21,908] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-08 23:56:21,917] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-08 23:56:56,100] {processor.py:153} INFO - Started process (PID=10080) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:56:56,101] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-08 23:56:56,101] {logging_mixin.py:115} INFO - [2022-08-08 23:56:56,101] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:56:56,105] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:56:56,116] {logging_mixin.py:115} INFO - [2022-08-08 23:56:56,116] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-08 23:56:56,126] {logging_mixin.py:115} INFO - [2022-08-08 23:56:56,126] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-08 23:56:56,137] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-08-08 23:59:30,160] {processor.py:153} INFO - Started process (PID=10262) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:59:30,161] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-08 23:59:30,161] {logging_mixin.py:115} INFO - [2022-08-08 23:59:30,161] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:59:30,166] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-08 23:59:30,176] {logging_mixin.py:115} INFO - [2022-08-08 23:59:30,176] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-08 23:59:30,188] {logging_mixin.py:115} INFO - [2022-08-08 23:59:30,188] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-08 23:59:30,198] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2022-08-09 00:00:04,986] {processor.py:153} INFO - Started process (PID=10350) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:00:04,986] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:00:04,987] {logging_mixin.py:115} INFO - [2022-08-09 00:00:04,987] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:00:04,991] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:00:05,002] {logging_mixin.py:115} INFO - [2022-08-09 00:00:05,002] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:00:05,015] {logging_mixin.py:115} INFO - [2022-08-09 00:00:05,015] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:00:05,025] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.041 seconds
+[2022-08-09 00:00:38,463] {processor.py:153} INFO - Started process (PID=10398) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:00:38,463] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:00:38,464] {logging_mixin.py:115} INFO - [2022-08-09 00:00:38,463] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:00:38,468] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:00:38,478] {logging_mixin.py:115} INFO - [2022-08-09 00:00:38,478] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:00:38,490] {logging_mixin.py:115} INFO - [2022-08-09 00:00:38,490] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:00:38,499] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-08-09 00:01:10,543] {processor.py:153} INFO - Started process (PID=10445) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:01:10,544] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:01:10,544] {logging_mixin.py:115} INFO - [2022-08-09 00:01:10,544] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:01:10,550] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:01:10,564] {logging_mixin.py:115} INFO - [2022-08-09 00:01:10,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:01:10,578] {logging_mixin.py:115} INFO - [2022-08-09 00:01:10,578] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:01:10,589] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.048 seconds
+[2022-08-09 00:01:44,750] {processor.py:153} INFO - Started process (PID=10482) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:01:44,750] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:01:44,751] {logging_mixin.py:115} INFO - [2022-08-09 00:01:44,751] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:01:44,755] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:01:44,767] {logging_mixin.py:115} INFO - [2022-08-09 00:01:44,767] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:01:44,781] {logging_mixin.py:115} INFO - [2022-08-09 00:01:44,781] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:01:44,790] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.042 seconds
+[2022-08-09 00:02:18,435] {processor.py:153} INFO - Started process (PID=10518) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:02:18,436] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:02:18,436] {logging_mixin.py:115} INFO - [2022-08-09 00:02:18,436] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:02:18,441] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:02:18,450] {logging_mixin.py:115} INFO - [2022-08-09 00:02:18,450] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:02:18,462] {logging_mixin.py:115} INFO - [2022-08-09 00:02:18,462] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:02:18,471] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:02:52,350] {processor.py:153} INFO - Started process (PID=10562) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:02:52,350] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:02:52,351] {logging_mixin.py:115} INFO - [2022-08-09 00:02:52,351] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:02:52,355] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:02:52,365] {logging_mixin.py:115} INFO - [2022-08-09 00:02:52,365] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:02:52,377] {logging_mixin.py:115} INFO - [2022-08-09 00:02:52,377] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:02:52,387] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-08-09 00:03:26,794] {processor.py:153} INFO - Started process (PID=10610) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:03:26,795] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:03:26,795] {logging_mixin.py:115} INFO - [2022-08-09 00:03:26,795] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:03:26,799] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:03:26,809] {logging_mixin.py:115} INFO - [2022-08-09 00:03:26,809] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:03:26,820] {logging_mixin.py:115} INFO - [2022-08-09 00:03:26,820] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:03:26,829] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:04:00,983] {processor.py:153} INFO - Started process (PID=10655) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:04:00,983] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:04:00,984] {logging_mixin.py:115} INFO - [2022-08-09 00:04:00,984] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:04:00,988] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:04:00,997] {logging_mixin.py:115} INFO - [2022-08-09 00:04:00,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:04:01,009] {logging_mixin.py:115} INFO - [2022-08-09 00:04:01,009] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:04:01,017] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:04:35,778] {processor.py:153} INFO - Started process (PID=10692) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:04:35,778] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:04:35,779] {logging_mixin.py:115} INFO - [2022-08-09 00:04:35,779] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:04:35,783] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:04:35,794] {logging_mixin.py:115} INFO - [2022-08-09 00:04:35,793] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:04:35,804] {logging_mixin.py:115} INFO - [2022-08-09 00:04:35,804] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:04:35,813] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:05:09,934] {processor.py:153} INFO - Started process (PID=10754) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:05:09,934] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:05:09,935] {logging_mixin.py:115} INFO - [2022-08-09 00:05:09,934] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:05:09,939] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:05:09,952] {logging_mixin.py:115} INFO - [2022-08-09 00:05:09,952] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:05:09,963] {logging_mixin.py:115} INFO - [2022-08-09 00:05:09,963] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:05:09,973] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.041 seconds
+[2022-08-09 00:05:42,476] {processor.py:153} INFO - Started process (PID=10793) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:05:42,477] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:05:42,477] {logging_mixin.py:115} INFO - [2022-08-09 00:05:42,477] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:05:42,481] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:05:42,492] {logging_mixin.py:115} INFO - [2022-08-09 00:05:42,492] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:05:42,502] {logging_mixin.py:115} INFO - [2022-08-09 00:05:42,502] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:05:42,511] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:06:17,745] {processor.py:153} INFO - Started process (PID=10829) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:06:17,746] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:06:17,746] {logging_mixin.py:115} INFO - [2022-08-09 00:06:17,746] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:06:17,750] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:06:17,761] {logging_mixin.py:115} INFO - [2022-08-09 00:06:17,761] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:06:17,771] {logging_mixin.py:115} INFO - [2022-08-09 00:06:17,771] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:06:17,781] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:06:54,117] {processor.py:153} INFO - Started process (PID=10883) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:06:54,117] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:06:54,117] {logging_mixin.py:115} INFO - [2022-08-09 00:06:54,117] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:06:54,121] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:06:54,132] {logging_mixin.py:115} INFO - [2022-08-09 00:06:54,132] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:06:54,142] {logging_mixin.py:115} INFO - [2022-08-09 00:06:54,142] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:06:54,153] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-08-09 00:07:30,211] {processor.py:153} INFO - Started process (PID=10935) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:07:30,212] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:07:30,212] {logging_mixin.py:115} INFO - [2022-08-09 00:07:30,212] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:07:30,217] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:07:30,229] {logging_mixin.py:115} INFO - [2022-08-09 00:07:30,229] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:07:30,240] {logging_mixin.py:115} INFO - [2022-08-09 00:07:30,240] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:07:30,250] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2022-08-09 00:08:09,479] {processor.py:153} INFO - Started process (PID=10980) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:08:09,480] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:08:09,480] {logging_mixin.py:115} INFO - [2022-08-09 00:08:09,480] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:08:09,484] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:08:09,495] {logging_mixin.py:115} INFO - [2022-08-09 00:08:09,495] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:08:09,505] {logging_mixin.py:115} INFO - [2022-08-09 00:08:09,505] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:08:09,514] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:08:41,411] {processor.py:153} INFO - Started process (PID=11016) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:08:41,411] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:08:41,411] {logging_mixin.py:115} INFO - [2022-08-09 00:08:41,411] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:08:41,415] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:08:41,426] {logging_mixin.py:115} INFO - [2022-08-09 00:08:41,426] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:08:41,436] {logging_mixin.py:115} INFO - [2022-08-09 00:08:41,436] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:08:41,445] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:09:15,696] {processor.py:153} INFO - Started process (PID=11052) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:09:15,696] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:09:15,696] {logging_mixin.py:115} INFO - [2022-08-09 00:09:15,696] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:09:15,700] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:09:15,711] {logging_mixin.py:115} INFO - [2022-08-09 00:09:15,711] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:09:15,721] {logging_mixin.py:115} INFO - [2022-08-09 00:09:15,721] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:09:15,729] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:09:48,639] {processor.py:153} INFO - Started process (PID=11088) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:09:48,639] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:09:48,639] {logging_mixin.py:115} INFO - [2022-08-09 00:09:48,639] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:09:48,643] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:09:48,654] {logging_mixin.py:115} INFO - [2022-08-09 00:09:48,654] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:09:48,664] {logging_mixin.py:115} INFO - [2022-08-09 00:09:48,664] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:09:48,673] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:10:23,948] {processor.py:153} INFO - Started process (PID=11129) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:10:23,948] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:10:23,948] {logging_mixin.py:115} INFO - [2022-08-09 00:10:23,948] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:10:23,952] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:10:23,963] {logging_mixin.py:115} INFO - [2022-08-09 00:10:23,963] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:10:23,973] {logging_mixin.py:115} INFO - [2022-08-09 00:10:23,973] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:10:23,982] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:11:02,713] {processor.py:153} INFO - Started process (PID=11187) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:11:02,713] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:11:02,714] {logging_mixin.py:115} INFO - [2022-08-09 00:11:02,714] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:11:02,718] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:11:02,728] {logging_mixin.py:115} INFO - [2022-08-09 00:11:02,728] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:11:02,738] {logging_mixin.py:115} INFO - [2022-08-09 00:11:02,738] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:11:02,747] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:11:36,256] {processor.py:153} INFO - Started process (PID=11223) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:11:36,256] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:11:36,257] {logging_mixin.py:115} INFO - [2022-08-09 00:11:36,257] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:11:36,261] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:11:36,271] {logging_mixin.py:115} INFO - [2022-08-09 00:11:36,271] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:11:36,282] {logging_mixin.py:115} INFO - [2022-08-09 00:11:36,282] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:11:36,290] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:12:08,328] {processor.py:153} INFO - Started process (PID=11271) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:12:08,328] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:12:08,328] {logging_mixin.py:115} INFO - [2022-08-09 00:12:08,328] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:12:08,333] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:12:08,343] {logging_mixin.py:115} INFO - [2022-08-09 00:12:08,343] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:12:08,354] {logging_mixin.py:115} INFO - [2022-08-09 00:12:08,354] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:12:08,362] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:12:48,212] {processor.py:153} INFO - Started process (PID=11333) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:12:48,213] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:12:48,213] {logging_mixin.py:115} INFO - [2022-08-09 00:12:48,213] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:12:48,218] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:12:48,230] {logging_mixin.py:115} INFO - [2022-08-09 00:12:48,230] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:12:48,242] {logging_mixin.py:115} INFO - [2022-08-09 00:12:48,242] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:12:48,251] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.041 seconds
+[2022-08-09 00:13:20,157] {processor.py:153} INFO - Started process (PID=11380) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:13:20,157] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:13:20,158] {logging_mixin.py:115} INFO - [2022-08-09 00:13:20,158] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:13:20,162] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:13:20,174] {logging_mixin.py:115} INFO - [2022-08-09 00:13:20,174] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:13:20,184] {logging_mixin.py:115} INFO - [2022-08-09 00:13:20,184] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:13:20,194] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-08-09 00:13:57,929] {processor.py:153} INFO - Started process (PID=11468) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:13:57,929] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:13:57,929] {logging_mixin.py:115} INFO - [2022-08-09 00:13:57,929] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:13:57,933] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:13:57,945] {logging_mixin.py:115} INFO - [2022-08-09 00:13:57,945] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:13:57,956] {logging_mixin.py:115} INFO - [2022-08-09 00:13:57,956] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:13:57,965] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-08-09 00:14:30,851] {processor.py:153} INFO - Started process (PID=11513) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:14:30,851] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:14:30,852] {logging_mixin.py:115} INFO - [2022-08-09 00:14:30,852] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:14:30,856] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:14:30,865] {logging_mixin.py:115} INFO - [2022-08-09 00:14:30,865] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:14:30,876] {logging_mixin.py:115} INFO - [2022-08-09 00:14:30,875] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:14:30,884] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:15:05,067] {processor.py:153} INFO - Started process (PID=11556) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:15:05,069] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:15:05,069] {logging_mixin.py:115} INFO - [2022-08-09 00:15:05,069] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:15:05,074] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:15:05,085] {logging_mixin.py:115} INFO - [2022-08-09 00:15:05,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:15:05,096] {logging_mixin.py:115} INFO - [2022-08-09 00:15:05,096] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:15:05,105] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2022-08-09 00:15:39,164] {processor.py:153} INFO - Started process (PID=11622) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:15:39,164] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:15:39,164] {logging_mixin.py:115} INFO - [2022-08-09 00:15:39,164] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:15:39,168] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:15:39,177] {logging_mixin.py:115} INFO - [2022-08-09 00:15:39,177] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:15:39,189] {logging_mixin.py:115} INFO - [2022-08-09 00:15:39,189] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:15:39,199] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:16:14,626] {processor.py:153} INFO - Started process (PID=11673) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:16:14,627] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:16:14,627] {logging_mixin.py:115} INFO - [2022-08-09 00:16:14,627] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:16:14,631] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:16:14,641] {logging_mixin.py:115} INFO - [2022-08-09 00:16:14,641] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:16:14,651] {logging_mixin.py:115} INFO - [2022-08-09 00:16:14,651] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:16:14,659] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:16:50,005] {processor.py:153} INFO - Started process (PID=11724) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:16:50,005] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:16:50,005] {logging_mixin.py:115} INFO - [2022-08-09 00:16:50,005] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:16:50,009] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:16:50,019] {logging_mixin.py:115} INFO - [2022-08-09 00:16:50,019] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:16:50,030] {logging_mixin.py:115} INFO - [2022-08-09 00:16:50,029] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:16:50,038] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:17:25,311] {processor.py:153} INFO - Started process (PID=11785) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:17:25,311] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:17:25,312] {logging_mixin.py:115} INFO - [2022-08-09 00:17:25,312] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:17:25,317] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:17:25,330] {logging_mixin.py:115} INFO - [2022-08-09 00:17:25,330] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:17:25,342] {logging_mixin.py:115} INFO - [2022-08-09 00:17:25,342] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:17:25,352] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.044 seconds
+[2022-08-09 00:17:58,375] {processor.py:153} INFO - Started process (PID=11821) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:17:58,376] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:17:58,376] {logging_mixin.py:115} INFO - [2022-08-09 00:17:58,376] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:17:58,380] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:17:58,389] {logging_mixin.py:115} INFO - [2022-08-09 00:17:58,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:17:58,400] {logging_mixin.py:115} INFO - [2022-08-09 00:17:58,400] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:17:58,410] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:18:32,047] {processor.py:153} INFO - Started process (PID=11857) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:18:32,048] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:18:32,048] {logging_mixin.py:115} INFO - [2022-08-09 00:18:32,048] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:18:32,052] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:18:32,061] {logging_mixin.py:115} INFO - [2022-08-09 00:18:32,061] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:18:32,072] {logging_mixin.py:115} INFO - [2022-08-09 00:18:32,072] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:18:32,081] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:19:06,188] {processor.py:153} INFO - Started process (PID=11894) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:19:06,188] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:19:06,189] {logging_mixin.py:115} INFO - [2022-08-09 00:19:06,189] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:19:06,192] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:19:06,202] {logging_mixin.py:115} INFO - [2022-08-09 00:19:06,202] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:19:06,213] {logging_mixin.py:115} INFO - [2022-08-09 00:19:06,213] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:19:06,222] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:19:39,820] {processor.py:153} INFO - Started process (PID=11930) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:19:39,821] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:19:39,821] {logging_mixin.py:115} INFO - [2022-08-09 00:19:39,821] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:19:39,825] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:19:39,835] {logging_mixin.py:115} INFO - [2022-08-09 00:19:39,835] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:19:39,845] {logging_mixin.py:115} INFO - [2022-08-09 00:19:39,845] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:19:39,854] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:20:14,434] {processor.py:153} INFO - Started process (PID=11970) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:20:14,434] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:20:14,434] {logging_mixin.py:115} INFO - [2022-08-09 00:20:14,434] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:20:14,438] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:20:14,449] {logging_mixin.py:115} INFO - [2022-08-09 00:20:14,449] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:20:14,459] {logging_mixin.py:115} INFO - [2022-08-09 00:20:14,459] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:20:14,468] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:20:46,502] {processor.py:153} INFO - Started process (PID=12006) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:20:46,502] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:20:46,502] {logging_mixin.py:115} INFO - [2022-08-09 00:20:46,502] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:20:46,507] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:20:46,516] {logging_mixin.py:115} INFO - [2022-08-09 00:20:46,516] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:20:46,527] {logging_mixin.py:115} INFO - [2022-08-09 00:20:46,527] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:20:46,535] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.034 seconds
+[2022-08-09 00:21:19,825] {processor.py:153} INFO - Started process (PID=12061) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:21:19,825] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:21:19,826] {logging_mixin.py:115} INFO - [2022-08-09 00:21:19,825] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:21:19,829] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:21:19,840] {logging_mixin.py:115} INFO - [2022-08-09 00:21:19,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:21:19,851] {logging_mixin.py:115} INFO - [2022-08-09 00:21:19,851] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:21:19,860] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:21:55,642] {processor.py:153} INFO - Started process (PID=12234) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:21:55,643] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:21:55,643] {logging_mixin.py:115} INFO - [2022-08-09 00:21:55,643] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:21:55,647] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:21:55,657] {logging_mixin.py:115} INFO - [2022-08-09 00:21:55,657] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:21:55,668] {logging_mixin.py:115} INFO - [2022-08-09 00:21:55,668] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:21:55,677] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:22:29,132] {processor.py:153} INFO - Started process (PID=12296) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:22:29,132] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:22:29,133] {logging_mixin.py:115} INFO - [2022-08-09 00:22:29,133] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:22:29,137] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:22:29,147] {logging_mixin.py:115} INFO - [2022-08-09 00:22:29,146] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:22:29,157] {logging_mixin.py:115} INFO - [2022-08-09 00:22:29,157] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:22:29,166] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:23:04,282] {processor.py:153} INFO - Started process (PID=12338) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:23:04,282] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:23:04,283] {logging_mixin.py:115} INFO - [2022-08-09 00:23:04,282] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:23:04,286] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:23:04,296] {logging_mixin.py:115} INFO - [2022-08-09 00:23:04,296] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:23:04,306] {logging_mixin.py:115} INFO - [2022-08-09 00:23:04,306] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:23:04,316] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:23:36,990] {processor.py:153} INFO - Started process (PID=12373) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:23:36,990] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:23:36,991] {logging_mixin.py:115} INFO - [2022-08-09 00:23:36,991] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:23:36,994] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:23:37,004] {logging_mixin.py:115} INFO - [2022-08-09 00:23:37,004] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:23:37,015] {logging_mixin.py:115} INFO - [2022-08-09 00:23:37,015] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:23:37,024] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:24:09,158] {processor.py:153} INFO - Started process (PID=12410) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:24:09,159] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:24:09,159] {logging_mixin.py:115} INFO - [2022-08-09 00:24:09,159] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:24:09,163] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:24:09,173] {logging_mixin.py:115} INFO - [2022-08-09 00:24:09,173] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:24:09,183] {logging_mixin.py:115} INFO - [2022-08-09 00:24:09,183] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:24:09,193] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:24:43,735] {processor.py:153} INFO - Started process (PID=12476) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:24:43,736] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:24:43,736] {logging_mixin.py:115} INFO - [2022-08-09 00:24:43,736] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:24:43,740] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:24:43,750] {logging_mixin.py:115} INFO - [2022-08-09 00:24:43,749] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:24:43,760] {logging_mixin.py:115} INFO - [2022-08-09 00:24:43,760] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:24:43,769] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:25:17,346] {processor.py:153} INFO - Started process (PID=12520) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:25:17,346] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:25:17,346] {logging_mixin.py:115} INFO - [2022-08-09 00:25:17,346] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:25:17,350] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:25:17,360] {logging_mixin.py:115} INFO - [2022-08-09 00:25:17,360] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:25:17,371] {logging_mixin.py:115} INFO - [2022-08-09 00:25:17,371] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:25:17,380] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:25:51,846] {processor.py:153} INFO - Started process (PID=12556) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:25:51,847] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:25:51,847] {logging_mixin.py:115} INFO - [2022-08-09 00:25:51,847] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:25:51,851] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:25:51,861] {logging_mixin.py:115} INFO - [2022-08-09 00:25:51,861] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:25:51,871] {logging_mixin.py:115} INFO - [2022-08-09 00:25:51,871] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:25:51,880] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:26:28,888] {processor.py:153} INFO - Started process (PID=12596) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:26:28,888] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:26:28,888] {logging_mixin.py:115} INFO - [2022-08-09 00:26:28,888] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:26:28,892] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:26:28,902] {logging_mixin.py:115} INFO - [2022-08-09 00:26:28,902] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:26:28,913] {logging_mixin.py:115} INFO - [2022-08-09 00:26:28,913] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:26:28,921] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:27:04,488] {processor.py:153} INFO - Started process (PID=12636) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:27:04,488] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:27:04,489] {logging_mixin.py:115} INFO - [2022-08-09 00:27:04,488] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:27:04,492] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:27:04,502] {logging_mixin.py:115} INFO - [2022-08-09 00:27:04,502] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:27:04,513] {logging_mixin.py:115} INFO - [2022-08-09 00:27:04,513] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:27:04,523] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-08-09 00:27:37,471] {processor.py:153} INFO - Started process (PID=12697) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:27:37,472] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:27:37,472] {logging_mixin.py:115} INFO - [2022-08-09 00:27:37,472] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:27:37,476] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:27:37,485] {logging_mixin.py:115} INFO - [2022-08-09 00:27:37,485] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:27:37,496] {logging_mixin.py:115} INFO - [2022-08-09 00:27:37,496] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:27:37,506] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:28:11,182] {processor.py:153} INFO - Started process (PID=12894) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:28:11,183] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:28:11,183] {logging_mixin.py:115} INFO - [2022-08-09 00:28:11,183] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:28:11,187] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:28:11,198] {logging_mixin.py:115} INFO - [2022-08-09 00:28:11,198] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:28:11,210] {logging_mixin.py:115} INFO - [2022-08-09 00:28:11,210] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:28:11,219] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-08-09 00:28:44,877] {processor.py:153} INFO - Started process (PID=12953) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:28:44,877] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:28:44,878] {logging_mixin.py:115} INFO - [2022-08-09 00:28:44,878] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:28:44,882] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:28:44,893] {logging_mixin.py:115} INFO - [2022-08-09 00:28:44,893] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:28:44,905] {logging_mixin.py:115} INFO - [2022-08-09 00:28:44,904] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:28:44,922] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.047 seconds
+[2022-08-09 00:29:17,829] {processor.py:153} INFO - Started process (PID=12994) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:29:17,830] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:29:17,830] {logging_mixin.py:115} INFO - [2022-08-09 00:29:17,830] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:29:17,834] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:29:17,844] {logging_mixin.py:115} INFO - [2022-08-09 00:29:17,843] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:29:17,855] {logging_mixin.py:115} INFO - [2022-08-09 00:29:17,854] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:29:17,866] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-08-09 00:29:49,210] {processor.py:153} INFO - Started process (PID=13032) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:29:49,211] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:29:49,211] {logging_mixin.py:115} INFO - [2022-08-09 00:29:49,211] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:29:49,215] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:29:49,225] {logging_mixin.py:115} INFO - [2022-08-09 00:29:49,225] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:29:49,236] {logging_mixin.py:115} INFO - [2022-08-09 00:29:49,236] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:29:49,244] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-08-09 00:30:22,858] {processor.py:153} INFO - Started process (PID=13072) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:30:22,858] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:30:22,859] {logging_mixin.py:115} INFO - [2022-08-09 00:30:22,859] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:30:22,862] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:30:22,872] {logging_mixin.py:115} INFO - [2022-08-09 00:30:22,872] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:30:22,883] {logging_mixin.py:115} INFO - [2022-08-09 00:30:22,883] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:30:22,891] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:30:59,299] {processor.py:153} INFO - Started process (PID=13109) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:30:59,299] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:30:59,300] {logging_mixin.py:115} INFO - [2022-08-09 00:30:59,300] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:30:59,304] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:30:59,315] {logging_mixin.py:115} INFO - [2022-08-09 00:30:59,315] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:30:59,326] {logging_mixin.py:115} INFO - [2022-08-09 00:30:59,326] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:30:59,335] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-08-09 00:31:31,812] {processor.py:153} INFO - Started process (PID=13149) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:31:31,812] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:31:31,812] {logging_mixin.py:115} INFO - [2022-08-09 00:31:31,812] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:31:31,816] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:31:31,825] {logging_mixin.py:115} INFO - [2022-08-09 00:31:31,825] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:31:31,836] {logging_mixin.py:115} INFO - [2022-08-09 00:31:31,836] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:31:31,845] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-08-09 00:32:10,010] {processor.py:153} INFO - Started process (PID=13275) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:32:10,010] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:32:10,011] {logging_mixin.py:115} INFO - [2022-08-09 00:32:10,011] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:32:10,016] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:32:10,027] {logging_mixin.py:115} INFO - [2022-08-09 00:32:10,027] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:32:10,039] {logging_mixin.py:115} INFO - [2022-08-09 00:32:10,039] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:32:10,048] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2022-08-09 00:32:43,590] {processor.py:153} INFO - Started process (PID=13313) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:32:43,591] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-08-09 00:32:43,591] {logging_mixin.py:115} INFO - [2022-08-09 00:32:43,591] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:32:43,595] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-08-09 00:32:43,605] {logging_mixin.py:115} INFO - [2022-08-09 00:32:43,604] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-09 00:32:43,615] {logging_mixin.py:115} INFO - [2022-08-09 00:32:43,615] {dag.py:2968} INFO - Setting next_dagrun for example_branch_labels to 2022-08-08T00:00:00+00:00, run_after=2022-08-09T00:00:00+00:00
+[2022-08-09 00:32:43,624] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds

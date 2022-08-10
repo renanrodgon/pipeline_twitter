@@ -1,0 +1,147 @@
+[2022-07-31 21:12:53,469] {processor.py:153} INFO - Started process (PID=4967) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:12:53,469] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:12:53,470] {logging_mixin.py:115} INFO - [2022-07-31 21:12:53,469] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:12:53,481] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:12:53,489] {logging_mixin.py:115} INFO - [2022-07-31 21:12:53,489] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:12:53,498] {logging_mixin.py:115} INFO - [2022-07-31 21:12:53,498] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:12:53,507] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.040 seconds
+[2022-07-31 21:13:25,395] {processor.py:153} INFO - Started process (PID=5021) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:13:25,395] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:13:25,395] {logging_mixin.py:115} INFO - [2022-07-31 21:13:25,395] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:13:25,406] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:13:25,414] {logging_mixin.py:115} INFO - [2022-07-31 21:13:25,414] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:25,423] {logging_mixin.py:115} INFO - [2022-07-31 21:13:25,423] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:13:25,431] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.038 seconds
+[2022-07-31 21:14:00,203] {processor.py:153} INFO - Started process (PID=5060) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:14:00,203] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:14:00,204] {logging_mixin.py:115} INFO - [2022-07-31 21:14:00,204] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:14:00,215] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:14:00,223] {logging_mixin.py:115} INFO - [2022-07-31 21:14:00,223] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:00,233] {logging_mixin.py:115} INFO - [2022-07-31 21:14:00,233] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:14:00,241] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.040 seconds
+[2022-07-31 21:14:32,936] {processor.py:153} INFO - Started process (PID=5115) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:14:32,936] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:14:32,937] {logging_mixin.py:115} INFO - [2022-07-31 21:14:32,936] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:14:32,947] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:14:32,955] {logging_mixin.py:115} INFO - [2022-07-31 21:14:32,955] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:32,964] {logging_mixin.py:115} INFO - [2022-07-31 21:14:32,964] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:14:32,973] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.039 seconds
+[2022-07-31 21:15:05,453] {processor.py:153} INFO - Started process (PID=5162) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:15:05,454] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:15:05,454] {logging_mixin.py:115} INFO - [2022-07-31 21:15:05,454] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:15:05,465] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:15:05,473] {logging_mixin.py:115} INFO - [2022-07-31 21:15:05,472] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:05,482] {logging_mixin.py:115} INFO - [2022-07-31 21:15:05,482] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:15:05,489] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.038 seconds
+[2022-07-31 21:15:38,799] {processor.py:153} INFO - Started process (PID=5209) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:15:38,799] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:15:38,799] {logging_mixin.py:115} INFO - [2022-07-31 21:15:38,799] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:15:38,810] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:15:38,818] {logging_mixin.py:115} INFO - [2022-07-31 21:15:38,818] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:38,827] {logging_mixin.py:115} INFO - [2022-07-31 21:15:38,827] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:15:38,835] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.038 seconds
+[2022-07-31 21:16:10,808] {processor.py:153} INFO - Started process (PID=5251) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:16:10,808] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:16:10,808] {logging_mixin.py:115} INFO - [2022-07-31 21:16:10,808] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:16:10,819] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:16:10,827] {logging_mixin.py:115} INFO - [2022-07-31 21:16:10,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:10,837] {logging_mixin.py:115} INFO - [2022-07-31 21:16:10,837] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:16:10,845] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.039 seconds
+[2022-07-31 21:16:45,390] {processor.py:153} INFO - Started process (PID=5288) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:16:45,390] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:16:45,390] {logging_mixin.py:115} INFO - [2022-07-31 21:16:45,390] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:16:45,401] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:16:45,409] {logging_mixin.py:115} INFO - [2022-07-31 21:16:45,409] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:45,418] {logging_mixin.py:115} INFO - [2022-07-31 21:16:45,418] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:16:45,427] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.039 seconds
+[2022-07-31 21:17:20,429] {processor.py:153} INFO - Started process (PID=5346) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:17:20,430] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:17:20,430] {logging_mixin.py:115} INFO - [2022-07-31 21:17:20,430] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:17:20,441] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:17:20,450] {logging_mixin.py:115} INFO - [2022-07-31 21:17:20,450] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:20,459] {logging_mixin.py:115} INFO - [2022-07-31 21:17:20,459] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:17:20,468] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.040 seconds
+[2022-07-31 21:17:54,110] {processor.py:153} INFO - Started process (PID=5398) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:17:54,111] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 21:17:54,112] {logging_mixin.py:115} INFO - [2022-07-31 21:17:54,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:17:54,124] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 21:17:54,133] {logging_mixin.py:115} INFO - [2022-07-31 21:17:54,133] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:54,144] {logging_mixin.py:115} INFO - [2022-07-31 21:17:54,144] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 21:17:54,155] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.047 seconds
+[2022-07-31 22:20:42,666] {processor.py:153} INFO - Started process (PID=7026) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:20:42,667] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:20:42,667] {logging_mixin.py:115} INFO - [2022-07-31 22:20:42,667] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:20:42,678] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:20:42,686] {logging_mixin.py:115} INFO - [2022-07-31 22:20:42,686] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:20:42,695] {logging_mixin.py:115} INFO - [2022-07-31 22:20:42,695] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:20:42,704] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.040 seconds
+[2022-07-31 22:21:14,585] {processor.py:153} INFO - Started process (PID=7061) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:21:14,586] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:21:14,586] {logging_mixin.py:115} INFO - [2022-07-31 22:21:14,586] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:21:14,597] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:21:14,605] {logging_mixin.py:115} INFO - [2022-07-31 22:21:14,605] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:14,614] {logging_mixin.py:115} INFO - [2022-07-31 22:21:14,613] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:21:14,622] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.038 seconds
+[2022-07-31 22:21:49,388] {processor.py:153} INFO - Started process (PID=7122) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:21:49,388] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:21:49,388] {logging_mixin.py:115} INFO - [2022-07-31 22:21:49,388] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:21:49,399] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:21:49,407] {logging_mixin.py:115} INFO - [2022-07-31 22:21:49,407] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:49,416] {logging_mixin.py:115} INFO - [2022-07-31 22:21:49,416] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:21:49,425] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.039 seconds
+[2022-07-31 22:22:22,144] {processor.py:153} INFO - Started process (PID=7183) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:22:22,145] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:22:22,145] {logging_mixin.py:115} INFO - [2022-07-31 22:22:22,145] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:22:22,156] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:22:22,164] {logging_mixin.py:115} INFO - [2022-07-31 22:22:22,164] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:22,173] {logging_mixin.py:115} INFO - [2022-07-31 22:22:22,173] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:22:22,182] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.039 seconds
+[2022-07-31 22:22:54,666] {processor.py:153} INFO - Started process (PID=7220) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:22:54,667] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:22:54,667] {logging_mixin.py:115} INFO - [2022-07-31 22:22:54,667] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:22:54,678] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:22:54,687] {logging_mixin.py:115} INFO - [2022-07-31 22:22:54,687] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:54,696] {logging_mixin.py:115} INFO - [2022-07-31 22:22:54,696] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:22:54,705] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.040 seconds
+[2022-07-31 22:23:28,046] {processor.py:153} INFO - Started process (PID=7260) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:23:28,049] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:23:28,050] {logging_mixin.py:115} INFO - [2022-07-31 22:23:28,050] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:23:28,061] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:23:28,069] {logging_mixin.py:115} INFO - [2022-07-31 22:23:28,069] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:28,078] {logging_mixin.py:115} INFO - [2022-07-31 22:23:28,078] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:23:28,088] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.045 seconds
+[2022-07-31 22:23:59,978] {processor.py:153} INFO - Started process (PID=7300) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:23:59,978] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:23:59,978] {logging_mixin.py:115} INFO - [2022-07-31 22:23:59,978] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:23:59,990] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:23:59,998] {logging_mixin.py:115} INFO - [2022-07-31 22:23:59,998] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:00,008] {logging_mixin.py:115} INFO - [2022-07-31 22:24:00,008] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:24:00,019] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.043 seconds
+[2022-07-31 22:24:34,795] {processor.py:153} INFO - Started process (PID=7417) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:24:34,795] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:24:34,796] {logging_mixin.py:115} INFO - [2022-07-31 22:24:34,796] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:24:34,807] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:24:34,815] {logging_mixin.py:115} INFO - [2022-07-31 22:24:34,815] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:34,824] {logging_mixin.py:115} INFO - [2022-07-31 22:24:34,824] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:24:34,832] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.039 seconds
+[2022-07-31 22:25:07,808] {processor.py:153} INFO - Started process (PID=7503) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:25:07,809] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:25:07,809] {logging_mixin.py:115} INFO - [2022-07-31 22:25:07,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:25:07,821] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:25:07,830] {logging_mixin.py:115} INFO - [2022-07-31 22:25:07,830] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:07,839] {logging_mixin.py:115} INFO - [2022-07-31 22:25:07,839] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:25:07,848] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.041 seconds
+[2022-07-31 22:25:40,098] {processor.py:153} INFO - Started process (PID=7543) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:25:40,099] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:25:40,099] {logging_mixin.py:115} INFO - [2022-07-31 22:25:40,099] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:25:40,110] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:25:40,118] {logging_mixin.py:115} INFO - [2022-07-31 22:25:40,118] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:40,127] {logging_mixin.py:115} INFO - [2022-07-31 22:25:40,127] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:25:40,137] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.040 seconds
+[2022-07-31 22:26:13,861] {processor.py:153} INFO - Started process (PID=7590) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:26:13,861] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-07-31 22:26:13,862] {logging_mixin.py:115} INFO - [2022-07-31 22:26:13,862] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:26:13,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-07-31 22:26:13,881] {logging_mixin.py:115} INFO - [2022-07-31 22:26:13,881] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:26:13,890] {logging_mixin.py:115} INFO - [2022-07-31 22:26:13,890] {dag.py:2968} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2022-07-31 22:26:13,899] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.039 seconds

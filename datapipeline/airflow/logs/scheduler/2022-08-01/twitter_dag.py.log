@@ -1,0 +1,147 @@
+[2022-07-31 21:12:47,377] {processor.py:153} INFO - Started process (PID=4961) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:12:47,378] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:12:47,378] {logging_mixin.py:115} INFO - [2022-07-31 21:12:47,378] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:12:47,385] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:12:47,409] {logging_mixin.py:115} INFO - [2022-07-31 21:12:47,409] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:12:47,418] {logging_mixin.py:115} INFO - [2022-07-31 21:12:47,417] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:12:47.383000+00:00, run_after=2022-08-01T21:12:47.383000+00:00
+[2022-07-31 21:12:47,426] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.052 seconds
+[2022-07-31 21:13:19,136] {processor.py:153} INFO - Started process (PID=5014) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:13:19,136] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:13:19,136] {logging_mixin.py:115} INFO - [2022-07-31 21:13:19,136] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:13:19,140] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:13:19,165] {logging_mixin.py:115} INFO - [2022-07-31 21:13:19,165] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:19,173] {logging_mixin.py:115} INFO - [2022-07-31 21:13:19,173] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:13:19.139882+00:00, run_after=2022-08-01T21:13:19.139882+00:00
+[2022-07-31 21:13:19,181] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.047 seconds
+[2022-07-31 21:13:53,314] {processor.py:153} INFO - Started process (PID=5053) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:13:53,315] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:13:53,315] {logging_mixin.py:115} INFO - [2022-07-31 21:13:53,315] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:13:53,318] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:13:53,343] {logging_mixin.py:115} INFO - [2022-07-31 21:13:53,343] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:13:53,351] {logging_mixin.py:115} INFO - [2022-07-31 21:13:53,351] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:13:53.317855+00:00, run_after=2022-08-01T21:13:53.317855+00:00
+[2022-07-31 21:13:53,360] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.047 seconds
+[2022-07-31 21:14:24,058] {processor.py:153} INFO - Started process (PID=5104) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:14:24,058] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:14:24,058] {logging_mixin.py:115} INFO - [2022-07-31 21:14:24,058] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:14:24,062] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:14:24,087] {logging_mixin.py:115} INFO - [2022-07-31 21:14:24,087] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:24,095] {logging_mixin.py:115} INFO - [2022-07-31 21:14:24,095] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:14:24.061382+00:00, run_after=2022-08-01T21:14:24.061382+00:00
+[2022-07-31 21:14:24,104] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.048 seconds
+[2022-07-31 21:14:56,614] {processor.py:153} INFO - Started process (PID=5142) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:14:56,615] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:14:56,615] {logging_mixin.py:115} INFO - [2022-07-31 21:14:56,615] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:14:56,618] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:14:56,643] {logging_mixin.py:115} INFO - [2022-07-31 21:14:56,643] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:14:56,651] {logging_mixin.py:115} INFO - [2022-07-31 21:14:56,651] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:14:56.618083+00:00, run_after=2022-08-01T21:14:56.618083+00:00
+[2022-07-31 21:14:56,660] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.047 seconds
+[2022-07-31 21:15:31,406] {processor.py:153} INFO - Started process (PID=5198) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:15:31,407] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:15:31,407] {logging_mixin.py:115} INFO - [2022-07-31 21:15:31,407] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:15:31,410] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:15:31,435] {logging_mixin.py:115} INFO - [2022-07-31 21:15:31,435] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:15:31,443] {logging_mixin.py:115} INFO - [2022-07-31 21:15:31,443] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:15:31.410063+00:00, run_after=2022-08-01T21:15:31.410063+00:00
+[2022-07-31 21:15:31,452] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.048 seconds
+[2022-07-31 21:16:03,211] {processor.py:153} INFO - Started process (PID=5242) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:16:03,211] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:16:03,212] {logging_mixin.py:115} INFO - [2022-07-31 21:16:03,212] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:16:03,215] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:16:03,240] {logging_mixin.py:115} INFO - [2022-07-31 21:16:03,240] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:03,248] {logging_mixin.py:115} INFO - [2022-07-31 21:16:03,248] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:16:03.214936+00:00, run_after=2022-08-01T21:16:03.214936+00:00
+[2022-07-31 21:16:03,257] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.048 seconds
+[2022-07-31 21:16:36,160] {processor.py:153} INFO - Started process (PID=5278) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:16:36,161] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:16:36,161] {logging_mixin.py:115} INFO - [2022-07-31 21:16:36,161] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:16:36,165] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:16:36,190] {logging_mixin.py:115} INFO - [2022-07-31 21:16:36,190] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:16:36,198] {logging_mixin.py:115} INFO - [2022-07-31 21:16:36,198] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:16:36.164314+00:00, run_after=2022-08-01T21:16:36.164314+00:00
+[2022-07-31 21:16:36,210] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.051 seconds
+[2022-07-31 21:17:08,676] {processor.py:153} INFO - Started process (PID=5328) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:17:08,677] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:17:08,677] {logging_mixin.py:115} INFO - [2022-07-31 21:17:08,677] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:17:08,680] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:17:08,706] {logging_mixin.py:115} INFO - [2022-07-31 21:17:08,705] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:08,713] {logging_mixin.py:115} INFO - [2022-07-31 21:17:08,713] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:17:08.679955+00:00, run_after=2022-08-01T21:17:08.679955+00:00
+[2022-07-31 21:17:08,722] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.048 seconds
+[2022-07-31 21:17:40,604] {processor.py:153} INFO - Started process (PID=5367) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:17:40,604] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 21:17:40,605] {logging_mixin.py:115} INFO - [2022-07-31 21:17:40,605] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:17:40,609] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 21:17:40,635] {logging_mixin.py:115} INFO - [2022-07-31 21:17:40,635] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 21:17:40,643] {logging_mixin.py:115} INFO - [2022-07-31 21:17:40,643] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T21:17:40.608230+00:00, run_after=2022-08-01T21:17:40.608230+00:00
+[2022-07-31 21:17:40,652] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.050 seconds
+[2022-07-31 22:20:36,554] {processor.py:153} INFO - Started process (PID=7011) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:20:36,555] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:20:36,556] {logging_mixin.py:115} INFO - [2022-07-31 22:20:36,556] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:20:36,559] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:20:36,584] {logging_mixin.py:115} INFO - [2022-07-31 22:20:36,584] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:20:36,592] {logging_mixin.py:115} INFO - [2022-07-31 22:20:36,592] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:20:36.558947+00:00, run_after=2022-08-01T22:20:36.558947+00:00
+[2022-07-31 22:20:36,601] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.048 seconds
+[2022-07-31 22:21:08,328] {processor.py:153} INFO - Started process (PID=7055) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:21:08,328] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:21:08,328] {logging_mixin.py:115} INFO - [2022-07-31 22:21:08,328] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:21:08,332] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:21:08,357] {logging_mixin.py:115} INFO - [2022-07-31 22:21:08,357] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:08,365] {logging_mixin.py:115} INFO - [2022-07-31 22:21:08,365] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:21:08.331413+00:00, run_after=2022-08-01T22:21:08.331413+00:00
+[2022-07-31 22:21:08,374] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.048 seconds
+[2022-07-31 22:21:42,502] {processor.py:153} INFO - Started process (PID=7115) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:21:42,502] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:21:42,502] {logging_mixin.py:115} INFO - [2022-07-31 22:21:42,502] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:21:42,506] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:21:42,531] {logging_mixin.py:115} INFO - [2022-07-31 22:21:42,531] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:21:42,539] {logging_mixin.py:115} INFO - [2022-07-31 22:21:42,539] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:21:42.505532+00:00, run_after=2022-08-01T22:21:42.505532+00:00
+[2022-07-31 22:21:42,548] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.048 seconds
+[2022-07-31 22:22:13,272] {processor.py:153} INFO - Started process (PID=7157) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:22:13,272] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:22:13,273] {logging_mixin.py:115} INFO - [2022-07-31 22:22:13,273] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:22:13,277] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:22:13,303] {logging_mixin.py:115} INFO - [2022-07-31 22:22:13,303] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:13,311] {logging_mixin.py:115} INFO - [2022-07-31 22:22:13,311] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:22:13.276125+00:00, run_after=2022-08-01T22:22:13.276125+00:00
+[2022-07-31 22:22:13,320] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.050 seconds
+[2022-07-31 22:22:45,860] {processor.py:153} INFO - Started process (PID=7209) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:22:45,861] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:22:45,861] {logging_mixin.py:115} INFO - [2022-07-31 22:22:45,861] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:22:45,865] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:22:45,900] {logging_mixin.py:115} INFO - [2022-07-31 22:22:45,900] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:22:45,918] {logging_mixin.py:115} INFO - [2022-07-31 22:22:45,918] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:22:45.864422+00:00, run_after=2022-08-01T22:22:45.864422+00:00
+[2022-07-31 22:22:45,936] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.078 seconds
+[2022-07-31 22:23:20,648] {processor.py:153} INFO - Started process (PID=7253) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:23:20,649] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:23:20,649] {logging_mixin.py:115} INFO - [2022-07-31 22:23:20,649] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:23:20,652] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:23:20,680] {logging_mixin.py:115} INFO - [2022-07-31 22:23:20,680] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:20,689] {logging_mixin.py:115} INFO - [2022-07-31 22:23:20,689] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:23:20.651882+00:00, run_after=2022-08-01T22:23:20.651882+00:00
+[2022-07-31 22:23:20,699] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.052 seconds
+[2022-07-31 22:23:52,921] {processor.py:153} INFO - Started process (PID=7293) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:23:52,921] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:23:52,921] {logging_mixin.py:115} INFO - [2022-07-31 22:23:52,921] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:23:52,925] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:23:52,951] {logging_mixin.py:115} INFO - [2022-07-31 22:23:52,951] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:23:52,959] {logging_mixin.py:115} INFO - [2022-07-31 22:23:52,959] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:23:52.924416+00:00, run_after=2022-08-01T22:23:52.924416+00:00
+[2022-07-31 22:23:52,970] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.051 seconds
+[2022-07-31 22:24:26,509] {processor.py:153} INFO - Started process (PID=7409) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:24:26,509] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:24:26,509] {logging_mixin.py:115} INFO - [2022-07-31 22:24:26,509] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:24:26,513] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:24:26,540] {logging_mixin.py:115} INFO - [2022-07-31 22:24:26,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:26,548] {logging_mixin.py:115} INFO - [2022-07-31 22:24:26,548] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:24:26.512436+00:00, run_after=2022-08-01T22:24:26.512436+00:00
+[2022-07-31 22:24:26,558] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.051 seconds
+[2022-07-31 22:24:59,616] {processor.py:153} INFO - Started process (PID=7462) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:24:59,617] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:24:59,617] {logging_mixin.py:115} INFO - [2022-07-31 22:24:59,617] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:24:59,621] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:24:59,649] {logging_mixin.py:115} INFO - [2022-07-31 22:24:59,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:24:59,657] {logging_mixin.py:115} INFO - [2022-07-31 22:24:59,657] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:24:59.620464+00:00, run_after=2022-08-01T22:24:59.620464+00:00
+[2022-07-31 22:24:59,667] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.052 seconds
+[2022-07-31 22:25:29,965] {processor.py:153} INFO - Started process (PID=7532) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:25:29,965] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:25:29,965] {logging_mixin.py:115} INFO - [2022-07-31 22:25:29,965] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:25:29,970] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:25:30,004] {logging_mixin.py:115} INFO - [2022-07-31 22:25:30,004] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:25:30,016] {logging_mixin.py:115} INFO - [2022-07-31 22:25:30,016] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:25:29.969149+00:00, run_after=2022-08-01T22:25:29.969149+00:00
+[2022-07-31 22:25:30,029] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.066 seconds
+[2022-07-31 22:26:00,353] {processor.py:153} INFO - Started process (PID=7569) to work on /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:26:00,354] {processor.py:641} INFO - Processing file /home/renan/datapipeline/airflow/dags/twitter_dag.py for tasks to queue
+[2022-07-31 22:26:00,354] {logging_mixin.py:115} INFO - [2022-07-31 22:26:00,354] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:26:00,357] {processor.py:651} INFO - DAG(s) dict_keys(['twitter_dag']) retrieved from /home/renan/datapipeline/airflow/dags/twitter_dag.py
+[2022-07-31 22:26:00,384] {logging_mixin.py:115} INFO - [2022-07-31 22:26:00,384] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 22:26:00,392] {logging_mixin.py:115} INFO - [2022-07-31 22:26:00,392] {dag.py:2968} INFO - Setting next_dagrun for twitter_dag to 2022-07-31T22:26:00.357048+00:00, run_after=2022-08-01T22:26:00.357048+00:00
+[2022-07-31 22:26:00,411] {processor.py:161} INFO - Processing /home/renan/datapipeline/airflow/dags/twitter_dag.py took 0.060 seconds

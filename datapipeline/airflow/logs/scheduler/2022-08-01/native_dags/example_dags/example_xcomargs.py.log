@@ -1,0 +1,160 @@
+[2022-07-31 21:13:01,983] {processor.py:153} INFO - Started process (PID=4984) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:13:01,983] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:13:01,983] {logging_mixin.py:115} INFO - [2022-07-31 21:13:01,983] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:13:01,995] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:13:02,019] {logging_mixin.py:115} INFO - [2022-07-31 21:13:02,019] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:13:02,027] {logging_mixin.py:115} INFO - [2022-07-31 21:13:02,027] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:13:02,027] {logging_mixin.py:115} INFO - [2022-07-31 21:13:02,027] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:13:02,036] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.055 seconds
+[2022-07-31 21:13:34,530] {processor.py:153} INFO - Started process (PID=5034) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:13:34,530] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:13:34,530] {logging_mixin.py:115} INFO - [2022-07-31 21:13:34,530] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:13:34,543] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:13:34,567] {logging_mixin.py:115} INFO - [2022-07-31 21:13:34,566] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:13:34,574] {logging_mixin.py:115} INFO - [2022-07-31 21:13:34,574] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:13:34,575] {logging_mixin.py:115} INFO - [2022-07-31 21:13:34,574] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:13:34,583] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.055 seconds
+[2022-07-31 21:14:08,154] {processor.py:153} INFO - Started process (PID=5072) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:14:08,154] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:14:08,154] {logging_mixin.py:115} INFO - [2022-07-31 21:14:08,154] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:14:08,167] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:14:08,176] {logging_mixin.py:115} INFO - [2022-07-31 21:14:08,176] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:14:08,185] {logging_mixin.py:115} INFO - [2022-07-31 21:14:08,185] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:14:08,185] {logging_mixin.py:115} INFO - [2022-07-31 21:14:08,185] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:14:08,194] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.042 seconds
+[2022-07-31 21:14:41,209] {processor.py:153} INFO - Started process (PID=5125) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:14:41,209] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:14:41,210] {logging_mixin.py:115} INFO - [2022-07-31 21:14:41,210] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:14:41,222] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:14:41,232] {logging_mixin.py:115} INFO - [2022-07-31 21:14:41,232] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:14:41,242] {logging_mixin.py:115} INFO - [2022-07-31 21:14:41,242] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:14:41,242] {logging_mixin.py:115} INFO - [2022-07-31 21:14:41,242] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:14:41,251] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.043 seconds
+[2022-07-31 21:15:15,383] {processor.py:153} INFO - Started process (PID=5181) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:15:15,384] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:15:15,384] {logging_mixin.py:115} INFO - [2022-07-31 21:15:15,384] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:15:15,397] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:15:15,406] {logging_mixin.py:115} INFO - [2022-07-31 21:15:15,406] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:15:15,416] {logging_mixin.py:115} INFO - [2022-07-31 21:15:15,415] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:15:15,416] {logging_mixin.py:115} INFO - [2022-07-31 21:15:15,416] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:15:15,424] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.042 seconds
+[2022-07-31 21:15:50,550] {processor.py:153} INFO - Started process (PID=5224) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:15:50,550] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:15:50,551] {logging_mixin.py:115} INFO - [2022-07-31 21:15:50,551] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:15:50,563] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:15:50,586] {logging_mixin.py:115} INFO - [2022-07-31 21:15:50,586] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:15:50,594] {logging_mixin.py:115} INFO - [2022-07-31 21:15:50,594] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:15:50,594] {logging_mixin.py:115} INFO - [2022-07-31 21:15:50,594] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:15:50,604] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.056 seconds
+[2022-07-31 21:16:22,058] {processor.py:153} INFO - Started process (PID=5264) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:16:22,059] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:16:22,059] {logging_mixin.py:115} INFO - [2022-07-31 21:16:22,059] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:16:22,072] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:16:22,096] {logging_mixin.py:115} INFO - [2022-07-31 21:16:22,096] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:16:22,103] {logging_mixin.py:115} INFO - [2022-07-31 21:16:22,103] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:16:22,104] {logging_mixin.py:115} INFO - [2022-07-31 21:16:22,104] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:16:22,113] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.056 seconds
+[2022-07-31 21:16:57,905] {processor.py:153} INFO - Started process (PID=5308) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:16:57,905] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:16:57,905] {logging_mixin.py:115} INFO - [2022-07-31 21:16:57,905] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:16:57,918] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:16:57,927] {logging_mixin.py:115} INFO - [2022-07-31 21:16:57,927] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:16:57,936] {logging_mixin.py:115} INFO - [2022-07-31 21:16:57,936] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:16:57,936] {logging_mixin.py:115} INFO - [2022-07-31 21:16:57,936] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:16:57,945] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.041 seconds
+[2022-07-31 21:17:31,685] {processor.py:153} INFO - Started process (PID=5358) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:17:31,685] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 21:17:31,686] {logging_mixin.py:115} INFO - [2022-07-31 21:17:31,686] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:17:31,698] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 21:17:31,708] {logging_mixin.py:115} INFO - [2022-07-31 21:17:31,708] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 21:17:31,717] {logging_mixin.py:115} INFO - [2022-07-31 21:17:31,717] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 21:17:31,717] {logging_mixin.py:115} INFO - [2022-07-31 21:17:31,717] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 21:17:31,725] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.042 seconds
+[2022-07-31 22:20:51,173] {processor.py:153} INFO - Started process (PID=7035) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:20:51,173] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:20:51,174] {logging_mixin.py:115} INFO - [2022-07-31 22:20:51,174] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:20:51,186] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:20:51,210] {logging_mixin.py:115} INFO - [2022-07-31 22:20:51,209] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:20:51,217] {logging_mixin.py:115} INFO - [2022-07-31 22:20:51,217] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:20:51,218] {logging_mixin.py:115} INFO - [2022-07-31 22:20:51,218] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:20:51,226] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.055 seconds
+[2022-07-31 22:21:23,728] {processor.py:153} INFO - Started process (PID=7086) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:21:23,729] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:21:23,729] {logging_mixin.py:115} INFO - [2022-07-31 22:21:23,729] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:21:23,742] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:21:23,766] {logging_mixin.py:115} INFO - [2022-07-31 22:21:23,765] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:21:23,774] {logging_mixin.py:115} INFO - [2022-07-31 22:21:23,774] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:21:23,774] {logging_mixin.py:115} INFO - [2022-07-31 22:21:23,774] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:21:23,783] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.057 seconds
+[2022-07-31 22:21:57,360] {processor.py:153} INFO - Started process (PID=7139) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:21:57,360] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:21:57,360] {logging_mixin.py:115} INFO - [2022-07-31 22:21:57,360] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:21:57,373] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:21:57,382] {logging_mixin.py:115} INFO - [2022-07-31 22:21:57,382] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:21:57,391] {logging_mixin.py:115} INFO - [2022-07-31 22:21:57,391] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:21:57,391] {logging_mixin.py:115} INFO - [2022-07-31 22:21:57,391] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:21:57,400] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.042 seconds
+[2022-07-31 22:22:30,434] {processor.py:153} INFO - Started process (PID=7192) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:22:30,435] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:22:30,435] {logging_mixin.py:115} INFO - [2022-07-31 22:22:30,435] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:22:30,448] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:22:30,457] {logging_mixin.py:115} INFO - [2022-07-31 22:22:30,457] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:22:30,466] {logging_mixin.py:115} INFO - [2022-07-31 22:22:30,466] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:22:30,466] {logging_mixin.py:115} INFO - [2022-07-31 22:22:30,466] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:22:30,475] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.043 seconds
+[2022-07-31 22:23:04,645] {processor.py:153} INFO - Started process (PID=7232) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:23:04,646] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:23:04,646] {logging_mixin.py:115} INFO - [2022-07-31 22:23:04,646] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:23:04,659] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:23:04,668] {logging_mixin.py:115} INFO - [2022-07-31 22:23:04,668] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:23:04,677] {logging_mixin.py:115} INFO - [2022-07-31 22:23:04,677] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:23:04,677] {logging_mixin.py:115} INFO - [2022-07-31 22:23:04,677] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:23:04,686] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.042 seconds
+[2022-07-31 22:23:38,646] {processor.py:153} INFO - Started process (PID=7275) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:23:38,647] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:23:38,647] {logging_mixin.py:115} INFO - [2022-07-31 22:23:38,647] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:23:38,662] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:23:38,671] {logging_mixin.py:115} INFO - [2022-07-31 22:23:38,671] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:23:38,681] {logging_mixin.py:115} INFO - [2022-07-31 22:23:38,681] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:23:38,681] {logging_mixin.py:115} INFO - [2022-07-31 22:23:38,681] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:23:38,689] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.045 seconds
+[2022-07-31 22:24:11,992] {processor.py:153} INFO - Started process (PID=7351) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:24:11,992] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:24:11,993] {logging_mixin.py:115} INFO - [2022-07-31 22:24:11,993] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:24:12,007] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:24:12,017] {logging_mixin.py:115} INFO - [2022-07-31 22:24:12,017] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:24:12,028] {logging_mixin.py:115} INFO - [2022-07-31 22:24:12,028] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:24:12,028] {logging_mixin.py:115} INFO - [2022-07-31 22:24:12,028] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:24:12,038] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.048 seconds
+[2022-07-31 22:24:47,267] {processor.py:153} INFO - Started process (PID=7437) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:24:47,267] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:24:47,268] {logging_mixin.py:115} INFO - [2022-07-31 22:24:47,268] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:24:47,281] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:24:47,291] {logging_mixin.py:115} INFO - [2022-07-31 22:24:47,291] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:24:47,301] {logging_mixin.py:115} INFO - [2022-07-31 22:24:47,301] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:24:47,301] {logging_mixin.py:115} INFO - [2022-07-31 22:24:47,301] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:24:47,311] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.046 seconds
+[2022-07-31 22:25:18,696] {processor.py:153} INFO - Started process (PID=7520) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:25:18,696] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:25:18,697] {logging_mixin.py:115} INFO - [2022-07-31 22:25:18,697] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:25:18,709] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:25:18,719] {logging_mixin.py:115} INFO - [2022-07-31 22:25:18,719] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:25:18,728] {logging_mixin.py:115} INFO - [2022-07-31 22:25:18,728] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:25:18,728] {logging_mixin.py:115} INFO - [2022-07-31 22:25:18,728] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:25:18,738] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.044 seconds
+[2022-07-31 22:25:50,226] {processor.py:153} INFO - Started process (PID=7554) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:25:50,226] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:25:50,226] {logging_mixin.py:115} INFO - [2022-07-31 22:25:50,226] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:25:50,239] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:25:50,263] {logging_mixin.py:115} INFO - [2022-07-31 22:25:50,263] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:25:50,271] {logging_mixin.py:115} INFO - [2022-07-31 22:25:50,271] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:25:50,272] {logging_mixin.py:115} INFO - [2022-07-31 22:25:50,271] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:25:50,282] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.058 seconds
+[2022-07-31 22:26:23,994] {processor.py:153} INFO - Started process (PID=7602) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:26:23,995] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-07-31 22:26:23,995] {logging_mixin.py:115} INFO - [2022-07-31 22:26:23,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:26:24,007] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-07-31 22:26:24,017] {logging_mixin.py:115} INFO - [2022-07-31 22:26:24,017] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-31 22:26:24,026] {logging_mixin.py:115} INFO - [2022-07-31 22:26:24,026] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-07-31 22:26:24,026] {logging_mixin.py:115} INFO - [2022-07-31 22:26:24,026] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-07-31 22:26:24,035] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.042 seconds

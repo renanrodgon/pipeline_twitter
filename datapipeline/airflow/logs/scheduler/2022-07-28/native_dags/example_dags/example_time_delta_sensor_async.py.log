@@ -1,0 +1,963 @@
+[2022-07-27 22:18:37,346] {processor.py:153} INFO - Started process (PID=3835) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:18:37,347] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:18:37,347] {logging_mixin.py:115} INFO - [2022-07-27 22:18:37,347] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:18:37,352] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:18:37,372] {logging_mixin.py:115} INFO - [2022-07-27 22:18:37,372] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:18:37,382] {logging_mixin.py:115} INFO - [2022-07-27 22:18:37,382] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:18:37,393] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.048 seconds
+[2022-07-27 22:19:10,077] {processor.py:153} INFO - Started process (PID=3948) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:19:10,078] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:19:10,078] {logging_mixin.py:115} INFO - [2022-07-27 22:19:10,078] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:19:10,082] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:19:10,113] {logging_mixin.py:115} INFO - [2022-07-27 22:19:10,113] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:10,126] {logging_mixin.py:115} INFO - [2022-07-27 22:19:10,126] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:19:10,136] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.061 seconds
+[2022-07-27 22:19:43,649] {processor.py:153} INFO - Started process (PID=3984) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:19:43,649] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:19:43,649] {logging_mixin.py:115} INFO - [2022-07-27 22:19:43,649] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:19:43,654] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:19:43,674] {logging_mixin.py:115} INFO - [2022-07-27 22:19:43,674] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:43,685] {logging_mixin.py:115} INFO - [2022-07-27 22:19:43,685] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:19:43,694] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.048 seconds
+[2022-07-27 22:20:15,977] {processor.py:153} INFO - Started process (PID=4302) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:20:15,978] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:20:15,978] {logging_mixin.py:115} INFO - [2022-07-27 22:20:15,978] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:20:15,981] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:20:15,999] {logging_mixin.py:115} INFO - [2022-07-27 22:20:15,999] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:16,008] {logging_mixin.py:115} INFO - [2022-07-27 22:20:16,008] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:20:16,017] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 22:20:51,273] {processor.py:153} INFO - Started process (PID=4343) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:20:51,274] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:20:51,274] {logging_mixin.py:115} INFO - [2022-07-27 22:20:51,274] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:20:51,277] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:20:51,294] {logging_mixin.py:115} INFO - [2022-07-27 22:20:51,294] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:51,303] {logging_mixin.py:115} INFO - [2022-07-27 22:20:51,303] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:20:51,312] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 22:21:22,111] {processor.py:153} INFO - Started process (PID=4388) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:21:22,112] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:21:22,112] {logging_mixin.py:115} INFO - [2022-07-27 22:21:22,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:21:22,115] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:21:22,134] {logging_mixin.py:115} INFO - [2022-07-27 22:21:22,134] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:22,144] {logging_mixin.py:115} INFO - [2022-07-27 22:21:22,144] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:21:22,154] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.045 seconds
+[2022-07-27 22:21:56,384] {processor.py:153} INFO - Started process (PID=4431) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:21:56,384] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:21:56,385] {logging_mixin.py:115} INFO - [2022-07-27 22:21:56,385] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:21:56,388] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:21:56,407] {logging_mixin.py:115} INFO - [2022-07-27 22:21:56,406] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:56,418] {logging_mixin.py:115} INFO - [2022-07-27 22:21:56,418] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:21:56,429] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 22:22:27,790] {processor.py:153} INFO - Started process (PID=4469) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:22:27,790] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:22:27,791] {logging_mixin.py:115} INFO - [2022-07-27 22:22:27,791] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:22:27,794] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:22:27,819] {logging_mixin.py:115} INFO - [2022-07-27 22:22:27,819] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:27,831] {logging_mixin.py:115} INFO - [2022-07-27 22:22:27,831] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:22:27,877] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.088 seconds
+[2022-07-27 22:23:01,487] {processor.py:153} INFO - Started process (PID=4531) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:23:01,487] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:23:01,487] {logging_mixin.py:115} INFO - [2022-07-27 22:23:01,487] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:23:01,490] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:23:01,509] {logging_mixin.py:115} INFO - [2022-07-27 22:23:01,509] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:01,521] {logging_mixin.py:115} INFO - [2022-07-27 22:23:01,521] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:23:01,535] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.050 seconds
+[2022-07-27 22:23:33,398] {processor.py:153} INFO - Started process (PID=4572) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:23:33,399] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:23:33,399] {logging_mixin.py:115} INFO - [2022-07-27 22:23:33,399] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:23:33,402] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:23:33,422] {logging_mixin.py:115} INFO - [2022-07-27 22:23:33,422] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:33,433] {logging_mixin.py:115} INFO - [2022-07-27 22:23:33,433] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:23:33,444] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 22:24:06,343] {processor.py:153} INFO - Started process (PID=4608) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:24:06,344] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:24:06,344] {logging_mixin.py:115} INFO - [2022-07-27 22:24:06,344] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:24:06,348] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:24:06,366] {logging_mixin.py:115} INFO - [2022-07-27 22:24:06,366] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:06,378] {logging_mixin.py:115} INFO - [2022-07-27 22:24:06,378] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:24:06,388] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 22:24:39,384] {processor.py:153} INFO - Started process (PID=4643) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:24:39,384] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:24:39,385] {logging_mixin.py:115} INFO - [2022-07-27 22:24:39,384] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:24:39,389] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:24:39,409] {logging_mixin.py:115} INFO - [2022-07-27 22:24:39,409] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:39,422] {logging_mixin.py:115} INFO - [2022-07-27 22:24:39,422] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:24:39,439] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.057 seconds
+[2022-07-27 22:25:12,990] {processor.py:153} INFO - Started process (PID=4715) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:25:12,991] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:25:12,991] {logging_mixin.py:115} INFO - [2022-07-27 22:25:12,991] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:25:12,995] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:25:13,006] {logging_mixin.py:115} INFO - [2022-07-27 22:25:13,006] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 1
+    from airflow.models
+                      ^
+SyntaxError: invalid syntax
+[2022-07-27 22:25:13,014] {logging_mixin.py:115} INFO - [2022-07-27 22:25:13,014] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:13,025] {logging_mixin.py:115} INFO - [2022-07-27 22:25:13,025] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:25:13,083] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.095 seconds
+[2022-07-27 22:25:45,229] {processor.py:153} INFO - Started process (PID=4758) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:25:45,230] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:25:45,231] {logging_mixin.py:115} INFO - [2022-07-27 22:25:45,231] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:25:45,234] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:25:45,253] {logging_mixin.py:115} INFO - [2022-07-27 22:25:45,253] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:45,264] {logging_mixin.py:115} INFO - [2022-07-27 22:25:45,264] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:25:45,274] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.046 seconds
+[2022-07-27 22:26:18,400] {processor.py:153} INFO - Started process (PID=4810) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:26:18,400] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:26:18,400] {logging_mixin.py:115} INFO - [2022-07-27 22:26:18,400] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:26:18,405] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:26:18,429] {logging_mixin.py:115} INFO - [2022-07-27 22:26:18,429] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:18,440] {logging_mixin.py:115} INFO - [2022-07-27 22:26:18,440] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:26:18,451] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.053 seconds
+[2022-07-27 22:26:50,240] {processor.py:153} INFO - Started process (PID=4849) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:26:50,241] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:26:50,241] {logging_mixin.py:115} INFO - [2022-07-27 22:26:50,241] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:26:50,245] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:26:50,269] {logging_mixin.py:115} INFO - [2022-07-27 22:26:50,269] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:50,283] {logging_mixin.py:115} INFO - [2022-07-27 22:26:50,283] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:26:50,296] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.058 seconds
+[2022-07-27 22:27:24,033] {processor.py:153} INFO - Started process (PID=4892) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:27:24,033] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:27:24,034] {logging_mixin.py:115} INFO - [2022-07-27 22:27:24,033] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:27:24,038] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:27:24,050] {logging_mixin.py:115} INFO - [2022-07-27 22:27:24,050] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 11
+    ):
+     ^
+SyntaxError: invalid syntax
+[2022-07-27 22:27:24,058] {logging_mixin.py:115} INFO - [2022-07-27 22:27:24,057] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:24,067] {logging_mixin.py:115} INFO - [2022-07-27 22:27:24,067] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:27:24,076] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.045 seconds
+[2022-07-27 22:27:56,121] {processor.py:153} INFO - Started process (PID=4932) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:27:56,121] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:27:56,122] {logging_mixin.py:115} INFO - [2022-07-27 22:27:56,122] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:27:56,125] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:27:56,135] {logging_mixin.py:115} INFO - [2022-07-27 22:27:56,135] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 11
+    ):
+     ^
+SyntaxError: invalid syntax
+[2022-07-27 22:27:56,143] {logging_mixin.py:115} INFO - [2022-07-27 22:27:56,143] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:56,153] {logging_mixin.py:115} INFO - [2022-07-27 22:27:56,153] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:27:56,162] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.043 seconds
+[2022-07-27 22:28:28,541] {processor.py:153} INFO - Started process (PID=4983) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:28:28,542] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:28:28,542] {logging_mixin.py:115} INFO - [2022-07-27 22:28:28,542] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:28:28,545] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:28:28,555] {logging_mixin.py:115} INFO - [2022-07-27 22:28:28,555] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 12
+    def execute(self, context):
+    ^
+IndentationError: expected an indented block
+[2022-07-27 22:28:28,564] {logging_mixin.py:115} INFO - [2022-07-27 22:28:28,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:28,577] {logging_mixin.py:115} INFO - [2022-07-27 22:28:28,577] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:28:28,592] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.053 seconds
+[2022-07-27 22:29:00,753] {processor.py:153} INFO - Started process (PID=5024) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:29:00,753] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:29:00,753] {logging_mixin.py:115} INFO - [2022-07-27 22:29:00,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:29:00,757] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:29:00,780] {logging_mixin.py:115} INFO - [2022-07-27 22:29:00,780] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:00,791] {logging_mixin.py:115} INFO - [2022-07-27 22:29:00,791] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:29:00,804] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.054 seconds
+[2022-07-27 22:29:32,723] {processor.py:153} INFO - Started process (PID=5084) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:29:32,725] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:29:32,726] {logging_mixin.py:115} INFO - [2022-07-27 22:29:32,725] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:29:32,729] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:29:32,747] {logging_mixin.py:115} INFO - [2022-07-27 22:29:32,747] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:32,757] {logging_mixin.py:115} INFO - [2022-07-27 22:29:32,757] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:29:32,767] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.046 seconds
+[2022-07-27 22:30:05,808] {processor.py:153} INFO - Started process (PID=5131) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:30:05,809] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:30:05,810] {logging_mixin.py:115} INFO - [2022-07-27 22:30:05,810] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:30:05,813] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:30:05,834] {logging_mixin.py:115} INFO - [2022-07-27 22:30:05,834] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:05,849] {logging_mixin.py:115} INFO - [2022-07-27 22:30:05,849] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:30:05,861] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.055 seconds
+[2022-07-27 22:30:40,680] {processor.py:153} INFO - Started process (PID=5173) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:30:40,681] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:30:40,682] {logging_mixin.py:115} INFO - [2022-07-27 22:30:40,682] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:30:40,685] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:30:40,703] {logging_mixin.py:115} INFO - [2022-07-27 22:30:40,703] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:40,713] {logging_mixin.py:115} INFO - [2022-07-27 22:30:40,713] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:30:40,728] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.050 seconds
+[2022-07-27 22:31:11,423] {processor.py:153} INFO - Started process (PID=5227) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:31:11,424] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:31:11,424] {logging_mixin.py:115} INFO - [2022-07-27 22:31:11,424] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:31:11,427] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:31:11,446] {logging_mixin.py:115} INFO - [2022-07-27 22:31:11,446] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:11,456] {logging_mixin.py:115} INFO - [2022-07-27 22:31:11,456] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:31:11,467] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.046 seconds
+[2022-07-27 22:31:46,199] {processor.py:153} INFO - Started process (PID=5272) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:31:46,200] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:31:46,200] {logging_mixin.py:115} INFO - [2022-07-27 22:31:46,200] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:31:46,203] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:31:46,221] {logging_mixin.py:115} INFO - [2022-07-27 22:31:46,220] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:46,230] {logging_mixin.py:115} INFO - [2022-07-27 22:31:46,230] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:31:46,240] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.043 seconds
+[2022-07-27 22:32:18,153] {processor.py:153} INFO - Started process (PID=5320) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:32:18,154] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:32:18,154] {logging_mixin.py:115} INFO - [2022-07-27 22:32:18,154] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:32:18,157] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:32:18,176] {logging_mixin.py:115} INFO - [2022-07-27 22:32:18,176] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:18,187] {logging_mixin.py:115} INFO - [2022-07-27 22:32:18,187] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:32:18,198] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.046 seconds
+[2022-07-27 22:32:51,247] {processor.py:153} INFO - Started process (PID=5359) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:32:51,248] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:32:51,248] {logging_mixin.py:115} INFO - [2022-07-27 22:32:51,248] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:32:51,252] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:32:51,265] {logging_mixin.py:115} INFO - [2022-07-27 22:32:51,265] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 3
+    from hooks.twitter_hook import
+                                  ^
+SyntaxError: invalid syntax
+[2022-07-27 22:32:51,273] {logging_mixin.py:115} INFO - [2022-07-27 22:32:51,273] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:51,291] {logging_mixin.py:115} INFO - [2022-07-27 22:32:51,291] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:32:51,306] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.060 seconds
+[2022-07-27 22:33:22,995] {processor.py:153} INFO - Started process (PID=5404) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:33:22,995] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:33:22,995] {logging_mixin.py:115} INFO - [2022-07-27 22:33:22,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:33:22,998] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:33:23,012] {logging_mixin.py:115} INFO - [2022-07-27 22:33:23,011] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 3
+    from hooks.twitter_hook import
+                                  ^
+SyntaxError: invalid syntax
+[2022-07-27 22:33:23,024] {logging_mixin.py:115} INFO - [2022-07-27 22:33:23,024] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:23,035] {logging_mixin.py:115} INFO - [2022-07-27 22:33:23,035] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:33:23,046] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.053 seconds
+[2022-07-27 22:33:57,777] {processor.py:153} INFO - Started process (PID=5455) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:33:57,779] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:33:57,779] {logging_mixin.py:115} INFO - [2022-07-27 22:33:57,779] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:33:57,783] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:33:57,805] {logging_mixin.py:115} INFO - [2022-07-27 22:33:57,805] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:57,817] {logging_mixin.py:115} INFO - [2022-07-27 22:33:57,817] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:33:57,827] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.052 seconds
+[2022-07-27 22:34:29,290] {processor.py:153} INFO - Started process (PID=5506) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:34:29,291] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:34:29,291] {logging_mixin.py:115} INFO - [2022-07-27 22:34:29,291] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:34:29,294] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:34:29,315] {logging_mixin.py:115} INFO - [2022-07-27 22:34:29,315] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:29,325] {logging_mixin.py:115} INFO - [2022-07-27 22:34:29,325] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:34:29,335] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.046 seconds
+[2022-07-27 22:35:00,638] {processor.py:153} INFO - Started process (PID=5542) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:35:00,638] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:35:00,638] {logging_mixin.py:115} INFO - [2022-07-27 22:35:00,638] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:35:00,642] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:35:00,668] {logging_mixin.py:115} INFO - [2022-07-27 22:35:00,668] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:00,679] {logging_mixin.py:115} INFO - [2022-07-27 22:35:00,679] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:35:00,690] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.055 seconds
+[2022-07-27 22:35:31,148] {processor.py:153} INFO - Started process (PID=5589) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:35:31,149] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:35:31,150] {logging_mixin.py:115} INFO - [2022-07-27 22:35:31,150] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:35:31,153] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:35:31,177] {logging_mixin.py:115} INFO - [2022-07-27 22:35:31,177] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:31,186] {logging_mixin.py:115} INFO - [2022-07-27 22:35:31,186] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:35:31,198] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.052 seconds
+[2022-07-27 22:36:04,265] {processor.py:153} INFO - Started process (PID=5639) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:36:04,266] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:36:04,266] {logging_mixin.py:115} INFO - [2022-07-27 22:36:04,266] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:36:04,270] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:36:04,293] {logging_mixin.py:115} INFO - [2022-07-27 22:36:04,293] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:04,304] {logging_mixin.py:115} INFO - [2022-07-27 22:36:04,304] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:36:04,316] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.054 seconds
+[2022-07-27 22:36:36,463] {processor.py:153} INFO - Started process (PID=5781) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:36:36,463] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:36:36,463] {logging_mixin.py:115} INFO - [2022-07-27 22:36:36,463] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:36:36,466] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:36:36,490] {logging_mixin.py:115} INFO - [2022-07-27 22:36:36,490] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:36,501] {logging_mixin.py:115} INFO - [2022-07-27 22:36:36,501] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:36:36,555] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.094 seconds
+[2022-07-27 22:37:11,022] {processor.py:153} INFO - Started process (PID=5817) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:37:11,022] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:37:11,023] {logging_mixin.py:115} INFO - [2022-07-27 22:37:11,023] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:37:11,026] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:37:11,048] {logging_mixin.py:115} INFO - [2022-07-27 22:37:11,048] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:11,060] {logging_mixin.py:115} INFO - [2022-07-27 22:37:11,060] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:37:11,071] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.051 seconds
+[2022-07-27 22:37:44,014] {processor.py:153} INFO - Started process (PID=5859) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:37:44,014] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:37:44,014] {logging_mixin.py:115} INFO - [2022-07-27 22:37:44,014] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:37:44,018] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:37:44,029] {logging_mixin.py:115} INFO - [2022-07-27 22:37:44,028] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 34
+    with DAG(dag_id="TwitterTest", start_date=)
+                                              ^
+SyntaxError: invalid syntax
+[2022-07-27 22:37:44,036] {logging_mixin.py:115} INFO - [2022-07-27 22:37:44,036] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:44,046] {logging_mixin.py:115} INFO - [2022-07-27 22:37:44,046] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:37:44,056] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.044 seconds
+[2022-07-27 22:38:16,682] {processor.py:153} INFO - Started process (PID=5896) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:38:16,683] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:38:16,684] {logging_mixin.py:115} INFO - [2022-07-27 22:38:16,684] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:38:16,687] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:38:16,697] {logging_mixin.py:115} INFO - [2022-07-27 22:38:16,697] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=)
+                                              ^
+SyntaxError: invalid syntax
+[2022-07-27 22:38:16,705] {logging_mixin.py:115} INFO - [2022-07-27 22:38:16,704] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:16,714] {logging_mixin.py:115} INFO - [2022-07-27 22:38:16,714] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:38:16,724] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.044 seconds
+[2022-07-27 22:38:49,262] {processor.py:153} INFO - Started process (PID=5943) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:38:49,263] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:38:49,264] {logging_mixin.py:115} INFO - [2022-07-27 22:38:49,264] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:38:49,267] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:38:49,276] {logging_mixin.py:115} INFO - [2022-07-27 22:38:49,276] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:38:49,283] {logging_mixin.py:115} INFO - [2022-07-27 22:38:49,283] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:49,292] {logging_mixin.py:115} INFO - [2022-07-27 22:38:49,292] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:38:49,301] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 22:39:21,913] {processor.py:153} INFO - Started process (PID=5995) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:39:21,914] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:39:21,914] {logging_mixin.py:115} INFO - [2022-07-27 22:39:21,914] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:39:21,917] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:39:21,928] {logging_mixin.py:115} INFO - [2022-07-27 22:39:21,928] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:39:21,937] {logging_mixin.py:115} INFO - [2022-07-27 22:39:21,937] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:21,947] {logging_mixin.py:115} INFO - [2022-07-27 22:39:21,947] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:39:21,958] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 22:39:54,257] {processor.py:153} INFO - Started process (PID=6035) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:39:54,258] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:39:54,258] {logging_mixin.py:115} INFO - [2022-07-27 22:39:54,258] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:39:54,261] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:39:54,272] {logging_mixin.py:115} INFO - [2022-07-27 22:39:54,272] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:39:54,280] {logging_mixin.py:115} INFO - [2022-07-27 22:39:54,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:54,293] {logging_mixin.py:115} INFO - [2022-07-27 22:39:54,293] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:39:54,304] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.049 seconds
+[2022-07-27 22:40:28,467] {processor.py:153} INFO - Started process (PID=6079) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:40:28,467] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:40:28,467] {logging_mixin.py:115} INFO - [2022-07-27 22:40:28,467] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:40:28,471] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:40:28,482] {logging_mixin.py:115} INFO - [2022-07-27 22:40:28,482] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:40:28,492] {logging_mixin.py:115} INFO - [2022-07-27 22:40:28,492] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:28,505] {logging_mixin.py:115} INFO - [2022-07-27 22:40:28,505] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:40:28,567] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.102 seconds
+[2022-07-27 22:40:59,889] {processor.py:153} INFO - Started process (PID=6121) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:40:59,890] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:40:59,891] {logging_mixin.py:115} INFO - [2022-07-27 22:40:59,891] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:40:59,895] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:40:59,913] {logging_mixin.py:115} INFO - [2022-07-27 22:40:59,913] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:59,937] {logging_mixin.py:115} INFO - [2022-07-27 22:40:59,937] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:40:59,947] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.059 seconds
+[2022-07-27 22:41:30,284] {processor.py:153} INFO - Started process (PID=6176) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:41:30,285] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:41:30,285] {logging_mixin.py:115} INFO - [2022-07-27 22:41:30,285] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:41:30,288] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:41:30,306] {logging_mixin.py:115} INFO - [2022-07-27 22:41:30,306] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:30,315] {logging_mixin.py:115} INFO - [2022-07-27 22:41:30,315] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:41:30,324] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 22:42:03,898] {processor.py:153} INFO - Started process (PID=6235) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:42:03,899] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:42:03,899] {logging_mixin.py:115} INFO - [2022-07-27 22:42:03,899] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:42:03,902] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:42:03,917] {logging_mixin.py:115} INFO - [2022-07-27 22:42:03,917] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:03,927] {logging_mixin.py:115} INFO - [2022-07-27 22:42:03,926] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:42:03,935] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 22:42:35,497] {processor.py:153} INFO - Started process (PID=6280) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:42:35,499] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:42:35,499] {logging_mixin.py:115} INFO - [2022-07-27 22:42:35,499] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:42:35,502] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:42:35,525] {logging_mixin.py:115} INFO - [2022-07-27 22:42:35,525] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:35,536] {logging_mixin.py:115} INFO - [2022-07-27 22:42:35,536] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:42:35,547] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.051 seconds
+[2022-07-27 22:43:06,830] {processor.py:153} INFO - Started process (PID=6322) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:43:06,831] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:43:06,831] {logging_mixin.py:115} INFO - [2022-07-27 22:43:06,831] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:43:06,834] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:43:06,853] {logging_mixin.py:115} INFO - [2022-07-27 22:43:06,853] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:06,864] {logging_mixin.py:115} INFO - [2022-07-27 22:43:06,864] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:43:06,875] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 22:43:38,214] {processor.py:153} INFO - Started process (PID=6381) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:43:38,215] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:43:38,215] {logging_mixin.py:115} INFO - [2022-07-27 22:43:38,215] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:43:38,219] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:43:38,241] {logging_mixin.py:115} INFO - [2022-07-27 22:43:38,241] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:38,251] {logging_mixin.py:115} INFO - [2022-07-27 22:43:38,251] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:43:38,261] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.048 seconds
+[2022-07-27 22:44:10,190] {processor.py:153} INFO - Started process (PID=6419) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:44:10,191] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:44:10,191] {logging_mixin.py:115} INFO - [2022-07-27 22:44:10,191] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:44:10,194] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:44:10,211] {logging_mixin.py:115} INFO - [2022-07-27 22:44:10,211] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:10,220] {logging_mixin.py:115} INFO - [2022-07-27 22:44:10,220] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:44:10,228] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 22:44:42,699] {processor.py:153} INFO - Started process (PID=6453) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:44:42,699] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:44:42,700] {logging_mixin.py:115} INFO - [2022-07-27 22:44:42,700] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:44:42,703] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:44:42,718] {logging_mixin.py:115} INFO - [2022-07-27 22:44:42,718] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:42,729] {logging_mixin.py:115} INFO - [2022-07-27 22:44:42,729] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:44:42,737] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 22:45:15,374] {processor.py:153} INFO - Started process (PID=6491) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:45:15,375] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:45:15,375] {logging_mixin.py:115} INFO - [2022-07-27 22:45:15,375] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:45:15,378] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:45:15,394] {logging_mixin.py:115} INFO - [2022-07-27 22:45:15,394] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:15,404] {logging_mixin.py:115} INFO - [2022-07-27 22:45:15,403] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:45:15,411] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 22:45:47,648] {processor.py:153} INFO - Started process (PID=6546) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:45:47,648] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:45:47,648] {logging_mixin.py:115} INFO - [2022-07-27 22:45:47,648] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:45:47,651] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:45:47,668] {logging_mixin.py:115} INFO - [2022-07-27 22:45:47,668] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:47,677] {logging_mixin.py:115} INFO - [2022-07-27 22:45:47,677] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:45:47,687] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 22:46:19,606] {processor.py:153} INFO - Started process (PID=6599) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:46:19,606] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:46:19,607] {logging_mixin.py:115} INFO - [2022-07-27 22:46:19,607] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:46:19,610] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:46:19,629] {logging_mixin.py:115} INFO - [2022-07-27 22:46:19,629] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:19,641] {logging_mixin.py:115} INFO - [2022-07-27 22:46:19,641] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:46:19,651] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 22:46:51,419] {processor.py:153} INFO - Started process (PID=6646) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:46:51,419] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:46:51,419] {logging_mixin.py:115} INFO - [2022-07-27 22:46:51,419] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:46:51,422] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:46:51,439] {logging_mixin.py:115} INFO - [2022-07-27 22:46:51,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:51,448] {logging_mixin.py:115} INFO - [2022-07-27 22:46:51,448] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:46:51,457] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 22:47:23,946] {processor.py:153} INFO - Started process (PID=6688) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:47:23,946] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:47:23,947] {logging_mixin.py:115} INFO - [2022-07-27 22:47:23,947] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:47:23,952] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:47:23,980] {logging_mixin.py:115} INFO - [2022-07-27 22:47:23,980] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:23,994] {logging_mixin.py:115} INFO - [2022-07-27 22:47:23,994] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:47:24,005] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.062 seconds
+[2022-07-27 22:47:55,121] {processor.py:153} INFO - Started process (PID=6782) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:47:55,123] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:47:55,123] {logging_mixin.py:115} INFO - [2022-07-27 22:47:55,123] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:47:55,127] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:47:55,144] {logging_mixin.py:115} INFO - [2022-07-27 22:47:55,144] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:55,156] {logging_mixin.py:115} INFO - [2022-07-27 22:47:55,156] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:47:55,168] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.049 seconds
+[2022-07-27 22:48:27,881] {processor.py:153} INFO - Started process (PID=6832) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:48:27,881] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:48:27,882] {logging_mixin.py:115} INFO - [2022-07-27 22:48:27,881] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:48:27,885] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:48:27,904] {logging_mixin.py:115} INFO - [2022-07-27 22:48:27,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:27,917] {logging_mixin.py:115} INFO - [2022-07-27 22:48:27,917] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:48:27,927] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.048 seconds
+[2022-07-27 22:48:58,745] {processor.py:153} INFO - Started process (PID=6898) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:48:58,745] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:48:58,746] {logging_mixin.py:115} INFO - [2022-07-27 22:48:58,746] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:48:58,750] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:48:58,769] {logging_mixin.py:115} INFO - [2022-07-27 22:48:58,769] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:58,779] {logging_mixin.py:115} INFO - [2022-07-27 22:48:58,779] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:48:58,796] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.053 seconds
+[2022-07-27 22:49:31,922] {processor.py:153} INFO - Started process (PID=6933) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:49:31,925] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:49:31,925] {logging_mixin.py:115} INFO - [2022-07-27 22:49:31,925] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:49:31,932] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:49:31,951] {logging_mixin.py:115} INFO - [2022-07-27 22:49:31,951] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:31,961] {logging_mixin.py:115} INFO - [2022-07-27 22:49:31,960] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:49:32,029] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.109 seconds
+[2022-07-27 22:50:03,866] {processor.py:153} INFO - Started process (PID=6971) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:50:03,867] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:50:03,867] {logging_mixin.py:115} INFO - [2022-07-27 22:50:03,867] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:50:03,871] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:50:03,892] {logging_mixin.py:115} INFO - [2022-07-27 22:50:03,892] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:03,909] {logging_mixin.py:115} INFO - [2022-07-27 22:50:03,909] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:50:03,923] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.059 seconds
+[2022-07-27 22:50:36,449] {processor.py:153} INFO - Started process (PID=7024) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:50:36,449] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:50:36,450] {logging_mixin.py:115} INFO - [2022-07-27 22:50:36,450] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:50:36,453] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:50:36,474] {logging_mixin.py:115} INFO - [2022-07-27 22:50:36,474] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:36,486] {logging_mixin.py:115} INFO - [2022-07-27 22:50:36,486] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:50:36,497] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.049 seconds
+[2022-07-27 22:51:08,591] {processor.py:153} INFO - Started process (PID=7058) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:51:08,592] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:51:08,592] {logging_mixin.py:115} INFO - [2022-07-27 22:51:08,592] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:51:08,596] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:51:08,624] {logging_mixin.py:115} INFO - [2022-07-27 22:51:08,624] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:08,640] {logging_mixin.py:115} INFO - [2022-07-27 22:51:08,640] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:51:08,651] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.063 seconds
+[2022-07-27 22:51:39,996] {processor.py:153} INFO - Started process (PID=7111) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:51:39,996] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:51:39,997] {logging_mixin.py:115} INFO - [2022-07-27 22:51:39,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:51:39,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:51:40,016] {logging_mixin.py:115} INFO - [2022-07-27 22:51:40,016] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:40,025] {logging_mixin.py:115} INFO - [2022-07-27 22:51:40,025] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:51:40,033] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 22:52:13,020] {processor.py:153} INFO - Started process (PID=7147) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:52:13,020] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:52:13,021] {logging_mixin.py:115} INFO - [2022-07-27 22:52:13,020] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:52:13,024] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:52:13,042] {logging_mixin.py:115} INFO - [2022-07-27 22:52:13,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:13,051] {logging_mixin.py:115} INFO - [2022-07-27 22:52:13,051] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:52:13,060] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.042 seconds
+[2022-07-27 22:52:46,038] {processor.py:153} INFO - Started process (PID=7192) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:52:46,038] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:52:46,039] {logging_mixin.py:115} INFO - [2022-07-27 22:52:46,039] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:52:46,042] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:52:46,063] {logging_mixin.py:115} INFO - [2022-07-27 22:52:46,063] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:46,074] {logging_mixin.py:115} INFO - [2022-07-27 22:52:46,074] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:52:46,085] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.049 seconds
+[2022-07-27 22:53:17,999] {processor.py:153} INFO - Started process (PID=7229) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:53:18,000] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:53:18,000] {logging_mixin.py:115} INFO - [2022-07-27 22:53:18,000] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:53:18,003] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:53:18,023] {logging_mixin.py:115} INFO - [2022-07-27 22:53:18,023] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:18,035] {logging_mixin.py:115} INFO - [2022-07-27 22:53:18,035] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:53:18,045] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.048 seconds
+[2022-07-27 22:53:49,580] {processor.py:153} INFO - Started process (PID=7285) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:53:49,580] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:53:49,580] {logging_mixin.py:115} INFO - [2022-07-27 22:53:49,580] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:53:49,584] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:53:49,605] {logging_mixin.py:115} INFO - [2022-07-27 22:53:49,604] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:49,623] {logging_mixin.py:115} INFO - [2022-07-27 22:53:49,623] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:53:49,638] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.061 seconds
+[2022-07-27 22:54:21,109] {processor.py:153} INFO - Started process (PID=7318) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:54:21,110] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:54:21,110] {logging_mixin.py:115} INFO - [2022-07-27 22:54:21,110] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:54:21,113] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:54:21,132] {logging_mixin.py:115} INFO - [2022-07-27 22:54:21,132] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:21,143] {logging_mixin.py:115} INFO - [2022-07-27 22:54:21,143] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:54:21,156] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.049 seconds
+[2022-07-27 22:54:52,049] {processor.py:153} INFO - Started process (PID=7364) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:54:52,050] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:54:52,050] {logging_mixin.py:115} INFO - [2022-07-27 22:54:52,050] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:54:52,053] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:54:52,072] {logging_mixin.py:115} INFO - [2022-07-27 22:54:52,072] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:52,081] {logging_mixin.py:115} INFO - [2022-07-27 22:54:52,081] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:54:52,093] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.045 seconds
+[2022-07-27 22:55:25,639] {processor.py:153} INFO - Started process (PID=7419) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:55:25,640] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:55:25,640] {logging_mixin.py:115} INFO - [2022-07-27 22:55:25,640] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:55:25,643] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:55:25,662] {logging_mixin.py:115} INFO - [2022-07-27 22:55:25,662] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:25,672] {logging_mixin.py:115} INFO - [2022-07-27 22:55:25,672] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:55:25,682] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.045 seconds
+[2022-07-27 22:55:59,863] {processor.py:153} INFO - Started process (PID=7476) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:55:59,864] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:55:59,864] {logging_mixin.py:115} INFO - [2022-07-27 22:55:59,864] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:55:59,868] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:55:59,889] {logging_mixin.py:115} INFO - [2022-07-27 22:55:59,889] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:59,899] {logging_mixin.py:115} INFO - [2022-07-27 22:55:59,899] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:55:59,910] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.049 seconds
+[2022-07-27 22:56:35,791] {processor.py:153} INFO - Started process (PID=7540) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:56:35,793] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:56:35,793] {logging_mixin.py:115} INFO - [2022-07-27 22:56:35,793] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:56:35,798] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:56:35,820] {logging_mixin.py:115} INFO - [2022-07-27 22:56:35,820] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:35,831] {logging_mixin.py:115} INFO - [2022-07-27 22:56:35,831] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:56:35,842] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.052 seconds
+[2022-07-27 22:57:07,803] {processor.py:153} INFO - Started process (PID=7581) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:57:07,805] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:57:07,805] {logging_mixin.py:115} INFO - [2022-07-27 22:57:07,805] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:57:07,808] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:57:07,826] {logging_mixin.py:115} INFO - [2022-07-27 22:57:07,826] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:07,838] {logging_mixin.py:115} INFO - [2022-07-27 22:57:07,838] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:57:07,848] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 22:57:41,443] {processor.py:153} INFO - Started process (PID=7615) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:57:41,444] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:57:41,444] {logging_mixin.py:115} INFO - [2022-07-27 22:57:41,444] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:57:41,447] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:57:41,464] {logging_mixin.py:115} INFO - [2022-07-27 22:57:41,464] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:41,474] {logging_mixin.py:115} INFO - [2022-07-27 22:57:41,474] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:57:41,484] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.043 seconds
+[2022-07-27 22:58:12,447] {processor.py:153} INFO - Started process (PID=7662) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:58:12,447] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:58:12,448] {logging_mixin.py:115} INFO - [2022-07-27 22:58:12,447] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:58:12,451] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:58:12,471] {logging_mixin.py:115} INFO - [2022-07-27 22:58:12,471] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:12,488] {logging_mixin.py:115} INFO - [2022-07-27 22:58:12,488] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:58:12,498] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.053 seconds
+[2022-07-27 22:58:44,026] {processor.py:153} INFO - Started process (PID=7699) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:58:44,027] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:58:44,027] {logging_mixin.py:115} INFO - [2022-07-27 22:58:44,027] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:58:44,030] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:58:44,047] {logging_mixin.py:115} INFO - [2022-07-27 22:58:44,047] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:44,057] {logging_mixin.py:115} INFO - [2022-07-27 22:58:44,057] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:58:44,066] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 22:59:15,975] {processor.py:153} INFO - Started process (PID=7734) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:59:15,975] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:59:15,976] {logging_mixin.py:115} INFO - [2022-07-27 22:59:15,976] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:59:15,979] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:59:15,998] {logging_mixin.py:115} INFO - [2022-07-27 22:59:15,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:16,009] {logging_mixin.py:115} INFO - [2022-07-27 22:59:16,008] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:59:16,021] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.048 seconds
+[2022-07-27 22:59:49,053] {processor.py:153} INFO - Started process (PID=7787) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:59:49,054] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 22:59:49,054] {logging_mixin.py:115} INFO - [2022-07-27 22:59:49,054] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:59:49,057] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 22:59:49,073] {logging_mixin.py:115} INFO - [2022-07-27 22:59:49,073] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:49,083] {logging_mixin.py:115} INFO - [2022-07-27 22:59:49,082] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 22:59:49,091] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:00:22,762] {processor.py:153} INFO - Started process (PID=7825) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:00:22,763] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:00:22,763] {logging_mixin.py:115} INFO - [2022-07-27 23:00:22,763] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:00:22,766] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:00:22,782] {logging_mixin.py:115} INFO - [2022-07-27 23:00:22,782] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:22,791] {logging_mixin.py:115} INFO - [2022-07-27 23:00:22,791] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:00:22,800] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:00:56,498] {processor.py:153} INFO - Started process (PID=7863) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:00:56,498] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:00:56,498] {logging_mixin.py:115} INFO - [2022-07-27 23:00:56,498] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:00:56,502] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:00:56,519] {logging_mixin.py:115} INFO - [2022-07-27 23:00:56,519] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:56,529] {logging_mixin.py:115} INFO - [2022-07-27 23:00:56,529] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:00:56,539] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.043 seconds
+[2022-07-27 23:01:29,891] {processor.py:153} INFO - Started process (PID=7910) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:01:29,891] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:01:29,892] {logging_mixin.py:115} INFO - [2022-07-27 23:01:29,892] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:01:29,894] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:01:29,911] {logging_mixin.py:115} INFO - [2022-07-27 23:01:29,911] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:29,920] {logging_mixin.py:115} INFO - [2022-07-27 23:01:29,920] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:01:29,928] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:02:01,180] {processor.py:153} INFO - Started process (PID=7956) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:02:01,180] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:02:01,181] {logging_mixin.py:115} INFO - [2022-07-27 23:02:01,181] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:02:01,184] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:02:01,210] {logging_mixin.py:115} INFO - [2022-07-27 23:02:01,210] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:01,223] {logging_mixin.py:115} INFO - [2022-07-27 23:02:01,223] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:02:01,236] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.057 seconds
+[2022-07-27 23:02:35,162] {processor.py:153} INFO - Started process (PID=8004) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:02:35,163] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:02:35,163] {logging_mixin.py:115} INFO - [2022-07-27 23:02:35,163] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:02:35,166] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:02:35,182] {logging_mixin.py:115} INFO - [2022-07-27 23:02:35,182] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:35,192] {logging_mixin.py:115} INFO - [2022-07-27 23:02:35,192] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:02:35,200] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:03:09,653] {processor.py:153} INFO - Started process (PID=8055) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:03:09,654] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:03:09,654] {logging_mixin.py:115} INFO - [2022-07-27 23:03:09,654] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:03:09,657] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:03:09,673] {logging_mixin.py:115} INFO - [2022-07-27 23:03:09,673] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:09,683] {logging_mixin.py:115} INFO - [2022-07-27 23:03:09,683] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:03:09,691] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:03:41,894] {processor.py:153} INFO - Started process (PID=8097) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:03:41,894] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:03:41,894] {logging_mixin.py:115} INFO - [2022-07-27 23:03:41,894] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:03:41,897] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:03:41,913] {logging_mixin.py:115} INFO - [2022-07-27 23:03:41,913] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:41,922] {logging_mixin.py:115} INFO - [2022-07-27 23:03:41,922] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:03:41,931] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:04:16,633] {processor.py:153} INFO - Started process (PID=8138) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:04:16,634] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:04:16,634] {logging_mixin.py:115} INFO - [2022-07-27 23:04:16,634] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:04:16,637] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:04:16,653] {logging_mixin.py:115} INFO - [2022-07-27 23:04:16,653] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:16,662] {logging_mixin.py:115} INFO - [2022-07-27 23:04:16,662] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:04:16,670] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:04:52,021] {processor.py:153} INFO - Started process (PID=8175) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:04:52,021] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:04:52,022] {logging_mixin.py:115} INFO - [2022-07-27 23:04:52,022] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:04:52,025] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:04:52,042] {logging_mixin.py:115} INFO - [2022-07-27 23:04:52,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:52,051] {logging_mixin.py:115} INFO - [2022-07-27 23:04:52,051] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:04:52,061] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.042 seconds
+[2022-07-27 23:05:23,474] {processor.py:153} INFO - Started process (PID=8233) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:05:23,474] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:05:23,474] {logging_mixin.py:115} INFO - [2022-07-27 23:05:23,474] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:05:23,477] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:05:23,494] {logging_mixin.py:115} INFO - [2022-07-27 23:05:23,494] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:23,504] {logging_mixin.py:115} INFO - [2022-07-27 23:05:23,503] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:05:23,513] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 23:05:57,672] {processor.py:153} INFO - Started process (PID=8294) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:05:57,673] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:05:57,673] {logging_mixin.py:115} INFO - [2022-07-27 23:05:57,673] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:05:57,676] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:05:57,693] {logging_mixin.py:115} INFO - [2022-07-27 23:05:57,693] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:57,702] {logging_mixin.py:115} INFO - [2022-07-27 23:05:57,702] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:05:57,711] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 23:06:29,950] {processor.py:153} INFO - Started process (PID=8340) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:06:29,950] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:06:29,950] {logging_mixin.py:115} INFO - [2022-07-27 23:06:29,950] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:06:29,953] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:06:29,971] {logging_mixin.py:115} INFO - [2022-07-27 23:06:29,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:29,981] {logging_mixin.py:115} INFO - [2022-07-27 23:06:29,981] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:06:29,991] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.043 seconds
+[2022-07-27 23:07:01,127] {processor.py:153} INFO - Started process (PID=8376) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:07:01,128] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:07:01,128] {logging_mixin.py:115} INFO - [2022-07-27 23:07:01,128] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:07:01,131] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:07:01,147] {logging_mixin.py:115} INFO - [2022-07-27 23:07:01,147] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:01,156] {logging_mixin.py:115} INFO - [2022-07-27 23:07:01,156] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:07:01,164] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:07:34,440] {processor.py:153} INFO - Started process (PID=8422) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:07:34,440] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:07:34,441] {logging_mixin.py:115} INFO - [2022-07-27 23:07:34,441] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:07:34,444] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:07:34,463] {logging_mixin.py:115} INFO - [2022-07-27 23:07:34,463] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:34,474] {logging_mixin.py:115} INFO - [2022-07-27 23:07:34,474] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:07:34,484] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.047 seconds
+[2022-07-27 23:08:07,274] {processor.py:153} INFO - Started process (PID=8471) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:08:07,274] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:08:07,274] {logging_mixin.py:115} INFO - [2022-07-27 23:08:07,274] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:08:07,277] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:08:07,293] {logging_mixin.py:115} INFO - [2022-07-27 23:08:07,293] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:07,303] {logging_mixin.py:115} INFO - [2022-07-27 23:08:07,303] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:08:07,312] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:08:39,831] {processor.py:153} INFO - Started process (PID=8514) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:08:39,832] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:08:39,832] {logging_mixin.py:115} INFO - [2022-07-27 23:08:39,832] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:08:39,835] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:08:39,851] {logging_mixin.py:115} INFO - [2022-07-27 23:08:39,851] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:39,860] {logging_mixin.py:115} INFO - [2022-07-27 23:08:39,860] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:08:39,871] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 23:09:11,813] {processor.py:153} INFO - Started process (PID=8550) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:09:11,813] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:09:11,814] {logging_mixin.py:115} INFO - [2022-07-27 23:09:11,814] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:09:11,816] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:09:11,832] {logging_mixin.py:115} INFO - [2022-07-27 23:09:11,832] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:11,841] {logging_mixin.py:115} INFO - [2022-07-27 23:09:11,841] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:09:11,850] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:09:46,615] {processor.py:153} INFO - Started process (PID=8603) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:09:46,615] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:09:46,615] {logging_mixin.py:115} INFO - [2022-07-27 23:09:46,615] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:09:46,618] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:09:46,635] {logging_mixin.py:115} INFO - [2022-07-27 23:09:46,635] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:46,644] {logging_mixin.py:115} INFO - [2022-07-27 23:09:46,644] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:09:46,653] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:10:18,488] {processor.py:153} INFO - Started process (PID=8647) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:10:18,489] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:10:18,489] {logging_mixin.py:115} INFO - [2022-07-27 23:10:18,489] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:10:18,492] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:10:18,509] {logging_mixin.py:115} INFO - [2022-07-27 23:10:18,509] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:18,519] {logging_mixin.py:115} INFO - [2022-07-27 23:10:18,519] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:10:18,530] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.044 seconds
+[2022-07-27 23:10:51,001] {processor.py:153} INFO - Started process (PID=8703) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:10:51,002] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:10:51,002] {logging_mixin.py:115} INFO - [2022-07-27 23:10:51,002] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:10:51,005] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:10:51,022] {logging_mixin.py:115} INFO - [2022-07-27 23:10:51,022] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:51,031] {logging_mixin.py:115} INFO - [2022-07-27 23:10:51,031] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:10:51,040] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:11:23,072] {processor.py:153} INFO - Started process (PID=8744) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:11:23,073] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:11:23,073] {logging_mixin.py:115} INFO - [2022-07-27 23:11:23,073] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:11:23,076] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:11:23,094] {logging_mixin.py:115} INFO - [2022-07-27 23:11:23,094] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:23,104] {logging_mixin.py:115} INFO - [2022-07-27 23:11:23,104] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:11:23,114] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.044 seconds
+[2022-07-27 23:11:58,292] {processor.py:153} INFO - Started process (PID=8796) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:11:58,293] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:11:58,293] {logging_mixin.py:115} INFO - [2022-07-27 23:11:58,293] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:11:58,297] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:11:58,319] {logging_mixin.py:115} INFO - [2022-07-27 23:11:58,319] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:58,331] {logging_mixin.py:115} INFO - [2022-07-27 23:11:58,331] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:11:58,343] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.052 seconds
+[2022-07-27 23:12:29,191] {processor.py:153} INFO - Started process (PID=8841) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:12:29,191] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:12:29,191] {logging_mixin.py:115} INFO - [2022-07-27 23:12:29,191] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:12:29,194] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:12:29,210] {logging_mixin.py:115} INFO - [2022-07-27 23:12:29,210] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:29,219] {logging_mixin.py:115} INFO - [2022-07-27 23:12:29,219] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:12:29,229] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:13:02,967] {processor.py:153} INFO - Started process (PID=8877) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:13:02,967] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:13:02,968] {logging_mixin.py:115} INFO - [2022-07-27 23:13:02,968] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:13:02,970] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:13:02,987] {logging_mixin.py:115} INFO - [2022-07-27 23:13:02,987] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:02,996] {logging_mixin.py:115} INFO - [2022-07-27 23:13:02,996] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:13:03,004] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:13:33,956] {processor.py:153} INFO - Started process (PID=8910) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:13:33,956] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:13:33,957] {logging_mixin.py:115} INFO - [2022-07-27 23:13:33,957] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:13:33,960] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:13:33,976] {logging_mixin.py:115} INFO - [2022-07-27 23:13:33,976] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:33,985] {logging_mixin.py:115} INFO - [2022-07-27 23:13:33,985] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:13:33,994] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:14:06,422] {processor.py:153} INFO - Started process (PID=8944) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:14:06,422] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:14:06,422] {logging_mixin.py:115} INFO - [2022-07-27 23:14:06,422] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:14:06,425] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:14:06,443] {logging_mixin.py:115} INFO - [2022-07-27 23:14:06,442] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:06,453] {logging_mixin.py:115} INFO - [2022-07-27 23:14:06,453] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:14:06,463] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.043 seconds
+[2022-07-27 23:14:39,304] {processor.py:153} INFO - Started process (PID=8981) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:14:39,305] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:14:39,305] {logging_mixin.py:115} INFO - [2022-07-27 23:14:39,305] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:14:39,308] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:14:39,324] {logging_mixin.py:115} INFO - [2022-07-27 23:14:39,324] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:39,334] {logging_mixin.py:115} INFO - [2022-07-27 23:14:39,334] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:14:39,343] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:15:12,370] {processor.py:153} INFO - Started process (PID=9038) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:15:12,371] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:15:12,371] {logging_mixin.py:115} INFO - [2022-07-27 23:15:12,371] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:15:12,374] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:15:12,390] {logging_mixin.py:115} INFO - [2022-07-27 23:15:12,390] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:12,399] {logging_mixin.py:115} INFO - [2022-07-27 23:15:12,399] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:15:12,407] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:15:44,331] {processor.py:153} INFO - Started process (PID=9079) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:15:44,332] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:15:44,332] {logging_mixin.py:115} INFO - [2022-07-27 23:15:44,332] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:15:44,335] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:15:44,351] {logging_mixin.py:115} INFO - [2022-07-27 23:15:44,351] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:44,360] {logging_mixin.py:115} INFO - [2022-07-27 23:15:44,360] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:15:44,369] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:16:17,465] {processor.py:153} INFO - Started process (PID=9115) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:16:17,466] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:16:17,466] {logging_mixin.py:115} INFO - [2022-07-27 23:16:17,466] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:16:17,469] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:16:17,486] {logging_mixin.py:115} INFO - [2022-07-27 23:16:17,485] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:17,495] {logging_mixin.py:115} INFO - [2022-07-27 23:16:17,495] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:16:17,504] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 23:16:51,137] {processor.py:153} INFO - Started process (PID=9149) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:16:51,138] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:16:51,138] {logging_mixin.py:115} INFO - [2022-07-27 23:16:51,138] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:16:51,141] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:16:51,157] {logging_mixin.py:115} INFO - [2022-07-27 23:16:51,157] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:51,167] {logging_mixin.py:115} INFO - [2022-07-27 23:16:51,167] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:16:51,175] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:17:23,607] {processor.py:153} INFO - Started process (PID=9191) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:17:23,608] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:17:23,608] {logging_mixin.py:115} INFO - [2022-07-27 23:17:23,608] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:17:23,611] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:17:23,627] {logging_mixin.py:115} INFO - [2022-07-27 23:17:23,627] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:23,636] {logging_mixin.py:115} INFO - [2022-07-27 23:17:23,636] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:17:23,645] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:17:57,434] {processor.py:153} INFO - Started process (PID=9224) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:17:57,435] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:17:57,435] {logging_mixin.py:115} INFO - [2022-07-27 23:17:57,435] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:17:57,438] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:17:57,454] {logging_mixin.py:115} INFO - [2022-07-27 23:17:57,454] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:57,464] {logging_mixin.py:115} INFO - [2022-07-27 23:17:57,464] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:17:57,472] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:18:29,328] {processor.py:153} INFO - Started process (PID=9260) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:18:29,329] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:18:29,329] {logging_mixin.py:115} INFO - [2022-07-27 23:18:29,329] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:18:29,332] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:18:29,348] {logging_mixin.py:115} INFO - [2022-07-27 23:18:29,348] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:29,358] {logging_mixin.py:115} INFO - [2022-07-27 23:18:29,358] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:18:29,366] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:19:05,358] {processor.py:153} INFO - Started process (PID=9297) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:19:05,359] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:19:05,359] {logging_mixin.py:115} INFO - [2022-07-27 23:19:05,359] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:19:05,362] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:19:05,379] {logging_mixin.py:115} INFO - [2022-07-27 23:19:05,379] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:05,389] {logging_mixin.py:115} INFO - [2022-07-27 23:19:05,389] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:19:05,397] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2022-07-27 23:19:37,215] {processor.py:153} INFO - Started process (PID=9331) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:19:37,216] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:19:37,216] {logging_mixin.py:115} INFO - [2022-07-27 23:19:37,216] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:19:37,219] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:19:37,235] {logging_mixin.py:115} INFO - [2022-07-27 23:19:37,235] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:37,245] {logging_mixin.py:115} INFO - [2022-07-27 23:19:37,245] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:19:37,254] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-07-27 23:20:10,165] {processor.py:153} INFO - Started process (PID=9367) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:20:10,166] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:20:10,166] {logging_mixin.py:115} INFO - [2022-07-27 23:20:10,166] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:20:10,169] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:20:10,185] {logging_mixin.py:115} INFO - [2022-07-27 23:20:10,185] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:10,194] {logging_mixin.py:115} INFO - [2022-07-27 23:20:10,194] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:20:10,203] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:20:44,006] {processor.py:153} INFO - Started process (PID=9405) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:20:44,007] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:20:44,007] {logging_mixin.py:115} INFO - [2022-07-27 23:20:44,007] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:20:44,010] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:20:44,026] {logging_mixin.py:115} INFO - [2022-07-27 23:20:44,026] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:44,035] {logging_mixin.py:115} INFO - [2022-07-27 23:20:44,035] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:20:44,049] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.045 seconds
+[2022-07-27 23:21:15,963] {processor.py:153} INFO - Started process (PID=9452) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:21:15,963] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:21:15,963] {logging_mixin.py:115} INFO - [2022-07-27 23:21:15,963] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:21:15,966] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:21:15,982] {logging_mixin.py:115} INFO - [2022-07-27 23:21:15,982] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:15,991] {logging_mixin.py:115} INFO - [2022-07-27 23:21:15,991] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:21:16,000] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds
+[2022-07-27 23:21:49,697] {processor.py:153} INFO - Started process (PID=9488) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:21:49,698] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-07-27 23:21:49,698] {logging_mixin.py:115} INFO - [2022-07-27 23:21:49,698] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:21:49,701] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-07-27 23:21:49,717] {logging_mixin.py:115} INFO - [2022-07-27 23:21:49,717] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:49,726] {logging_mixin.py:115} INFO - [2022-07-27 23:21:49,726] {dag.py:2968} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-07-27 23:21:49,734] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.039 seconds

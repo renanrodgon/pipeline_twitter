@@ -1,0 +1,798 @@
+[2022-07-27 22:18:44,364] {processor.py:153} INFO - Started process (PID=3843) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:18:44,365] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:18:44,365] {logging_mixin.py:115} INFO - [2022-07-27 22:18:44,365] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:18:44,374] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:18:44,389] {logging_mixin.py:115} INFO - [2022-07-27 22:18:44,388] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:18:44,399] {logging_mixin.py:115} INFO - [2022-07-27 22:18:44,399] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:18:44,410] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2022-07-27 22:19:18,593] {processor.py:153} INFO - Started process (PID=3956) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:19:18,594] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:19:18,594] {logging_mixin.py:115} INFO - [2022-07-27 22:19:18,594] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:19:18,604] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:19:18,618] {logging_mixin.py:115} INFO - [2022-07-27 22:19:18,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:18,631] {logging_mixin.py:115} INFO - [2022-07-27 22:19:18,631] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:19:18,693] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-07-27 22:19:51,389] {processor.py:153} INFO - Started process (PID=3994) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:19:51,390] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:19:51,390] {logging_mixin.py:115} INFO - [2022-07-27 22:19:51,390] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:19:51,397] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:19:51,412] {logging_mixin.py:115} INFO - [2022-07-27 22:19:51,412] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:51,423] {logging_mixin.py:115} INFO - [2022-07-27 22:19:51,423] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:19:51,435] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-07-27 22:20:24,170] {processor.py:153} INFO - Started process (PID=4312) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:20:24,171] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:20:24,171] {logging_mixin.py:115} INFO - [2022-07-27 22:20:24,171] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:20:24,178] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:20:24,192] {logging_mixin.py:115} INFO - [2022-07-27 22:20:24,192] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:24,202] {logging_mixin.py:115} INFO - [2022-07-27 22:20:24,201] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:20:24,210] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 22:20:58,174] {processor.py:153} INFO - Started process (PID=4352) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:20:58,174] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:20:58,175] {logging_mixin.py:115} INFO - [2022-07-27 22:20:58,175] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:20:58,182] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:20:58,195] {logging_mixin.py:115} INFO - [2022-07-27 22:20:58,195] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:58,204] {logging_mixin.py:115} INFO - [2022-07-27 22:20:58,204] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:20:58,214] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-07-27 22:21:30,121] {processor.py:153} INFO - Started process (PID=4396) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:21:30,121] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:21:30,121] {logging_mixin.py:115} INFO - [2022-07-27 22:21:30,121] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:21:30,133] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:21:30,149] {logging_mixin.py:115} INFO - [2022-07-27 22:21:30,149] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:30,160] {logging_mixin.py:115} INFO - [2022-07-27 22:21:30,160] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:21:30,170] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2022-07-27 22:22:05,046] {processor.py:153} INFO - Started process (PID=4440) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:22:05,047] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:22:05,047] {logging_mixin.py:115} INFO - [2022-07-27 22:22:05,047] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:22:05,055] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:22:05,070] {logging_mixin.py:115} INFO - [2022-07-27 22:22:05,070] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:05,079] {logging_mixin.py:115} INFO - [2022-07-27 22:22:05,079] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:22:05,094] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-07-27 22:22:36,792] {processor.py:153} INFO - Started process (PID=4487) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:22:36,793] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:22:36,793] {logging_mixin.py:115} INFO - [2022-07-27 22:22:36,793] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:22:36,800] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:22:36,816] {logging_mixin.py:115} INFO - [2022-07-27 22:22:36,816] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:36,829] {logging_mixin.py:115} INFO - [2022-07-27 22:22:36,829] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:22:36,841] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2022-07-27 22:23:09,728] {processor.py:153} INFO - Started process (PID=4540) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:23:09,729] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:23:09,729] {logging_mixin.py:115} INFO - [2022-07-27 22:23:09,729] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:23:09,736] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:23:09,750] {logging_mixin.py:115} INFO - [2022-07-27 22:23:09,750] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:09,762] {logging_mixin.py:115} INFO - [2022-07-27 22:23:09,762] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:23:09,777] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2022-07-27 22:23:41,117] {processor.py:153} INFO - Started process (PID=4581) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:23:41,117] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:23:41,117] {logging_mixin.py:115} INFO - [2022-07-27 22:23:41,117] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:23:41,125] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:23:41,139] {logging_mixin.py:115} INFO - [2022-07-27 22:23:41,139] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:41,150] {logging_mixin.py:115} INFO - [2022-07-27 22:23:41,150] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:23:41,218] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2022-07-27 22:24:15,457] {processor.py:153} INFO - Started process (PID=4617) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:24:15,458] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:24:15,458] {logging_mixin.py:115} INFO - [2022-07-27 22:24:15,458] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:24:15,466] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:24:15,480] {logging_mixin.py:115} INFO - [2022-07-27 22:24:15,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:15,491] {logging_mixin.py:115} INFO - [2022-07-27 22:24:15,491] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:24:15,500] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 22:24:48,575] {processor.py:153} INFO - Started process (PID=4669) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:24:48,576] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:24:48,576] {logging_mixin.py:115} INFO - [2022-07-27 22:24:48,576] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:24:48,583] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:24:48,596] {logging_mixin.py:115} INFO - [2022-07-27 22:24:48,596] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:48,606] {logging_mixin.py:115} INFO - [2022-07-27 22:24:48,606] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:24:48,615] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 22:25:19,437] {processor.py:153} INFO - Started process (PID=4724) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:25:19,437] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:25:19,437] {logging_mixin.py:115} INFO - [2022-07-27 22:25:19,437] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:25:19,444] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:25:19,460] {logging_mixin.py:115} INFO - [2022-07-27 22:25:19,460] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:19,473] {logging_mixin.py:115} INFO - [2022-07-27 22:25:19,472] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:25:19,521] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2022-07-27 22:25:53,763] {processor.py:153} INFO - Started process (PID=4768) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:25:53,763] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:25:53,763] {logging_mixin.py:115} INFO - [2022-07-27 22:25:53,763] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:25:53,771] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:25:53,784] {logging_mixin.py:115} INFO - [2022-07-27 22:25:53,784] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:53,799] {logging_mixin.py:115} INFO - [2022-07-27 22:25:53,798] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:25:53,860] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2022-07-27 22:26:27,521] {processor.py:153} INFO - Started process (PID=4821) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:26:27,522] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:26:27,522] {logging_mixin.py:115} INFO - [2022-07-27 22:26:27,522] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:26:27,529] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:26:27,543] {logging_mixin.py:115} INFO - [2022-07-27 22:26:27,543] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:27,554] {logging_mixin.py:115} INFO - [2022-07-27 22:26:27,554] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:26:27,565] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 22:27:00,369] {processor.py:153} INFO - Started process (PID=4864) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:27:00,370] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:27:00,370] {logging_mixin.py:115} INFO - [2022-07-27 22:27:00,370] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:27:00,378] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:27:00,395] {logging_mixin.py:115} INFO - [2022-07-27 22:27:00,395] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:00,406] {logging_mixin.py:115} INFO - [2022-07-27 22:27:00,406] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:27:00,478] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2022-07-27 22:27:33,243] {processor.py:153} INFO - Started process (PID=4904) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:27:33,244] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:27:33,244] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,244] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:27:33,251] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:27:33,264] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,264] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:33,273] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,273] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:27:33,282] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 22:28:06,426] {processor.py:153} INFO - Started process (PID=4942) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:28:06,426] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:28:06,426] {logging_mixin.py:115} INFO - [2022-07-27 22:28:06,426] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:28:06,434] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:28:06,446] {logging_mixin.py:115} INFO - [2022-07-27 22:28:06,446] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:06,456] {logging_mixin.py:115} INFO - [2022-07-27 22:28:06,456] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:28:06,465] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 22:28:40,161] {processor.py:153} INFO - Started process (PID=4998) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:28:40,162] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:28:40,162] {logging_mixin.py:115} INFO - [2022-07-27 22:28:40,162] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:28:40,173] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:28:40,186] {logging_mixin.py:115} INFO - [2022-07-27 22:28:40,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:40,198] {logging_mixin.py:115} INFO - [2022-07-27 22:28:40,198] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:28:40,207] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2022-07-27 22:29:12,174] {processor.py:153} INFO - Started process (PID=5050) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:29:12,175] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:29:12,175] {logging_mixin.py:115} INFO - [2022-07-27 22:29:12,175] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:29:12,184] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:29:12,195] {logging_mixin.py:115} INFO - [2022-07-27 22:29:12,195] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:12,204] {logging_mixin.py:115} INFO - [2022-07-27 22:29:12,204] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:29:12,213] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 22:29:45,261] {processor.py:153} INFO - Started process (PID=5099) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:29:45,261] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:29:45,262] {logging_mixin.py:115} INFO - [2022-07-27 22:29:45,262] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:29:45,271] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:29:45,282] {logging_mixin.py:115} INFO - [2022-07-27 22:29:45,282] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:45,292] {logging_mixin.py:115} INFO - [2022-07-27 22:29:45,292] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:29:45,301] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-07-27 22:30:20,033] {processor.py:153} INFO - Started process (PID=5149) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:30:20,034] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:30:20,034] {logging_mixin.py:115} INFO - [2022-07-27 22:30:20,034] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:30:20,043] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:30:20,054] {logging_mixin.py:115} INFO - [2022-07-27 22:30:20,054] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:20,063] {logging_mixin.py:115} INFO - [2022-07-27 22:30:20,063] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:30:20,073] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-07-27 22:30:53,436] {processor.py:153} INFO - Started process (PID=5191) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:30:53,436] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:30:53,437] {logging_mixin.py:115} INFO - [2022-07-27 22:30:53,437] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:30:53,446] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:30:53,456] {logging_mixin.py:115} INFO - [2022-07-27 22:30:53,456] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:53,465] {logging_mixin.py:115} INFO - [2022-07-27 22:30:53,465] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:30:53,474] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 22:31:25,707] {processor.py:153} INFO - Started process (PID=5244) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:31:25,708] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:31:25,708] {logging_mixin.py:115} INFO - [2022-07-27 22:31:25,708] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:31:25,717] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:31:25,729] {logging_mixin.py:115} INFO - [2022-07-27 22:31:25,729] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:25,739] {logging_mixin.py:115} INFO - [2022-07-27 22:31:25,739] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:31:25,749] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-07-27 22:32:01,608] {processor.py:153} INFO - Started process (PID=5289) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:32:01,608] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:32:01,609] {logging_mixin.py:115} INFO - [2022-07-27 22:32:01,608] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:32:01,619] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:32:01,632] {logging_mixin.py:115} INFO - [2022-07-27 22:32:01,632] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:01,643] {logging_mixin.py:115} INFO - [2022-07-27 22:32:01,643] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:32:01,653] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-07-27 22:32:33,565] {processor.py:153} INFO - Started process (PID=5338) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:32:33,565] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:32:33,566] {logging_mixin.py:115} INFO - [2022-07-27 22:32:33,566] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:32:33,578] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:32:33,593] {logging_mixin.py:115} INFO - [2022-07-27 22:32:33,593] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:33,603] {logging_mixin.py:115} INFO - [2022-07-27 22:32:33,603] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:32:33,613] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-07-27 22:33:08,401] {processor.py:153} INFO - Started process (PID=5384) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:33:08,402] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:33:08,402] {logging_mixin.py:115} INFO - [2022-07-27 22:33:08,402] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:33:08,412] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:33:08,424] {logging_mixin.py:115} INFO - [2022-07-27 22:33:08,424] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:08,434] {logging_mixin.py:115} INFO - [2022-07-27 22:33:08,434] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:33:08,442] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-07-27 22:33:41,615] {processor.py:153} INFO - Started process (PID=5431) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:33:41,616] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:33:41,616] {logging_mixin.py:115} INFO - [2022-07-27 22:33:41,616] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:33:41,625] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:33:41,636] {logging_mixin.py:115} INFO - [2022-07-27 22:33:41,636] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:41,645] {logging_mixin.py:115} INFO - [2022-07-27 22:33:41,644] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:33:41,659] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 22:34:14,650] {processor.py:153} INFO - Started process (PID=5491) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:34:14,651] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:34:14,651] {logging_mixin.py:115} INFO - [2022-07-27 22:34:14,651] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:34:14,661] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:34:14,676] {logging_mixin.py:115} INFO - [2022-07-27 22:34:14,676] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:14,685] {logging_mixin.py:115} INFO - [2022-07-27 22:34:14,685] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:34:14,696] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-07-27 22:34:47,765] {processor.py:153} INFO - Started process (PID=5526) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:34:47,766] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:34:47,766] {logging_mixin.py:115} INFO - [2022-07-27 22:34:47,766] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:34:47,776] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:34:47,788] {logging_mixin.py:115} INFO - [2022-07-27 22:34:47,788] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:47,807] {logging_mixin.py:115} INFO - [2022-07-27 22:34:47,807] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:34:47,818] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2022-07-27 22:35:19,096] {processor.py:153} INFO - Started process (PID=5566) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:35:19,096] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:35:19,096] {logging_mixin.py:115} INFO - [2022-07-27 22:35:19,096] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:35:19,108] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:35:19,120] {logging_mixin.py:115} INFO - [2022-07-27 22:35:19,120] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:19,129] {logging_mixin.py:115} INFO - [2022-07-27 22:35:19,129] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:35:19,138] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 22:35:51,726] {processor.py:153} INFO - Started process (PID=5622) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:35:51,727] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:35:51,727] {logging_mixin.py:115} INFO - [2022-07-27 22:35:51,727] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:35:51,737] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:35:51,749] {logging_mixin.py:115} INFO - [2022-07-27 22:35:51,749] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:51,759] {logging_mixin.py:115} INFO - [2022-07-27 22:35:51,759] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:35:51,769] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 22:36:26,326] {processor.py:153} INFO - Started process (PID=5725) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:36:26,327] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:36:26,328] {logging_mixin.py:115} INFO - [2022-07-27 22:36:26,328] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:36:26,349] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:36:26,382] {logging_mixin.py:115} INFO - [2022-07-27 22:36:26,382] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:26,396] {logging_mixin.py:115} INFO - [2022-07-27 22:36:26,396] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:36:26,410] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2022-07-27 22:36:57,830] {processor.py:153} INFO - Started process (PID=5804) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:36:57,830] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:36:57,830] {logging_mixin.py:115} INFO - [2022-07-27 22:36:57,830] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:36:57,840] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:36:57,853] {logging_mixin.py:115} INFO - [2022-07-27 22:36:57,853] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:57,865] {logging_mixin.py:115} INFO - [2022-07-27 22:36:57,865] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:36:57,878] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-07-27 22:37:31,816] {processor.py:153} INFO - Started process (PID=5841) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:37:31,816] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:37:31,817] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,817] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:37:31,827] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:37:31,840] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:31,852] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,852] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:37:31,863] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-07-27 22:38:04,329] {processor.py:153} INFO - Started process (PID=5882) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:38:04,329] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:38:04,330] {logging_mixin.py:115} INFO - [2022-07-27 22:38:04,330] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:38:04,339] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:38:04,352] {logging_mixin.py:115} INFO - [2022-07-27 22:38:04,351] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:04,362] {logging_mixin.py:115} INFO - [2022-07-27 22:38:04,362] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:38:04,372] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2022-07-27 22:38:37,253] {processor.py:153} INFO - Started process (PID=5928) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:38:37,254] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:38:37,254] {logging_mixin.py:115} INFO - [2022-07-27 22:38:37,254] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:38:37,262] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:38:37,275] {logging_mixin.py:115} INFO - [2022-07-27 22:38:37,275] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:37,286] {logging_mixin.py:115} INFO - [2022-07-27 22:38:37,286] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:38:37,300] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-07-27 22:39:10,656] {processor.py:153} INFO - Started process (PID=5974) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:39:10,657] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:39:10,657] {logging_mixin.py:115} INFO - [2022-07-27 22:39:10,657] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:39:10,664] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:39:10,679] {logging_mixin.py:115} INFO - [2022-07-27 22:39:10,679] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:10,690] {logging_mixin.py:115} INFO - [2022-07-27 22:39:10,689] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:39:10,699] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 22:39:44,034] {processor.py:153} INFO - Started process (PID=6025) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:39:44,036] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:39:44,036] {logging_mixin.py:115} INFO - [2022-07-27 22:39:44,036] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:39:44,044] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:39:44,056] {logging_mixin.py:115} INFO - [2022-07-27 22:39:44,056] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:44,068] {logging_mixin.py:115} INFO - [2022-07-27 22:39:44,067] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:39:44,127] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2022-07-27 22:40:19,391] {processor.py:153} INFO - Started process (PID=6068) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:40:19,392] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:40:19,392] {logging_mixin.py:115} INFO - [2022-07-27 22:40:19,392] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:40:19,403] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:40:19,419] {logging_mixin.py:115} INFO - [2022-07-27 22:40:19,418] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:19,430] {logging_mixin.py:115} INFO - [2022-07-27 22:40:19,430] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:40:19,490] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-07-27 22:40:52,132] {processor.py:153} INFO - Started process (PID=6111) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:40:52,133] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:40:52,133] {logging_mixin.py:115} INFO - [2022-07-27 22:40:52,133] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:40:52,143] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:40:52,159] {logging_mixin.py:115} INFO - [2022-07-27 22:40:52,159] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:52,172] {logging_mixin.py:115} INFO - [2022-07-27 22:40:52,172] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:40:52,180] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-07-27 22:41:23,859] {processor.py:153} INFO - Started process (PID=6168) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:41:23,860] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:41:23,860] {logging_mixin.py:115} INFO - [2022-07-27 22:41:23,860] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:41:23,868] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:41:23,881] {logging_mixin.py:115} INFO - [2022-07-27 22:41:23,881] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:23,892] {logging_mixin.py:115} INFO - [2022-07-27 22:41:23,892] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:41:23,903] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 22:41:57,629] {processor.py:153} INFO - Started process (PID=6229) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:41:57,630] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:41:57,630] {logging_mixin.py:115} INFO - [2022-07-27 22:41:57,630] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:41:57,642] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:41:57,661] {logging_mixin.py:115} INFO - [2022-07-27 22:41:57,661] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:57,674] {logging_mixin.py:115} INFO - [2022-07-27 22:41:57,673] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:41:57,685] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2022-07-27 22:42:30,782] {processor.py:153} INFO - Started process (PID=6265) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:42:30,782] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:42:30,783] {logging_mixin.py:115} INFO - [2022-07-27 22:42:30,783] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:42:30,790] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:42:30,802] {logging_mixin.py:115} INFO - [2022-07-27 22:42:30,801] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:30,811] {logging_mixin.py:115} INFO - [2022-07-27 22:42:30,811] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:42:30,820] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 22:43:03,435] {processor.py:153} INFO - Started process (PID=6319) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:43:03,436] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:43:03,436] {logging_mixin.py:115} INFO - [2022-07-27 22:43:03,436] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:43:03,443] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:43:03,456] {logging_mixin.py:115} INFO - [2022-07-27 22:43:03,456] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:03,469] {logging_mixin.py:115} INFO - [2022-07-27 22:43:03,469] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:43:03,480] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2022-07-27 22:43:35,962] {processor.py:153} INFO - Started process (PID=6379) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:43:35,962] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:43:35,963] {logging_mixin.py:115} INFO - [2022-07-27 22:43:35,963] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:43:35,970] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:43:35,984] {logging_mixin.py:115} INFO - [2022-07-27 22:43:35,984] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:35,993] {logging_mixin.py:115} INFO - [2022-07-27 22:43:35,993] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:43:36,004] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 22:44:11,328] {processor.py:153} INFO - Started process (PID=6420) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:44:11,328] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:44:11,329] {logging_mixin.py:115} INFO - [2022-07-27 22:44:11,329] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:44:11,336] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:44:11,348] {logging_mixin.py:115} INFO - [2022-07-27 22:44:11,347] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:11,357] {logging_mixin.py:115} INFO - [2022-07-27 22:44:11,357] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:44:11,365] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 22:44:43,847] {processor.py:153} INFO - Started process (PID=6454) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:44:43,847] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:44:43,847] {logging_mixin.py:115} INFO - [2022-07-27 22:44:43,847] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:44:43,855] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:44:43,867] {logging_mixin.py:115} INFO - [2022-07-27 22:44:43,867] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:43,877] {logging_mixin.py:115} INFO - [2022-07-27 22:44:43,877] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:44:43,885] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 22:45:16,506] {processor.py:153} INFO - Started process (PID=6492) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:45:16,507] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:45:16,507] {logging_mixin.py:115} INFO - [2022-07-27 22:45:16,507] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:45:16,515] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:45:16,526] {logging_mixin.py:115} INFO - [2022-07-27 22:45:16,526] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:16,535] {logging_mixin.py:115} INFO - [2022-07-27 22:45:16,535] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:45:16,544] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 22:45:48,792] {processor.py:153} INFO - Started process (PID=6547) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:45:48,792] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:45:48,792] {logging_mixin.py:115} INFO - [2022-07-27 22:45:48,792] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:45:48,800] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:45:48,812] {logging_mixin.py:115} INFO - [2022-07-27 22:45:48,812] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:48,822] {logging_mixin.py:115} INFO - [2022-07-27 22:45:48,822] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:45:48,831] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 22:46:25,165] {processor.py:153} INFO - Started process (PID=6606) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:46:25,166] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:46:25,167] {logging_mixin.py:115} INFO - [2022-07-27 22:46:25,166] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:46:25,175] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:46:25,188] {logging_mixin.py:115} INFO - [2022-07-27 22:46:25,188] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:25,198] {logging_mixin.py:115} INFO - [2022-07-27 22:46:25,198] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:46:25,209] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 22:46:58,841] {processor.py:153} INFO - Started process (PID=6657) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:46:58,841] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:46:58,841] {logging_mixin.py:115} INFO - [2022-07-27 22:46:58,841] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:46:58,848] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:46:58,859] {logging_mixin.py:115} INFO - [2022-07-27 22:46:58,859] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:58,868] {logging_mixin.py:115} INFO - [2022-07-27 22:46:58,868] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:46:58,877] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 22:47:30,348] {processor.py:153} INFO - Started process (PID=6728) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:47:30,350] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:47:30,350] {logging_mixin.py:115} INFO - [2022-07-27 22:47:30,350] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:47:30,360] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:47:30,381] {logging_mixin.py:115} INFO - [2022-07-27 22:47:30,381] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:30,397] {logging_mixin.py:115} INFO - [2022-07-27 22:47:30,396] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:47:30,412] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2022-07-27 22:48:03,437] {processor.py:153} INFO - Started process (PID=6791) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:48:03,437] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:48:03,437] {logging_mixin.py:115} INFO - [2022-07-27 22:48:03,437] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:48:03,446] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:48:03,459] {logging_mixin.py:115} INFO - [2022-07-27 22:48:03,459] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:03,470] {logging_mixin.py:115} INFO - [2022-07-27 22:48:03,470] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:48:03,479] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 22:48:37,328] {processor.py:153} INFO - Started process (PID=6846) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:48:37,329] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:48:37,329] {logging_mixin.py:115} INFO - [2022-07-27 22:48:37,329] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:48:37,337] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:48:37,351] {logging_mixin.py:115} INFO - [2022-07-27 22:48:37,351] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:37,361] {logging_mixin.py:115} INFO - [2022-07-27 22:48:37,361] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:48:37,376] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-07-27 22:49:09,124] {processor.py:153} INFO - Started process (PID=6909) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:49:09,124] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:49:09,125] {logging_mixin.py:115} INFO - [2022-07-27 22:49:09,125] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:49:09,132] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:49:09,145] {logging_mixin.py:115} INFO - [2022-07-27 22:49:09,144] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:09,160] {logging_mixin.py:115} INFO - [2022-07-27 22:49:09,160] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:49:09,170] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-07-27 22:49:45,084] {processor.py:153} INFO - Started process (PID=6947) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:49:45,085] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:49:45,085] {logging_mixin.py:115} INFO - [2022-07-27 22:49:45,085] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:49:45,093] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:49:45,106] {logging_mixin.py:115} INFO - [2022-07-27 22:49:45,105] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:45,116] {logging_mixin.py:115} INFO - [2022-07-27 22:49:45,115] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:49:45,126] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-07-27 22:50:17,031] {processor.py:153} INFO - Started process (PID=7000) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:50:17,031] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:50:17,032] {logging_mixin.py:115} INFO - [2022-07-27 22:50:17,032] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:50:17,040] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:50:17,052] {logging_mixin.py:115} INFO - [2022-07-27 22:50:17,052] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:17,064] {logging_mixin.py:115} INFO - [2022-07-27 22:50:17,064] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:50:17,082] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2022-07-27 22:50:51,851] {processor.py:153} INFO - Started process (PID=7039) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:50:51,852] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:50:51,852] {logging_mixin.py:115} INFO - [2022-07-27 22:50:51,852] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:50:51,860] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:50:51,872] {logging_mixin.py:115} INFO - [2022-07-27 22:50:51,872] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:51,883] {logging_mixin.py:115} INFO - [2022-07-27 22:50:51,883] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:50:51,893] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2022-07-27 22:51:23,727] {processor.py:153} INFO - Started process (PID=7089) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:51:23,728] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:51:23,728] {logging_mixin.py:115} INFO - [2022-07-27 22:51:23,728] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:51:23,735] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:51:23,746] {logging_mixin.py:115} INFO - [2022-07-27 22:51:23,746] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:23,756] {logging_mixin.py:115} INFO - [2022-07-27 22:51:23,756] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:51:23,765] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 22:51:57,381] {processor.py:153} INFO - Started process (PID=7130) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:51:57,382] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:51:57,382] {logging_mixin.py:115} INFO - [2022-07-27 22:51:57,382] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:51:57,389] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:51:57,401] {logging_mixin.py:115} INFO - [2022-07-27 22:51:57,401] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:57,410] {logging_mixin.py:115} INFO - [2022-07-27 22:51:57,410] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:51:57,419] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 22:52:28,782] {processor.py:153} INFO - Started process (PID=7171) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:52:28,782] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:52:28,783] {logging_mixin.py:115} INFO - [2022-07-27 22:52:28,783] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:52:28,790] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:52:28,804] {logging_mixin.py:115} INFO - [2022-07-27 22:52:28,804] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:28,816] {logging_mixin.py:115} INFO - [2022-07-27 22:52:28,816] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:52:28,826] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 22:53:00,328] {processor.py:153} INFO - Started process (PID=7210) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:53:00,329] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:53:00,329] {logging_mixin.py:115} INFO - [2022-07-27 22:53:00,329] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:53:00,336] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:53:00,352] {logging_mixin.py:115} INFO - [2022-07-27 22:53:00,352] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:00,363] {logging_mixin.py:115} INFO - [2022-07-27 22:53:00,363] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:53:00,373] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 22:53:32,182] {processor.py:153} INFO - Started process (PID=7245) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:53:32,182] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:53:32,182] {logging_mixin.py:115} INFO - [2022-07-27 22:53:32,182] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:53:32,190] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:53:32,202] {logging_mixin.py:115} INFO - [2022-07-27 22:53:32,202] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:32,214] {logging_mixin.py:115} INFO - [2022-07-27 22:53:32,214] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:53:32,226] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 22:54:05,873] {processor.py:153} INFO - Started process (PID=7302) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:54:05,874] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:54:05,874] {logging_mixin.py:115} INFO - [2022-07-27 22:54:05,874] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:54:05,882] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:54:05,895] {logging_mixin.py:115} INFO - [2022-07-27 22:54:05,895] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:05,906] {logging_mixin.py:115} INFO - [2022-07-27 22:54:05,905] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:54:05,915] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2022-07-27 22:54:37,778] {processor.py:153} INFO - Started process (PID=7343) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:54:37,779] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:54:37,780] {logging_mixin.py:115} INFO - [2022-07-27 22:54:37,780] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:54:37,788] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:54:37,804] {logging_mixin.py:115} INFO - [2022-07-27 22:54:37,804] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:37,816] {logging_mixin.py:115} INFO - [2022-07-27 22:54:37,815] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:54:37,826] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-07-27 22:55:13,741] {processor.py:153} INFO - Started process (PID=7398) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:55:13,742] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:55:13,742] {logging_mixin.py:115} INFO - [2022-07-27 22:55:13,742] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:55:13,751] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:55:13,766] {logging_mixin.py:115} INFO - [2022-07-27 22:55:13,766] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:13,777] {logging_mixin.py:115} INFO - [2022-07-27 22:55:13,777] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:55:13,814] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2022-07-27 22:55:48,449] {processor.py:153} INFO - Started process (PID=7457) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:55:48,450] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:55:48,450] {logging_mixin.py:115} INFO - [2022-07-27 22:55:48,450] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:55:48,459] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:55:48,472] {logging_mixin.py:115} INFO - [2022-07-27 22:55:48,472] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:48,486] {logging_mixin.py:115} INFO - [2022-07-27 22:55:48,486] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:55:48,499] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2022-07-27 22:56:22,259] {processor.py:153} INFO - Started process (PID=7509) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:56:22,263] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:56:22,263] {logging_mixin.py:115} INFO - [2022-07-27 22:56:22,263] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:56:22,273] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:56:22,285] {logging_mixin.py:115} INFO - [2022-07-27 22:56:22,285] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:22,298] {logging_mixin.py:115} INFO - [2022-07-27 22:56:22,298] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:56:22,311] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2022-07-27 22:56:54,911] {processor.py:153} INFO - Started process (PID=7566) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:56:54,911] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:56:54,912] {logging_mixin.py:115} INFO - [2022-07-27 22:56:54,912] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:56:54,920] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:56:54,933] {logging_mixin.py:115} INFO - [2022-07-27 22:56:54,933] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:54,947] {logging_mixin.py:115} INFO - [2022-07-27 22:56:54,946] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:56:54,972] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.063 seconds
+[2022-07-27 22:57:30,040] {processor.py:153} INFO - Started process (PID=7604) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:57:30,040] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:57:30,040] {logging_mixin.py:115} INFO - [2022-07-27 22:57:30,040] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:57:30,048] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:57:30,059] {logging_mixin.py:115} INFO - [2022-07-27 22:57:30,059] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:30,068] {logging_mixin.py:115} INFO - [2022-07-27 22:57:30,068] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:57:30,078] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 22:58:02,317] {processor.py:153} INFO - Started process (PID=7639) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:58:02,317] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:58:02,317] {logging_mixin.py:115} INFO - [2022-07-27 22:58:02,317] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:58:02,327] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:58:02,342] {logging_mixin.py:115} INFO - [2022-07-27 22:58:02,341] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:02,354] {logging_mixin.py:115} INFO - [2022-07-27 22:58:02,354] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:58:02,368] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2022-07-27 22:58:34,878] {processor.py:153} INFO - Started process (PID=7689) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:58:34,878] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:58:34,879] {logging_mixin.py:115} INFO - [2022-07-27 22:58:34,879] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:58:34,886] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:58:34,897] {logging_mixin.py:115} INFO - [2022-07-27 22:58:34,897] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:34,907] {logging_mixin.py:115} INFO - [2022-07-27 22:58:34,907] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:58:34,919] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-07-27 22:59:06,864] {processor.py:153} INFO - Started process (PID=7724) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:59:06,865] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:59:06,865] {logging_mixin.py:115} INFO - [2022-07-27 22:59:06,865] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:59:06,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:59:06,884] {logging_mixin.py:115} INFO - [2022-07-27 22:59:06,884] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:06,893] {logging_mixin.py:115} INFO - [2022-07-27 22:59:06,893] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:59:06,902] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 22:59:41,673] {processor.py:153} INFO - Started process (PID=7775) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:59:41,673] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 22:59:41,673] {logging_mixin.py:115} INFO - [2022-07-27 22:59:41,673] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:59:41,681] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 22:59:41,692] {logging_mixin.py:115} INFO - [2022-07-27 22:59:41,692] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:41,701] {logging_mixin.py:115} INFO - [2022-07-27 22:59:41,701] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 22:59:41,710] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 23:00:15,063] {processor.py:153} INFO - Started process (PID=7817) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:00:15,064] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:00:15,064] {logging_mixin.py:115} INFO - [2022-07-27 23:00:15,064] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:00:15,072] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:00:15,084] {logging_mixin.py:115} INFO - [2022-07-27 23:00:15,084] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:15,093] {logging_mixin.py:115} INFO - [2022-07-27 23:00:15,093] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:00:15,102] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 23:00:48,734] {processor.py:153} INFO - Started process (PID=7855) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:00:48,734] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:00:48,734] {logging_mixin.py:115} INFO - [2022-07-27 23:00:48,734] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:00:48,741] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:00:48,754] {logging_mixin.py:115} INFO - [2022-07-27 23:00:48,754] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:48,763] {logging_mixin.py:115} INFO - [2022-07-27 23:00:48,763] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:00:48,771] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:01:23,241] {processor.py:153} INFO - Started process (PID=7891) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:01:23,241] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:01:23,241] {logging_mixin.py:115} INFO - [2022-07-27 23:01:23,241] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:01:23,248] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:01:23,260] {logging_mixin.py:115} INFO - [2022-07-27 23:01:23,260] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:23,269] {logging_mixin.py:115} INFO - [2022-07-27 23:01:23,269] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:01:23,280] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 23:01:54,059] {processor.py:153} INFO - Started process (PID=7948) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:01:54,059] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:01:54,060] {logging_mixin.py:115} INFO - [2022-07-27 23:01:54,060] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:01:54,067] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:01:54,078] {logging_mixin.py:115} INFO - [2022-07-27 23:01:54,078] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:54,087] {logging_mixin.py:115} INFO - [2022-07-27 23:01:54,087] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:01:54,096] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:02:28,885] {processor.py:153} INFO - Started process (PID=7997) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:02:28,885] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:02:28,886] {logging_mixin.py:115} INFO - [2022-07-27 23:02:28,886] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:02:28,893] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:02:28,905] {logging_mixin.py:115} INFO - [2022-07-27 23:02:28,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:28,915] {logging_mixin.py:115} INFO - [2022-07-27 23:02:28,915] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:02:28,924] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 23:03:03,060] {processor.py:153} INFO - Started process (PID=8048) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:03:03,061] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:03:03,061] {logging_mixin.py:115} INFO - [2022-07-27 23:03:03,061] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:03:03,068] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:03:03,080] {logging_mixin.py:115} INFO - [2022-07-27 23:03:03,079] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:03,088] {logging_mixin.py:115} INFO - [2022-07-27 23:03:03,088] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:03:03,099] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 23:03:36,600] {processor.py:153} INFO - Started process (PID=8092) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:03:36,601] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:03:36,601] {logging_mixin.py:115} INFO - [2022-07-27 23:03:36,601] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:03:36,608] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:03:36,620] {logging_mixin.py:115} INFO - [2022-07-27 23:03:36,620] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:36,629] {logging_mixin.py:115} INFO - [2022-07-27 23:03:36,629] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:03:36,638] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:04:11,558] {processor.py:153} INFO - Started process (PID=8133) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:04:11,559] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:04:11,559] {logging_mixin.py:115} INFO - [2022-07-27 23:04:11,559] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:04:11,566] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:04:11,577] {logging_mixin.py:115} INFO - [2022-07-27 23:04:11,577] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:11,586] {logging_mixin.py:115} INFO - [2022-07-27 23:04:11,586] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:04:11,594] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:04:44,551] {processor.py:153} INFO - Started process (PID=8168) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:04:44,552] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:04:44,552] {logging_mixin.py:115} INFO - [2022-07-27 23:04:44,552] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:04:44,560] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:04:44,572] {logging_mixin.py:115} INFO - [2022-07-27 23:04:44,572] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:44,581] {logging_mixin.py:115} INFO - [2022-07-27 23:04:44,581] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:04:44,592] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-07-27 23:05:18,338] {processor.py:153} INFO - Started process (PID=8228) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:05:18,338] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:05:18,339] {logging_mixin.py:115} INFO - [2022-07-27 23:05:18,339] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:05:18,346] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:05:18,358] {logging_mixin.py:115} INFO - [2022-07-27 23:05:18,358] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:18,367] {logging_mixin.py:115} INFO - [2022-07-27 23:05:18,367] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:05:18,376] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 23:05:53,664] {processor.py:153} INFO - Started process (PID=8282) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:05:53,664] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:05:53,665] {logging_mixin.py:115} INFO - [2022-07-27 23:05:53,665] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:05:53,672] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:05:53,684] {logging_mixin.py:115} INFO - [2022-07-27 23:05:53,684] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:53,694] {logging_mixin.py:115} INFO - [2022-07-27 23:05:53,694] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:05:53,703] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-07-27 23:06:27,395] {processor.py:153} INFO - Started process (PID=8335) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:06:27,396] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:06:27,396] {logging_mixin.py:115} INFO - [2022-07-27 23:06:27,396] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:06:27,403] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:06:27,417] {logging_mixin.py:115} INFO - [2022-07-27 23:06:27,417] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:27,427] {logging_mixin.py:115} INFO - [2022-07-27 23:06:27,427] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:06:27,440] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-07-27 23:07:01,921] {processor.py:153} INFO - Started process (PID=8377) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:07:01,922] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:07:01,922] {logging_mixin.py:115} INFO - [2022-07-27 23:07:01,922] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:07:01,929] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:07:01,940] {logging_mixin.py:115} INFO - [2022-07-27 23:07:01,940] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:01,950] {logging_mixin.py:115} INFO - [2022-07-27 23:07:01,950] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:07:01,959] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:07:35,565] {processor.py:153} INFO - Started process (PID=8423) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:07:35,566] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:07:35,567] {logging_mixin.py:115} INFO - [2022-07-27 23:07:35,567] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:07:35,576] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:07:35,589] {logging_mixin.py:115} INFO - [2022-07-27 23:07:35,589] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:35,600] {logging_mixin.py:115} INFO - [2022-07-27 23:07:35,600] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:07:35,610] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2022-07-27 23:08:07,880] {processor.py:153} INFO - Started process (PID=8475) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:08:07,880] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:08:07,881] {logging_mixin.py:115} INFO - [2022-07-27 23:08:07,881] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:08:07,888] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:08:07,901] {logging_mixin.py:115} INFO - [2022-07-27 23:08:07,901] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:07,911] {logging_mixin.py:115} INFO - [2022-07-27 23:08:07,911] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:08:07,920] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-07-27 23:08:40,316] {processor.py:153} INFO - Started process (PID=8515) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:08:40,316] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:08:40,317] {logging_mixin.py:115} INFO - [2022-07-27 23:08:40,317] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:08:40,324] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:08:40,335] {logging_mixin.py:115} INFO - [2022-07-27 23:08:40,335] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:40,344] {logging_mixin.py:115} INFO - [2022-07-27 23:08:40,344] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:08:40,352] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:09:14,067] {processor.py:153} INFO - Started process (PID=8553) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:09:14,067] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:09:14,067] {logging_mixin.py:115} INFO - [2022-07-27 23:09:14,067] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:09:14,074] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:09:14,086] {logging_mixin.py:115} INFO - [2022-07-27 23:09:14,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:14,095] {logging_mixin.py:115} INFO - [2022-07-27 23:09:14,094] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:09:14,103] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:09:49,356] {processor.py:153} INFO - Started process (PID=8606) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:09:49,356] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:09:49,357] {logging_mixin.py:115} INFO - [2022-07-27 23:09:49,357] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:09:49,364] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:09:49,375] {logging_mixin.py:115} INFO - [2022-07-27 23:09:49,375] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:49,384] {logging_mixin.py:115} INFO - [2022-07-27 23:09:49,384] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:09:49,392] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:10:21,401] {processor.py:153} INFO - Started process (PID=8651) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:10:21,401] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:10:21,402] {logging_mixin.py:115} INFO - [2022-07-27 23:10:21,402] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:10:21,409] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:10:21,421] {logging_mixin.py:115} INFO - [2022-07-27 23:10:21,421] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:21,430] {logging_mixin.py:115} INFO - [2022-07-27 23:10:21,430] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:10:21,438] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:10:54,499] {processor.py:153} INFO - Started process (PID=8707) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:10:54,499] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:10:54,500] {logging_mixin.py:115} INFO - [2022-07-27 23:10:54,500] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:10:54,507] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:10:54,521] {logging_mixin.py:115} INFO - [2022-07-27 23:10:54,521] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:54,531] {logging_mixin.py:115} INFO - [2022-07-27 23:10:54,531] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:10:54,540] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-07-27 23:11:28,205] {processor.py:153} INFO - Started process (PID=8749) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:11:28,206] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:11:28,206] {logging_mixin.py:115} INFO - [2022-07-27 23:11:28,206] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:11:28,214] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:11:28,226] {logging_mixin.py:115} INFO - [2022-07-27 23:11:28,226] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:28,236] {logging_mixin.py:115} INFO - [2022-07-27 23:11:28,236] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:11:28,249] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 23:12:04,390] {processor.py:153} INFO - Started process (PID=8815) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:12:04,390] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:12:04,391] {logging_mixin.py:115} INFO - [2022-07-27 23:12:04,391] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:12:04,398] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:12:04,412] {logging_mixin.py:115} INFO - [2022-07-27 23:12:04,412] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:04,422] {logging_mixin.py:115} INFO - [2022-07-27 23:12:04,422] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:12:04,433] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-07-27 23:12:36,054] {processor.py:153} INFO - Started process (PID=8849) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:12:36,054] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:12:36,054] {logging_mixin.py:115} INFO - [2022-07-27 23:12:36,054] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:12:36,062] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:12:36,073] {logging_mixin.py:115} INFO - [2022-07-27 23:12:36,073] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:36,082] {logging_mixin.py:115} INFO - [2022-07-27 23:12:36,082] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:12:36,090] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:13:12,073] {processor.py:153} INFO - Started process (PID=8887) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:13:12,074] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:13:12,074] {logging_mixin.py:115} INFO - [2022-07-27 23:13:12,074] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:13:12,081] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:13:12,092] {logging_mixin.py:115} INFO - [2022-07-27 23:13:12,092] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:12,101] {logging_mixin.py:115} INFO - [2022-07-27 23:13:12,101] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:13:12,110] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:13:46,711] {processor.py:153} INFO - Started process (PID=8924) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:13:46,712] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:13:46,712] {logging_mixin.py:115} INFO - [2022-07-27 23:13:46,712] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:13:46,720] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:13:46,731] {logging_mixin.py:115} INFO - [2022-07-27 23:13:46,731] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:46,741] {logging_mixin.py:115} INFO - [2022-07-27 23:13:46,741] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:13:46,749] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:14:20,415] {processor.py:153} INFO - Started process (PID=8958) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:14:20,415] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:14:20,416] {logging_mixin.py:115} INFO - [2022-07-27 23:14:20,416] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:14:20,423] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:14:20,434] {logging_mixin.py:115} INFO - [2022-07-27 23:14:20,434] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:20,444] {logging_mixin.py:115} INFO - [2022-07-27 23:14:20,444] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:14:20,452] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:14:54,640] {processor.py:153} INFO - Started process (PID=8996) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:14:54,640] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:14:54,640] {logging_mixin.py:115} INFO - [2022-07-27 23:14:54,640] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:14:54,648] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:14:54,659] {logging_mixin.py:115} INFO - [2022-07-27 23:14:54,659] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:54,668] {logging_mixin.py:115} INFO - [2022-07-27 23:14:54,668] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:14:54,677] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:15:26,660] {processor.py:153} INFO - Started process (PID=9058) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:15:26,660] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:15:26,660] {logging_mixin.py:115} INFO - [2022-07-27 23:15:26,660] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:15:26,667] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:15:26,679] {logging_mixin.py:115} INFO - [2022-07-27 23:15:26,679] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:26,688] {logging_mixin.py:115} INFO - [2022-07-27 23:15:26,688] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:15:26,697] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:16:01,486] {processor.py:153} INFO - Started process (PID=9097) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:16:01,486] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:16:01,487] {logging_mixin.py:115} INFO - [2022-07-27 23:16:01,487] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:16:01,494] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:16:01,505] {logging_mixin.py:115} INFO - [2022-07-27 23:16:01,505] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:01,514] {logging_mixin.py:115} INFO - [2022-07-27 23:16:01,514] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:16:01,522] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:16:35,831] {processor.py:153} INFO - Started process (PID=9133) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:16:35,832] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:16:35,832] {logging_mixin.py:115} INFO - [2022-07-27 23:16:35,832] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:16:35,839] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:16:35,850] {logging_mixin.py:115} INFO - [2022-07-27 23:16:35,850] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:35,859] {logging_mixin.py:115} INFO - [2022-07-27 23:16:35,859] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:16:35,868] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:17:09,337] {processor.py:153} INFO - Started process (PID=9172) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:17:09,338] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:17:09,338] {logging_mixin.py:115} INFO - [2022-07-27 23:17:09,338] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:17:09,345] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:17:09,356] {logging_mixin.py:115} INFO - [2022-07-27 23:17:09,356] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:09,366] {logging_mixin.py:115} INFO - [2022-07-27 23:17:09,366] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:17:09,374] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:17:43,049] {processor.py:153} INFO - Started process (PID=9210) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:17:43,049] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:17:43,049] {logging_mixin.py:115} INFO - [2022-07-27 23:17:43,049] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:17:43,057] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:17:43,077] {logging_mixin.py:115} INFO - [2022-07-27 23:17:43,077] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:43,088] {logging_mixin.py:115} INFO - [2022-07-27 23:17:43,088] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:17:43,098] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2022-07-27 23:18:16,225] {processor.py:153} INFO - Started process (PID=9244) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:18:16,225] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:18:16,225] {logging_mixin.py:115} INFO - [2022-07-27 23:18:16,225] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:18:16,232] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:18:16,244] {logging_mixin.py:115} INFO - [2022-07-27 23:18:16,244] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:16,253] {logging_mixin.py:115} INFO - [2022-07-27 23:18:16,253] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:18:16,262] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:18:47,937] {processor.py:153} INFO - Started process (PID=9279) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:18:47,937] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:18:47,938] {logging_mixin.py:115} INFO - [2022-07-27 23:18:47,938] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:18:47,945] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:18:47,956] {logging_mixin.py:115} INFO - [2022-07-27 23:18:47,956] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:47,965] {logging_mixin.py:115} INFO - [2022-07-27 23:18:47,965] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:18:47,974] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:19:21,790] {processor.py:153} INFO - Started process (PID=9314) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:19:21,790] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:19:21,791] {logging_mixin.py:115} INFO - [2022-07-27 23:19:21,791] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:19:21,798] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:19:21,809] {logging_mixin.py:115} INFO - [2022-07-27 23:19:21,809] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:21,818] {logging_mixin.py:115} INFO - [2022-07-27 23:19:21,818] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:19:21,827] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-07-27 23:19:52,632] {processor.py:153} INFO - Started process (PID=9348) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:19:52,632] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:19:52,632] {logging_mixin.py:115} INFO - [2022-07-27 23:19:52,632] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:19:52,639] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:19:52,651] {logging_mixin.py:115} INFO - [2022-07-27 23:19:52,651] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:52,660] {logging_mixin.py:115} INFO - [2022-07-27 23:19:52,660] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:19:52,670] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 23:20:27,506] {processor.py:153} INFO - Started process (PID=9389) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:20:27,506] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:20:27,507] {logging_mixin.py:115} INFO - [2022-07-27 23:20:27,506] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:20:27,514] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:20:27,525] {logging_mixin.py:115} INFO - [2022-07-27 23:20:27,525] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:27,534] {logging_mixin.py:115} INFO - [2022-07-27 23:20:27,534] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:20:27,542] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds
+[2022-07-27 23:21:03,118] {processor.py:153} INFO - Started process (PID=9426) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:21:03,118] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:21:03,118] {logging_mixin.py:115} INFO - [2022-07-27 23:21:03,118] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:21:03,125] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:21:03,138] {logging_mixin.py:115} INFO - [2022-07-27 23:21:03,138] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:03,148] {logging_mixin.py:115} INFO - [2022-07-27 23:21:03,148] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:21:03,156] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-07-27 23:21:38,897] {processor.py:153} INFO - Started process (PID=9476) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:21:38,898] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-07-27 23:21:38,898] {logging_mixin.py:115} INFO - [2022-07-27 23:21:38,898] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:21:38,905] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-07-27 23:21:38,916] {logging_mixin.py:115} INFO - [2022-07-27 23:21:38,916] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:38,925] {logging_mixin.py:115} INFO - [2022-07-27 23:21:38,925] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-07-27 23:21:38,934] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.038 seconds

@@ -1,0 +1,833 @@
+[2022-07-27 22:18:28,755] {processor.py:153} INFO - Started process (PID=3825) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:18:28,755] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:18:28,756] {logging_mixin.py:115} INFO - [2022-07-27 22:18:28,755] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:18:28,769] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:18:28,794] {logging_mixin.py:115} INFO - [2022-07-27 22:18:28,794] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:18:28,804] {logging_mixin.py:115} INFO - [2022-07-27 22:18:28,804] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:18:28,815] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2022-07-27 22:19:00,901] {processor.py:153} INFO - Started process (PID=3938) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:19:00,901] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:19:00,902] {logging_mixin.py:115} INFO - [2022-07-27 22:19:00,902] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:19:00,915] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:19:00,944] {logging_mixin.py:115} INFO - [2022-07-27 22:19:00,944] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:00,953] {logging_mixin.py:115} INFO - [2022-07-27 22:19:00,953] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:19:00,998] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.098 seconds
+[2022-07-27 22:19:34,838] {processor.py:153} INFO - Started process (PID=3974) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:19:34,839] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:19:34,840] {logging_mixin.py:115} INFO - [2022-07-27 22:19:34,840] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:19:34,853] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:19:34,878] {logging_mixin.py:115} INFO - [2022-07-27 22:19:34,877] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:34,887] {logging_mixin.py:115} INFO - [2022-07-27 22:19:34,887] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:19:34,897] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2022-07-27 22:20:07,970] {processor.py:153} INFO - Started process (PID=4285) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:20:07,970] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:20:07,971] {logging_mixin.py:115} INFO - [2022-07-27 22:20:07,971] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:20:07,987] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:20:07,995] {logging_mixin.py:115} INFO - [2022-07-27 22:20:07,994] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:08,003] {logging_mixin.py:115} INFO - [2022-07-27 22:20:08,003] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:20:08,061] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.093 seconds
+[2022-07-27 22:20:41,681] {processor.py:153} INFO - Started process (PID=4334) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:20:41,681] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:20:41,682] {logging_mixin.py:115} INFO - [2022-07-27 22:20:41,682] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:20:41,693] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:20:41,718] {logging_mixin.py:115} INFO - [2022-07-27 22:20:41,718] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:41,726] {logging_mixin.py:115} INFO - [2022-07-27 22:20:41,726] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:20:41,735] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-07-27 22:21:13,541] {processor.py:153} INFO - Started process (PID=4378) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:21:13,542] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:21:13,542] {logging_mixin.py:115} INFO - [2022-07-27 22:21:13,542] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:21:13,555] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:21:13,564] {logging_mixin.py:115} INFO - [2022-07-27 22:21:13,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:13,576] {logging_mixin.py:115} INFO - [2022-07-27 22:21:13,575] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:21:13,585] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds
+[2022-07-27 22:21:47,466] {processor.py:153} INFO - Started process (PID=4415) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:21:47,467] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:21:47,467] {logging_mixin.py:115} INFO - [2022-07-27 22:21:47,467] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:21:47,479] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:21:47,508] {logging_mixin.py:115} INFO - [2022-07-27 22:21:47,508] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:47,516] {logging_mixin.py:115} INFO - [2022-07-27 22:21:47,516] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:21:47,527] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-07-27 22:22:18,912] {processor.py:153} INFO - Started process (PID=4456) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:22:18,913] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:22:18,913] {logging_mixin.py:115} INFO - [2022-07-27 22:22:18,913] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:22:18,925] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:22:18,947] {logging_mixin.py:115} INFO - [2022-07-27 22:22:18,947] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:18,955] {logging_mixin.py:115} INFO - [2022-07-27 22:22:18,955] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:22:18,966] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-07-27 22:22:51,214] {processor.py:153} INFO - Started process (PID=4519) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:22:51,214] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:22:51,215] {logging_mixin.py:115} INFO - [2022-07-27 22:22:51,215] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:22:51,227] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:22:51,266] {logging_mixin.py:115} INFO - [2022-07-27 22:22:51,266] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:51,278] {logging_mixin.py:115} INFO - [2022-07-27 22:22:51,278] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:22:51,292] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.081 seconds
+[2022-07-27 22:23:23,861] {processor.py:153} INFO - Started process (PID=4560) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:23:23,861] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:23:23,862] {logging_mixin.py:115} INFO - [2022-07-27 22:23:23,861] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:23:23,874] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:23:23,900] {logging_mixin.py:115} INFO - [2022-07-27 22:23:23,900] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:23,909] {logging_mixin.py:115} INFO - [2022-07-27 22:23:23,909] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:23:23,920] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2022-07-27 22:23:56,204] {processor.py:153} INFO - Started process (PID=4598) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:23:56,206] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:23:56,206] {logging_mixin.py:115} INFO - [2022-07-27 22:23:56,206] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:23:56,218] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:23:56,228] {logging_mixin.py:115} INFO - [2022-07-27 22:23:56,228] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:56,238] {logging_mixin.py:115} INFO - [2022-07-27 22:23:56,238] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:23:56,252] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-07-27 22:24:28,606] {processor.py:153} INFO - Started process (PID=4633) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:24:28,607] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:24:28,607] {logging_mixin.py:115} INFO - [2022-07-27 22:24:28,607] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:24:28,619] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:24:28,629] {logging_mixin.py:115} INFO - [2022-07-27 22:24:28,628] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:28,638] {logging_mixin.py:115} INFO - [2022-07-27 22:24:28,638] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:24:28,647] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.043 seconds
+[2022-07-27 22:25:03,402] {processor.py:153} INFO - Started process (PID=4702) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:25:03,404] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:25:03,404] {logging_mixin.py:115} INFO - [2022-07-27 22:25:03,404] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:25:03,416] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:25:03,433] {logging_mixin.py:115} INFO - [2022-07-27 22:25:03,433] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:03,449] {logging_mixin.py:115} INFO - [2022-07-27 22:25:03,449] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:25:03,460] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.059 seconds
+[2022-07-27 22:25:34,334] {processor.py:153} INFO - Started process (PID=4743) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:25:34,334] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:25:34,334] {logging_mixin.py:115} INFO - [2022-07-27 22:25:34,334] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:25:34,351] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:25:34,361] {logging_mixin.py:115} INFO - [2022-07-27 22:25:34,361] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:34,375] {logging_mixin.py:115} INFO - [2022-07-27 22:25:34,375] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:25:34,390] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.058 seconds
+[2022-07-27 22:26:08,071] {processor.py:153} INFO - Started process (PID=4786) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:26:08,072] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:26:08,073] {logging_mixin.py:115} INFO - [2022-07-27 22:26:08,072] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:26:08,086] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:26:08,095] {logging_mixin.py:115} INFO - [2022-07-27 22:26:08,095] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:08,106] {logging_mixin.py:115} INFO - [2022-07-27 22:26:08,106] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:26:08,115] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-07-27 22:26:40,111] {processor.py:153} INFO - Started process (PID=4836) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:26:40,112] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:26:40,112] {logging_mixin.py:115} INFO - [2022-07-27 22:26:40,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:26:40,125] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:26:40,150] {logging_mixin.py:115} INFO - [2022-07-27 22:26:40,150] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:40,160] {logging_mixin.py:115} INFO - [2022-07-27 22:26:40,159] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:26:40,170] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2022-07-27 22:27:12,666] {processor.py:153} INFO - Started process (PID=4879) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:27:12,667] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:27:12,667] {logging_mixin.py:115} INFO - [2022-07-27 22:27:12,667] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:27:12,685] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:27:12,696] {logging_mixin.py:115} INFO - [2022-07-27 22:27:12,696] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:12,707] {logging_mixin.py:115} INFO - [2022-07-27 22:27:12,706] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:27:12,721] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-07-27 22:27:43,525] {processor.py:153} INFO - Started process (PID=4917) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:27:43,525] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:27:43,526] {logging_mixin.py:115} INFO - [2022-07-27 22:27:43,526] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:27:43,542] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:27:43,553] {logging_mixin.py:115} INFO - [2022-07-27 22:27:43,553] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:43,567] {logging_mixin.py:115} INFO - [2022-07-27 22:27:43,566] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:27:43,578] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds
+[2022-07-27 22:28:15,614] {processor.py:153} INFO - Started process (PID=4951) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:28:15,614] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:28:15,615] {logging_mixin.py:115} INFO - [2022-07-27 22:28:15,615] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:28:15,626] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:28:15,634] {logging_mixin.py:115} INFO - [2022-07-27 22:28:15,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:15,643] {logging_mixin.py:115} INFO - [2022-07-27 22:28:15,643] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:28:15,653] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-07-27 22:28:47,568] {processor.py:153} INFO - Started process (PID=5008) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:28:47,569] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:28:47,569] {logging_mixin.py:115} INFO - [2022-07-27 22:28:47,569] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:28:47,591] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:28:47,625] {logging_mixin.py:115} INFO - [2022-07-27 22:28:47,625] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:47,636] {logging_mixin.py:115} INFO - [2022-07-27 22:28:47,636] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:28:47,652] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.086 seconds
+[2022-07-27 22:29:20,697] {processor.py:153} INFO - Started process (PID=5066) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:29:20,698] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:29:20,699] {logging_mixin.py:115} INFO - [2022-07-27 22:29:20,699] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:29:20,710] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:29:20,720] {logging_mixin.py:115} INFO - [2022-07-27 22:29:20,719] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:20,730] {logging_mixin.py:115} INFO - [2022-07-27 22:29:20,730] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:29:20,740] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-07-27 22:29:51,527] {processor.py:153} INFO - Started process (PID=5107) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:29:51,527] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:29:51,527] {logging_mixin.py:115} INFO - [2022-07-27 22:29:51,527] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:29:51,539] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:29:51,548] {logging_mixin.py:115} INFO - [2022-07-27 22:29:51,548] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:51,558] {logging_mixin.py:115} INFO - [2022-07-27 22:29:51,557] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:29:51,566] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.042 seconds
+[2022-07-27 22:30:22,906] {processor.py:153} INFO - Started process (PID=5152) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:30:22,906] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:30:22,906] {logging_mixin.py:115} INFO - [2022-07-27 22:30:22,906] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:30:22,918] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:30:22,927] {logging_mixin.py:115} INFO - [2022-07-27 22:30:22,927] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:22,936] {logging_mixin.py:115} INFO - [2022-07-27 22:30:22,936] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:30:22,945] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-07-27 22:30:54,877] {processor.py:153} INFO - Started process (PID=5193) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:30:54,878] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:30:54,878] {logging_mixin.py:115} INFO - [2022-07-27 22:30:54,878] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:30:54,891] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:30:54,904] {logging_mixin.py:115} INFO - [2022-07-27 22:30:54,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:54,915] {logging_mixin.py:115} INFO - [2022-07-27 22:30:54,915] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:30:54,925] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-07-27 22:31:26,837] {processor.py:153} INFO - Started process (PID=5247) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:31:26,839] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:31:26,839] {logging_mixin.py:115} INFO - [2022-07-27 22:31:26,839] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:31:26,851] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:31:26,860] {logging_mixin.py:115} INFO - [2022-07-27 22:31:26,860] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:26,872] {logging_mixin.py:115} INFO - [2022-07-27 22:31:26,872] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:31:26,887] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-07-27 22:32:00,195] {processor.py:153} INFO - Started process (PID=5287) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:32:00,196] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:32:00,196] {logging_mixin.py:115} INFO - [2022-07-27 22:32:00,196] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:32:00,208] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:32:00,216] {logging_mixin.py:115} INFO - [2022-07-27 22:32:00,216] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:00,225] {logging_mixin.py:115} INFO - [2022-07-27 22:32:00,225] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:32:00,233] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 22:32:31,298] {processor.py:153} INFO - Started process (PID=5336) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:32:31,299] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:32:31,299] {logging_mixin.py:115} INFO - [2022-07-27 22:32:31,299] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:32:31,311] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:32:31,320] {logging_mixin.py:115} INFO - [2022-07-27 22:32:31,320] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:31,331] {logging_mixin.py:115} INFO - [2022-07-27 22:32:31,331] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:32:31,340] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.043 seconds
+[2022-07-27 22:33:03,264] {processor.py:153} INFO - Started process (PID=5377) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:33:03,265] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:33:03,265] {logging_mixin.py:115} INFO - [2022-07-27 22:33:03,265] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:33:03,280] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:33:03,290] {logging_mixin.py:115} INFO - [2022-07-27 22:33:03,289] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:03,302] {logging_mixin.py:115} INFO - [2022-07-27 22:33:03,302] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:33:03,314] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.053 seconds
+[2022-07-27 22:33:36,387] {processor.py:153} INFO - Started process (PID=5422) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:33:36,387] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:33:36,387] {logging_mixin.py:115} INFO - [2022-07-27 22:33:36,387] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:33:36,401] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:33:36,428] {logging_mixin.py:115} INFO - [2022-07-27 22:33:36,428] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:36,439] {logging_mixin.py:115} INFO - [2022-07-27 22:33:36,439] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:33:36,451] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2022-07-27 22:34:06,781] {processor.py:153} INFO - Started process (PID=5480) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:34:06,781] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:34:06,781] {logging_mixin.py:115} INFO - [2022-07-27 22:34:06,781] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:34:06,795] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:34:06,805] {logging_mixin.py:115} INFO - [2022-07-27 22:34:06,805] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:06,815] {logging_mixin.py:115} INFO - [2022-07-27 22:34:06,815] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:34:06,826] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-07-27 22:34:39,426] {processor.py:153} INFO - Started process (PID=5517) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:34:39,427] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:34:39,427] {logging_mixin.py:115} INFO - [2022-07-27 22:34:39,427] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:34:39,440] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:34:39,466] {logging_mixin.py:115} INFO - [2022-07-27 22:34:39,466] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:39,476] {logging_mixin.py:115} INFO - [2022-07-27 22:34:39,476] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:34:39,485] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2022-07-27 22:35:10,562] {processor.py:153} INFO - Started process (PID=5557) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:35:10,562] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:35:10,562] {logging_mixin.py:115} INFO - [2022-07-27 22:35:10,562] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:35:10,578] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:35:10,609] {logging_mixin.py:115} INFO - [2022-07-27 22:35:10,609] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:10,620] {logging_mixin.py:115} INFO - [2022-07-27 22:35:10,619] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:35:10,631] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.071 seconds
+[2022-07-27 22:35:41,420] {processor.py:153} INFO - Started process (PID=5608) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:35:41,420] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:35:41,421] {logging_mixin.py:115} INFO - [2022-07-27 22:35:41,421] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:35:41,433] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:35:41,449] {logging_mixin.py:115} INFO - [2022-07-27 22:35:41,449] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:41,466] {logging_mixin.py:115} INFO - [2022-07-27 22:35:41,466] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:35:41,479] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2022-07-27 22:36:15,664] {processor.py:153} INFO - Started process (PID=5654) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:36:15,665] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:36:15,665] {logging_mixin.py:115} INFO - [2022-07-27 22:36:15,665] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:36:15,680] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:36:15,690] {logging_mixin.py:115} INFO - [2022-07-27 22:36:15,690] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:15,702] {logging_mixin.py:115} INFO - [2022-07-27 22:36:15,701] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:36:15,712] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-07-27 22:36:46,593] {processor.py:153} INFO - Started process (PID=5792) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:36:46,594] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:36:46,594] {logging_mixin.py:115} INFO - [2022-07-27 22:36:46,594] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:36:46,608] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:36:46,618] {logging_mixin.py:115} INFO - [2022-07-27 22:36:46,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:46,630] {logging_mixin.py:115} INFO - [2022-07-27 22:36:46,629] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:36:46,640] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-07-27 22:37:18,091] {processor.py:153} INFO - Started process (PID=5825) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:37:18,092] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:37:18,092] {logging_mixin.py:115} INFO - [2022-07-27 22:37:18,092] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:37:18,109] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:37:18,117] {logging_mixin.py:115} INFO - [2022-07-27 22:37:18,117] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:18,129] {logging_mixin.py:115} INFO - [2022-07-27 22:37:18,129] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:37:18,140] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2022-07-27 22:37:49,617] {processor.py:153} INFO - Started process (PID=5865) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:37:49,617] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:37:49,617] {logging_mixin.py:115} INFO - [2022-07-27 22:37:49,617] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:37:49,631] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:37:49,641] {logging_mixin.py:115} INFO - [2022-07-27 22:37:49,641] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:49,651] {logging_mixin.py:115} INFO - [2022-07-27 22:37:49,651] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:37:49,662] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-07-27 22:38:21,819] {processor.py:153} INFO - Started process (PID=5902) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:38:21,820] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:38:21,820] {logging_mixin.py:115} INFO - [2022-07-27 22:38:21,820] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:38:21,832] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:38:21,840] {logging_mixin.py:115} INFO - [2022-07-27 22:38:21,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:21,849] {logging_mixin.py:115} INFO - [2022-07-27 22:38:21,849] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:38:21,858] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 22:38:56,056] {processor.py:153} INFO - Started process (PID=5949) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:38:56,056] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:38:56,057] {logging_mixin.py:115} INFO - [2022-07-27 22:38:56,056] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:38:56,067] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:38:56,091] {logging_mixin.py:115} INFO - [2022-07-27 22:38:56,091] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:56,099] {logging_mixin.py:115} INFO - [2022-07-27 22:38:56,099] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:38:56,110] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-07-27 22:39:27,481] {processor.py:153} INFO - Started process (PID=6002) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:39:27,482] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:39:27,482] {logging_mixin.py:115} INFO - [2022-07-27 22:39:27,482] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:39:27,495] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:39:27,508] {logging_mixin.py:115} INFO - [2022-07-27 22:39:27,508] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:27,522] {logging_mixin.py:115} INFO - [2022-07-27 22:39:27,522] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:39:27,531] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-07-27 22:39:59,126] {processor.py:153} INFO - Started process (PID=6041) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:39:59,126] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:39:59,127] {logging_mixin.py:115} INFO - [2022-07-27 22:39:59,127] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:39:59,138] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:39:59,148] {logging_mixin.py:115} INFO - [2022-07-27 22:39:59,148] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:59,159] {logging_mixin.py:115} INFO - [2022-07-27 22:39:59,159] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:39:59,170] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-07-27 22:40:33,004] {processor.py:153} INFO - Started process (PID=6085) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:40:33,005] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:40:33,005] {logging_mixin.py:115} INFO - [2022-07-27 22:40:33,005] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:40:33,015] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:40:33,025] {logging_mixin.py:115} INFO - [2022-07-27 22:40:33,025] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:33,035] {logging_mixin.py:115} INFO - [2022-07-27 22:40:33,035] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:40:33,047] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds
+[2022-07-27 22:41:05,023] {processor.py:153} INFO - Started process (PID=6136) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:41:05,023] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:41:05,023] {logging_mixin.py:115} INFO - [2022-07-27 22:41:05,023] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:41:05,034] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:41:05,045] {logging_mixin.py:115} INFO - [2022-07-27 22:41:05,045] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:05,057] {logging_mixin.py:115} INFO - [2022-07-27 22:41:05,057] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:41:05,067] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-07-27 22:41:37,013] {processor.py:153} INFO - Started process (PID=6187) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:41:37,013] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:41:37,013] {logging_mixin.py:115} INFO - [2022-07-27 22:41:37,013] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:41:37,023] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:41:37,034] {logging_mixin.py:115} INFO - [2022-07-27 22:41:37,034] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:37,047] {logging_mixin.py:115} INFO - [2022-07-27 22:41:37,047] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:41:37,057] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-07-27 22:42:10,214] {processor.py:153} INFO - Started process (PID=6242) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:42:10,215] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:42:10,215] {logging_mixin.py:115} INFO - [2022-07-27 22:42:10,215] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:42:10,224] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:42:10,233] {logging_mixin.py:115} INFO - [2022-07-27 22:42:10,233] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:10,243] {logging_mixin.py:115} INFO - [2022-07-27 22:42:10,243] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:42:10,252] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.039 seconds
+[2022-07-27 22:42:42,278] {processor.py:153} INFO - Started process (PID=6293) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:42:42,279] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:42:42,279] {logging_mixin.py:115} INFO - [2022-07-27 22:42:42,279] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:42:42,290] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:42:42,302] {logging_mixin.py:115} INFO - [2022-07-27 22:42:42,302] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:42,313] {logging_mixin.py:115} INFO - [2022-07-27 22:42:42,313] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:42:42,324] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-07-27 22:43:15,971] {processor.py:153} INFO - Started process (PID=6342) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:43:15,971] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:43:15,971] {logging_mixin.py:115} INFO - [2022-07-27 22:43:15,971] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:43:15,981] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:43:15,989] {logging_mixin.py:115} INFO - [2022-07-27 22:43:15,989] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:15,998] {logging_mixin.py:115} INFO - [2022-07-27 22:43:15,998] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:43:16,007] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 22:43:47,865] {processor.py:153} INFO - Started process (PID=6395) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:43:47,865] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:43:47,866] {logging_mixin.py:115} INFO - [2022-07-27 22:43:47,866] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:43:47,876] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:43:47,899] {logging_mixin.py:115} INFO - [2022-07-27 22:43:47,899] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:47,908] {logging_mixin.py:115} INFO - [2022-07-27 22:43:47,908] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:43:47,917] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-07-27 22:44:20,468] {processor.py:153} INFO - Started process (PID=6430) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:44:20,469] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:44:20,469] {logging_mixin.py:115} INFO - [2022-07-27 22:44:20,469] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:44:20,479] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:44:20,488] {logging_mixin.py:115} INFO - [2022-07-27 22:44:20,488] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:20,497] {logging_mixin.py:115} INFO - [2022-07-27 22:44:20,497] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:44:20,506] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 22:44:52,393] {processor.py:153} INFO - Started process (PID=6462) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:44:52,393] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:44:52,393] {logging_mixin.py:115} INFO - [2022-07-27 22:44:52,393] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:44:52,403] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:44:52,412] {logging_mixin.py:115} INFO - [2022-07-27 22:44:52,412] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:52,421] {logging_mixin.py:115} INFO - [2022-07-27 22:44:52,421] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:44:52,432] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-07-27 22:45:24,368] {processor.py:153} INFO - Started process (PID=6506) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:45:24,369] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:45:24,370] {logging_mixin.py:115} INFO - [2022-07-27 22:45:24,370] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:45:24,385] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:45:24,402] {logging_mixin.py:115} INFO - [2022-07-27 22:45:24,402] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:24,419] {logging_mixin.py:115} INFO - [2022-07-27 22:45:24,419] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:45:24,487] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.120 seconds
+[2022-07-27 22:45:55,891] {processor.py:153} INFO - Started process (PID=6572) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:45:55,891] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:45:55,891] {logging_mixin.py:115} INFO - [2022-07-27 22:45:55,891] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:45:55,903] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:45:55,915] {logging_mixin.py:115} INFO - [2022-07-27 22:45:55,915] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:55,926] {logging_mixin.py:115} INFO - [2022-07-27 22:45:55,926] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:45:55,936] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-07-27 22:46:29,736] {processor.py:153} INFO - Started process (PID=6610) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:46:29,736] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:46:29,737] {logging_mixin.py:115} INFO - [2022-07-27 22:46:29,737] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:46:29,747] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:46:29,756] {logging_mixin.py:115} INFO - [2022-07-27 22:46:29,756] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:29,765] {logging_mixin.py:115} INFO - [2022-07-27 22:46:29,765] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:46:29,775] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-07-27 22:47:02,908] {processor.py:153} INFO - Started process (PID=6661) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:47:02,908] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:47:02,909] {logging_mixin.py:115} INFO - [2022-07-27 22:47:02,909] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:47:02,918] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:47:02,926] {logging_mixin.py:115} INFO - [2022-07-27 22:47:02,926] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:02,936] {logging_mixin.py:115} INFO - [2022-07-27 22:47:02,936] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:47:02,946] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 22:47:35,480] {processor.py:153} INFO - Started process (PID=6762) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:47:35,481] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:47:35,481] {logging_mixin.py:115} INFO - [2022-07-27 22:47:35,481] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:47:35,491] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:47:35,500] {logging_mixin.py:115} INFO - [2022-07-27 22:47:35,500] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:35,511] {logging_mixin.py:115} INFO - [2022-07-27 22:47:35,511] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:47:35,522] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.043 seconds
+[2022-07-27 22:48:08,203] {processor.py:153} INFO - Started process (PID=6796) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:48:08,203] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:48:08,203] {logging_mixin.py:115} INFO - [2022-07-27 22:48:08,203] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:48:08,213] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:48:08,223] {logging_mixin.py:115} INFO - [2022-07-27 22:48:08,223] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:08,237] {logging_mixin.py:115} INFO - [2022-07-27 22:48:08,236] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:48:08,252] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2022-07-27 22:48:41,850] {processor.py:153} INFO - Started process (PID=6859) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:48:41,851] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:48:41,851] {logging_mixin.py:115} INFO - [2022-07-27 22:48:41,851] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:48:41,865] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:48:41,894] {logging_mixin.py:115} INFO - [2022-07-27 22:48:41,894] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:41,906] {logging_mixin.py:115} INFO - [2022-07-27 22:48:41,906] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:48:41,917] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.069 seconds
+[2022-07-27 22:49:13,120] {processor.py:153} INFO - Started process (PID=6913) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:49:13,120] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:49:13,121] {logging_mixin.py:115} INFO - [2022-07-27 22:49:13,121] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:49:13,132] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:49:13,141] {logging_mixin.py:115} INFO - [2022-07-27 22:49:13,141] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:13,152] {logging_mixin.py:115} INFO - [2022-07-27 22:49:13,152] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:49:13,165] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-07-27 22:49:43,941] {processor.py:153} INFO - Started process (PID=6946) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:49:43,943] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:49:43,943] {logging_mixin.py:115} INFO - [2022-07-27 22:49:43,943] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:49:43,954] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:49:43,963] {logging_mixin.py:115} INFO - [2022-07-27 22:49:43,963] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:43,974] {logging_mixin.py:115} INFO - [2022-07-27 22:49:43,974] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:49:43,984] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-07-27 22:50:14,760] {processor.py:153} INFO - Started process (PID=6993) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:50:14,760] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:50:14,760] {logging_mixin.py:115} INFO - [2022-07-27 22:50:14,760] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:50:14,772] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:50:14,782] {logging_mixin.py:115} INFO - [2022-07-27 22:50:14,782] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:14,793] {logging_mixin.py:115} INFO - [2022-07-27 22:50:14,793] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:50:14,803] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds
+[2022-07-27 22:50:46,716] {processor.py:153} INFO - Started process (PID=7034) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:50:46,717] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:50:46,717] {logging_mixin.py:115} INFO - [2022-07-27 22:50:46,717] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:50:46,728] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:50:46,737] {logging_mixin.py:115} INFO - [2022-07-27 22:50:46,737] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:46,748] {logging_mixin.py:115} INFO - [2022-07-27 22:50:46,748] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:50:46,758] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-07-27 22:51:18,949] {processor.py:153} INFO - Started process (PID=7081) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:51:18,949] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:51:18,949] {logging_mixin.py:115} INFO - [2022-07-27 22:51:18,949] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:51:18,959] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:51:18,968] {logging_mixin.py:115} INFO - [2022-07-27 22:51:18,967] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:18,976] {logging_mixin.py:115} INFO - [2022-07-27 22:51:18,976] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:51:18,985] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 22:51:52,383] {processor.py:153} INFO - Started process (PID=7123) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:51:52,383] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:51:52,384] {logging_mixin.py:115} INFO - [2022-07-27 22:51:52,384] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:51:52,393] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:51:52,402] {logging_mixin.py:115} INFO - [2022-07-27 22:51:52,402] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:52,411] {logging_mixin.py:115} INFO - [2022-07-27 22:51:52,411] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:51:52,419] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 22:52:24,252] {processor.py:153} INFO - Started process (PID=7161) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:52:24,252] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:52:24,252] {logging_mixin.py:115} INFO - [2022-07-27 22:52:24,252] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:52:24,263] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:52:24,272] {logging_mixin.py:115} INFO - [2022-07-27 22:52:24,272] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:24,281] {logging_mixin.py:115} INFO - [2022-07-27 22:52:24,281] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:52:24,290] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 22:52:55,654] {processor.py:153} INFO - Started process (PID=7204) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:52:55,655] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:52:55,655] {logging_mixin.py:115} INFO - [2022-07-27 22:52:55,655] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:52:55,665] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:52:55,674] {logging_mixin.py:115} INFO - [2022-07-27 22:52:55,674] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:55,685] {logging_mixin.py:115} INFO - [2022-07-27 22:52:55,685] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:52:55,694] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.043 seconds
+[2022-07-27 22:53:25,923] {processor.py:153} INFO - Started process (PID=7239) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:53:25,923] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:53:25,924] {logging_mixin.py:115} INFO - [2022-07-27 22:53:25,924] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:53:25,936] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:53:25,963] {logging_mixin.py:115} INFO - [2022-07-27 22:53:25,963] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:25,974] {logging_mixin.py:115} INFO - [2022-07-27 22:53:25,974] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:53:25,984] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2022-07-27 22:53:59,711] {processor.py:153} INFO - Started process (PID=7296) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:53:59,712] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:53:59,712] {logging_mixin.py:115} INFO - [2022-07-27 22:53:59,712] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:53:59,723] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:53:59,734] {logging_mixin.py:115} INFO - [2022-07-27 22:53:59,734] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:59,744] {logging_mixin.py:115} INFO - [2022-07-27 22:53:59,744] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:53:59,754] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-07-27 22:54:31,502] {processor.py:153} INFO - Started process (PID=7333) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:54:31,506] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:54:31,506] {logging_mixin.py:115} INFO - [2022-07-27 22:54:31,506] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:54:31,517] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:54:31,528] {logging_mixin.py:115} INFO - [2022-07-27 22:54:31,528] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:31,538] {logging_mixin.py:115} INFO - [2022-07-27 22:54:31,538] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:54:31,550] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-07-27 22:55:03,461] {processor.py:153} INFO - Started process (PID=7385) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:55:03,462] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:55:03,463] {logging_mixin.py:115} INFO - [2022-07-27 22:55:03,463] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:55:03,474] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:55:03,482] {logging_mixin.py:115} INFO - [2022-07-27 22:55:03,482] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:03,491] {logging_mixin.py:115} INFO - [2022-07-27 22:55:03,491] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:55:03,501] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.042 seconds
+[2022-07-27 22:55:39,309] {processor.py:153} INFO - Started process (PID=7442) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:55:39,310] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:55:39,311] {logging_mixin.py:115} INFO - [2022-07-27 22:55:39,311] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:55:39,321] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:55:39,332] {logging_mixin.py:115} INFO - [2022-07-27 22:55:39,332] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:39,343] {logging_mixin.py:115} INFO - [2022-07-27 22:55:39,343] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:55:39,357] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-07-27 22:56:12,125] {processor.py:153} INFO - Started process (PID=7490) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:56:12,125] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:56:12,125] {logging_mixin.py:115} INFO - [2022-07-27 22:56:12,125] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:56:12,136] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:56:12,146] {logging_mixin.py:115} INFO - [2022-07-27 22:56:12,146] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:12,159] {logging_mixin.py:115} INFO - [2022-07-27 22:56:12,158] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:56:12,172] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-07-27 22:56:43,659] {processor.py:153} INFO - Started process (PID=7551) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:56:43,659] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:56:43,660] {logging_mixin.py:115} INFO - [2022-07-27 22:56:43,660] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:56:43,671] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:56:43,682] {logging_mixin.py:115} INFO - [2022-07-27 22:56:43,682] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:43,692] {logging_mixin.py:115} INFO - [2022-07-27 22:56:43,692] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:56:43,701] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-07-27 22:57:15,057] {processor.py:153} INFO - Started process (PID=7589) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:57:15,058] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:57:15,059] {logging_mixin.py:115} INFO - [2022-07-27 22:57:15,058] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:57:15,079] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:57:15,089] {logging_mixin.py:115} INFO - [2022-07-27 22:57:15,089] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:15,101] {logging_mixin.py:115} INFO - [2022-07-27 22:57:15,101] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:57:15,112] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-07-27 22:57:48,828] {processor.py:153} INFO - Started process (PID=7623) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:57:48,829] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:57:48,829] {logging_mixin.py:115} INFO - [2022-07-27 22:57:48,829] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:57:48,839] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:57:48,847] {logging_mixin.py:115} INFO - [2022-07-27 22:57:48,847] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:48,856] {logging_mixin.py:115} INFO - [2022-07-27 22:57:48,856] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:57:48,865] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 22:58:20,571] {processor.py:153} INFO - Started process (PID=7672) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:58:20,572] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:58:20,572] {logging_mixin.py:115} INFO - [2022-07-27 22:58:20,572] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:58:20,585] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:58:20,595] {logging_mixin.py:115} INFO - [2022-07-27 22:58:20,594] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:20,606] {logging_mixin.py:115} INFO - [2022-07-27 22:58:20,606] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:58:20,615] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-07-27 22:58:52,550] {processor.py:153} INFO - Started process (PID=7707) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:58:52,550] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:58:52,550] {logging_mixin.py:115} INFO - [2022-07-27 22:58:52,550] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:58:52,562] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:58:52,588] {logging_mixin.py:115} INFO - [2022-07-27 22:58:52,588] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:52,601] {logging_mixin.py:115} INFO - [2022-07-27 22:58:52,601] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:58:52,615] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.067 seconds
+[2022-07-27 22:59:23,260] {processor.py:153} INFO - Started process (PID=7742) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:59:23,260] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:59:23,261] {logging_mixin.py:115} INFO - [2022-07-27 22:59:23,261] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:59:23,271] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:59:23,281] {logging_mixin.py:115} INFO - [2022-07-27 22:59:23,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:23,290] {logging_mixin.py:115} INFO - [2022-07-27 22:59:23,290] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:59:23,299] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-07-27 22:59:54,788] {processor.py:153} INFO - Started process (PID=7794) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:59:54,789] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 22:59:54,789] {logging_mixin.py:115} INFO - [2022-07-27 22:59:54,789] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:59:54,804] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 22:59:54,817] {logging_mixin.py:115} INFO - [2022-07-27 22:59:54,817] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:54,828] {logging_mixin.py:115} INFO - [2022-07-27 22:59:54,828] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 22:59:54,841] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds
+[2022-07-27 23:00:26,769] {processor.py:153} INFO - Started process (PID=7833) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:00:26,770] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:00:26,770] {logging_mixin.py:115} INFO - [2022-07-27 23:00:26,770] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:00:26,780] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:00:26,789] {logging_mixin.py:115} INFO - [2022-07-27 23:00:26,788] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:26,798] {logging_mixin.py:115} INFO - [2022-07-27 23:00:26,798] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:00:26,808] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 23:00:59,604] {processor.py:153} INFO - Started process (PID=7867) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:00:59,604] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:00:59,605] {logging_mixin.py:115} INFO - [2022-07-27 23:00:59,605] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:00:59,614] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:00:59,623] {logging_mixin.py:115} INFO - [2022-07-27 23:00:59,623] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:59,633] {logging_mixin.py:115} INFO - [2022-07-27 23:00:59,633] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:00:59,642] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 23:01:32,378] {processor.py:153} INFO - Started process (PID=7913) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:01:32,378] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:01:32,379] {logging_mixin.py:115} INFO - [2022-07-27 23:01:32,379] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:01:32,388] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:01:32,397] {logging_mixin.py:115} INFO - [2022-07-27 23:01:32,397] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:32,407] {logging_mixin.py:115} INFO - [2022-07-27 23:01:32,407] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:01:32,417] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-07-27 23:02:03,197] {processor.py:153} INFO - Started process (PID=7958) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:02:03,198] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:02:03,198] {logging_mixin.py:115} INFO - [2022-07-27 23:02:03,198] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:02:03,207] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:02:03,216] {logging_mixin.py:115} INFO - [2022-07-27 23:02:03,216] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:03,225] {logging_mixin.py:115} INFO - [2022-07-27 23:02:03,225] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:02:03,233] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:02:34,022] {processor.py:153} INFO - Started process (PID=8003) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:02:34,023] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:02:34,023] {logging_mixin.py:115} INFO - [2022-07-27 23:02:34,023] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:02:34,033] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:02:34,042] {logging_mixin.py:115} INFO - [2022-07-27 23:02:34,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:34,051] {logging_mixin.py:115} INFO - [2022-07-27 23:02:34,051] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:02:34,059] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:03:04,796] {processor.py:153} INFO - Started process (PID=8050) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:03:04,797] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:03:04,797] {logging_mixin.py:115} INFO - [2022-07-27 23:03:04,797] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:03:04,808] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:03:04,817] {logging_mixin.py:115} INFO - [2022-07-27 23:03:04,817] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:04,827] {logging_mixin.py:115} INFO - [2022-07-27 23:03:04,827] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:03:04,837] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.043 seconds
+[2022-07-27 23:03:35,620] {processor.py:153} INFO - Started process (PID=8091) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:03:35,620] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:03:35,620] {logging_mixin.py:115} INFO - [2022-07-27 23:03:35,620] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:03:35,630] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:03:35,654] {logging_mixin.py:115} INFO - [2022-07-27 23:03:35,654] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:35,663] {logging_mixin.py:115} INFO - [2022-07-27 23:03:35,663] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:03:35,678] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2022-07-27 23:04:06,455] {processor.py:153} INFO - Started process (PID=8128) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:04:06,455] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:04:06,456] {logging_mixin.py:115} INFO - [2022-07-27 23:04:06,456] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:04:06,465] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:04:06,474] {logging_mixin.py:115} INFO - [2022-07-27 23:04:06,474] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:06,483] {logging_mixin.py:115} INFO - [2022-07-27 23:04:06,483] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:04:06,491] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:04:38,527] {processor.py:153} INFO - Started process (PID=8162) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:04:38,527] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:04:38,528] {logging_mixin.py:115} INFO - [2022-07-27 23:04:38,528] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:04:38,539] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:04:38,548] {logging_mixin.py:115} INFO - [2022-07-27 23:04:38,548] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:38,558] {logging_mixin.py:115} INFO - [2022-07-27 23:04:38,558] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:04:38,567] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.042 seconds
+[2022-07-27 23:05:11,408] {processor.py:153} INFO - Started process (PID=8220) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:05:11,408] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:05:11,408] {logging_mixin.py:115} INFO - [2022-07-27 23:05:11,408] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:05:11,418] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:05:11,426] {logging_mixin.py:115} INFO - [2022-07-27 23:05:11,426] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:11,435] {logging_mixin.py:115} INFO - [2022-07-27 23:05:11,435] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:05:11,444] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:05:42,266] {processor.py:153} INFO - Started process (PID=8265) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:05:42,266] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:05:42,266] {logging_mixin.py:115} INFO - [2022-07-27 23:05:42,266] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:05:42,276] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:05:42,284] {logging_mixin.py:115} INFO - [2022-07-27 23:05:42,284] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:42,293] {logging_mixin.py:115} INFO - [2022-07-27 23:05:42,293] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:05:42,301] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.037 seconds
+[2022-07-27 23:06:14,817] {processor.py:153} INFO - Started process (PID=8314) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:06:14,818] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:06:14,818] {logging_mixin.py:115} INFO - [2022-07-27 23:06:14,818] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:06:14,828] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:06:14,836] {logging_mixin.py:115} INFO - [2022-07-27 23:06:14,836] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:14,845] {logging_mixin.py:115} INFO - [2022-07-27 23:06:14,845] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:06:14,853] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:06:45,708] {processor.py:153} INFO - Started process (PID=8357) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:06:45,708] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:06:45,708] {logging_mixin.py:115} INFO - [2022-07-27 23:06:45,708] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:06:45,718] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:06:45,726] {logging_mixin.py:115} INFO - [2022-07-27 23:06:45,726] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:45,735] {logging_mixin.py:115} INFO - [2022-07-27 23:06:45,735] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:06:45,751] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds
+[2022-07-27 23:07:20,537] {processor.py:153} INFO - Started process (PID=8400) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:07:20,538] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:07:20,538] {logging_mixin.py:115} INFO - [2022-07-27 23:07:20,538] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:07:20,548] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:07:20,556] {logging_mixin.py:115} INFO - [2022-07-27 23:07:20,556] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:20,565] {logging_mixin.py:115} INFO - [2022-07-27 23:07:20,565] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:07:20,573] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.037 seconds
+[2022-07-27 23:07:52,477] {processor.py:153} INFO - Started process (PID=8445) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:07:52,478] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:07:52,478] {logging_mixin.py:115} INFO - [2022-07-27 23:07:52,478] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:07:52,488] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:07:52,496] {logging_mixin.py:115} INFO - [2022-07-27 23:07:52,496] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:52,505] {logging_mixin.py:115} INFO - [2022-07-27 23:07:52,505] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:07:52,513] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:08:23,752] {processor.py:153} INFO - Started process (PID=8496) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:08:23,753] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:08:23,753] {logging_mixin.py:115} INFO - [2022-07-27 23:08:23,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:08:23,762] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:08:23,785] {logging_mixin.py:115} INFO - [2022-07-27 23:08:23,785] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:23,794] {logging_mixin.py:115} INFO - [2022-07-27 23:08:23,794] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:08:23,804] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.053 seconds
+[2022-07-27 23:08:55,211] {processor.py:153} INFO - Started process (PID=8532) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:08:55,211] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:08:55,211] {logging_mixin.py:115} INFO - [2022-07-27 23:08:55,211] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:08:55,221] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:08:55,243] {logging_mixin.py:115} INFO - [2022-07-27 23:08:55,243] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:55,252] {logging_mixin.py:115} INFO - [2022-07-27 23:08:55,252] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:08:55,261] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2022-07-27 23:09:29,420] {processor.py:153} INFO - Started process (PID=8570) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:09:29,421] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:09:29,421] {logging_mixin.py:115} INFO - [2022-07-27 23:09:29,421] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:09:29,431] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:09:29,442] {logging_mixin.py:115} INFO - [2022-07-27 23:09:29,441] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:29,453] {logging_mixin.py:115} INFO - [2022-07-27 23:09:29,453] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:09:29,465] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-07-27 23:10:03,363] {processor.py:153} INFO - Started process (PID=8628) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:10:03,364] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:10:03,364] {logging_mixin.py:115} INFO - [2022-07-27 23:10:03,364] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:10:03,374] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:10:03,386] {logging_mixin.py:115} INFO - [2022-07-27 23:10:03,386] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:03,399] {logging_mixin.py:115} INFO - [2022-07-27 23:10:03,399] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:10:03,411] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds
+[2022-07-27 23:10:35,871] {processor.py:153} INFO - Started process (PID=8686) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:10:35,872] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:10:35,872] {logging_mixin.py:115} INFO - [2022-07-27 23:10:35,872] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:10:35,883] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:10:35,907] {logging_mixin.py:115} INFO - [2022-07-27 23:10:35,907] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:35,916] {logging_mixin.py:115} INFO - [2022-07-27 23:10:35,916] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:10:35,927] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.057 seconds
+[2022-07-27 23:11:07,262] {processor.py:153} INFO - Started process (PID=8727) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:11:07,263] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:11:07,263] {logging_mixin.py:115} INFO - [2022-07-27 23:11:07,263] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:11:07,273] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:11:07,281] {logging_mixin.py:115} INFO - [2022-07-27 23:11:07,281] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:07,292] {logging_mixin.py:115} INFO - [2022-07-27 23:11:07,292] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:11:07,300] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 23:11:41,885] {processor.py:153} INFO - Started process (PID=8762) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:11:41,886] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:11:41,886] {logging_mixin.py:115} INFO - [2022-07-27 23:11:41,886] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:11:41,895] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:11:41,904] {logging_mixin.py:115} INFO - [2022-07-27 23:11:41,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:41,913] {logging_mixin.py:115} INFO - [2022-07-27 23:11:41,913] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:11:41,922] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:12:12,645] {processor.py:153} INFO - Started process (PID=8823) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:12:12,645] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:12:12,645] {logging_mixin.py:115} INFO - [2022-07-27 23:12:12,645] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:12:12,655] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:12:12,664] {logging_mixin.py:115} INFO - [2022-07-27 23:12:12,664] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:12,673] {logging_mixin.py:115} INFO - [2022-07-27 23:12:12,673] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:12:12,683] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 23:12:44,406] {processor.py:153} INFO - Started process (PID=8858) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:12:44,406] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:12:44,407] {logging_mixin.py:115} INFO - [2022-07-27 23:12:44,406] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:12:44,416] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:12:44,425] {logging_mixin.py:115} INFO - [2022-07-27 23:12:44,425] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:44,434] {logging_mixin.py:115} INFO - [2022-07-27 23:12:44,434] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:12:44,445] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-07-27 23:13:17,090] {processor.py:153} INFO - Started process (PID=8892) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:13:17,090] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:13:17,091] {logging_mixin.py:115} INFO - [2022-07-27 23:13:17,091] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:13:17,100] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:13:17,109] {logging_mixin.py:115} INFO - [2022-07-27 23:13:17,109] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:17,118] {logging_mixin.py:115} INFO - [2022-07-27 23:13:17,117] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:13:17,126] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:13:47,845] {processor.py:153} INFO - Started process (PID=8925) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:13:47,845] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:13:47,845] {logging_mixin.py:115} INFO - [2022-07-27 23:13:47,845] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:13:47,855] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:13:47,878] {logging_mixin.py:115} INFO - [2022-07-27 23:13:47,878] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:47,886] {logging_mixin.py:115} INFO - [2022-07-27 23:13:47,886] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:13:47,897] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-07-27 23:14:22,670] {processor.py:153} INFO - Started process (PID=8960) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:14:22,670] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:14:22,671] {logging_mixin.py:115} INFO - [2022-07-27 23:14:22,671] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:14:22,681] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:14:22,689] {logging_mixin.py:115} INFO - [2022-07-27 23:14:22,689] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:22,698] {logging_mixin.py:115} INFO - [2022-07-27 23:14:22,698] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:14:22,706] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:14:56,183] {processor.py:153} INFO - Started process (PID=8999) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:14:56,183] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:14:56,183] {logging_mixin.py:115} INFO - [2022-07-27 23:14:56,183] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:14:56,193] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:14:56,202] {logging_mixin.py:115} INFO - [2022-07-27 23:14:56,201] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:56,211] {logging_mixin.py:115} INFO - [2022-07-27 23:14:56,211] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:14:56,219] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:15:28,930] {processor.py:153} INFO - Started process (PID=9060) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:15:28,931] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:15:28,931] {logging_mixin.py:115} INFO - [2022-07-27 23:15:28,931] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:15:28,941] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:15:28,949] {logging_mixin.py:115} INFO - [2022-07-27 23:15:28,949] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:28,958] {logging_mixin.py:115} INFO - [2022-07-27 23:15:28,958] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:15:28,967] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.039 seconds
+[2022-07-27 23:15:59,384] {processor.py:153} INFO - Started process (PID=9095) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:15:59,385] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:15:59,385] {logging_mixin.py:115} INFO - [2022-07-27 23:15:59,385] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:15:59,395] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:15:59,403] {logging_mixin.py:115} INFO - [2022-07-27 23:15:59,403] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:59,412] {logging_mixin.py:115} INFO - [2022-07-27 23:15:59,412] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:15:59,421] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:16:31,148] {processor.py:153} INFO - Started process (PID=9129) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:16:31,149] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:16:31,149] {logging_mixin.py:115} INFO - [2022-07-27 23:16:31,149] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:16:31,159] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:16:31,168] {logging_mixin.py:115} INFO - [2022-07-27 23:16:31,167] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:31,177] {logging_mixin.py:115} INFO - [2022-07-27 23:16:31,177] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:16:31,195] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-07-27 23:17:04,171] {processor.py:153} INFO - Started process (PID=9166) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:17:04,171] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:17:04,172] {logging_mixin.py:115} INFO - [2022-07-27 23:17:04,171] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:17:04,181] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:17:04,189] {logging_mixin.py:115} INFO - [2022-07-27 23:17:04,189] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:04,198] {logging_mixin.py:115} INFO - [2022-07-27 23:17:04,198] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:17:04,211] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.042 seconds
+[2022-07-27 23:17:37,145] {processor.py:153} INFO - Started process (PID=9204) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:17:37,146] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:17:37,147] {logging_mixin.py:115} INFO - [2022-07-27 23:17:37,147] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:17:37,156] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:17:37,165] {logging_mixin.py:115} INFO - [2022-07-27 23:17:37,165] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:37,174] {logging_mixin.py:115} INFO - [2022-07-27 23:17:37,174] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:17:37,183] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.040 seconds
+[2022-07-27 23:18:08,778] {processor.py:153} INFO - Started process (PID=9237) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:18:08,778] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:18:08,779] {logging_mixin.py:115} INFO - [2022-07-27 23:18:08,778] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:18:08,788] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:18:08,797] {logging_mixin.py:115} INFO - [2022-07-27 23:18:08,797] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:08,806] {logging_mixin.py:115} INFO - [2022-07-27 23:18:08,806] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:18:08,816] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.039 seconds
+[2022-07-27 23:18:39,599] {processor.py:153} INFO - Started process (PID=9271) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:18:39,600] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:18:39,600] {logging_mixin.py:115} INFO - [2022-07-27 23:18:39,600] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:18:39,610] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:18:39,633] {logging_mixin.py:115} INFO - [2022-07-27 23:18:39,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:39,641] {logging_mixin.py:115} INFO - [2022-07-27 23:18:39,641] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:18:39,650] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-07-27 23:19:11,598] {processor.py:153} INFO - Started process (PID=9304) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:19:11,598] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:19:11,598] {logging_mixin.py:115} INFO - [2022-07-27 23:19:11,598] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:19:11,608] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:19:11,631] {logging_mixin.py:115} INFO - [2022-07-27 23:19:11,631] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:11,639] {logging_mixin.py:115} INFO - [2022-07-27 23:19:11,639] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:19:11,648] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-07-27 23:19:43,485] {processor.py:153} INFO - Started process (PID=9338) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:19:43,486] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:19:43,486] {logging_mixin.py:115} INFO - [2022-07-27 23:19:43,486] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:19:43,496] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:19:43,504] {logging_mixin.py:115} INFO - [2022-07-27 23:19:43,504] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:43,513] {logging_mixin.py:115} INFO - [2022-07-27 23:19:43,513] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:19:43,521] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:20:15,424] {processor.py:153} INFO - Started process (PID=9372) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:20:15,424] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:20:15,424] {logging_mixin.py:115} INFO - [2022-07-27 23:20:15,424] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:20:15,434] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:20:15,442] {logging_mixin.py:115} INFO - [2022-07-27 23:20:15,442] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:15,451] {logging_mixin.py:115} INFO - [2022-07-27 23:20:15,451] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:20:15,460] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:20:48,017] {processor.py:153} INFO - Started process (PID=9409) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:20:48,018] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:20:48,018] {logging_mixin.py:115} INFO - [2022-07-27 23:20:48,018] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:20:48,027] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:20:48,036] {logging_mixin.py:115} INFO - [2022-07-27 23:20:48,036] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:48,045] {logging_mixin.py:115} INFO - [2022-07-27 23:20:48,045] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:20:48,053] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.038 seconds
+[2022-07-27 23:21:18,836] {processor.py:153} INFO - Started process (PID=9455) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:21:18,836] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:21:18,837] {logging_mixin.py:115} INFO - [2022-07-27 23:21:18,836] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:21:18,846] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:21:18,854] {logging_mixin.py:115} INFO - [2022-07-27 23:21:18,854] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:18,863] {logging_mixin.py:115} INFO - [2022-07-27 23:21:18,863] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:21:18,872] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.037 seconds
+[2022-07-27 23:21:52,658] {processor.py:153} INFO - Started process (PID=9491) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:21:52,658] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-07-27 23:21:52,659] {logging_mixin.py:115} INFO - [2022-07-27 23:21:52,659] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:21:52,671] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-07-27 23:21:52,680] {logging_mixin.py:115} INFO - [2022-07-27 23:21:52,680] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:52,691] {logging_mixin.py:115} INFO - [2022-07-27 23:21:52,691] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-07-27 23:21:52,703] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds

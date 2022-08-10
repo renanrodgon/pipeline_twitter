@@ -1,0 +1,819 @@
+[2022-07-27 22:18:32,755] {processor.py:153} INFO - Started process (PID=3831) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:18:32,756] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:18:32,756] {logging_mixin.py:115} INFO - [2022-07-27 22:18:32,756] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:18:32,760] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:18:32,771] {logging_mixin.py:115} INFO - [2022-07-27 22:18:32,771] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:18:32,782] {logging_mixin.py:115} INFO - [2022-07-27 22:18:32,782] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:18:32.781998+00:00, run_after=2022-07-28T01:18:32.781998+00:00
+[2022-07-27 22:18:32,792] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2022-07-27 22:19:06,038] {processor.py:153} INFO - Started process (PID=3943) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:19:06,038] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:19:06,039] {logging_mixin.py:115} INFO - [2022-07-27 22:19:06,039] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:19:06,043] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:19:06,054] {logging_mixin.py:115} INFO - [2022-07-27 22:19:06,054] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:06,065] {logging_mixin.py:115} INFO - [2022-07-27 22:19:06,065] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:19:06.065574+00:00, run_after=2022-07-28T01:19:06.065574+00:00
+[2022-07-27 22:19:06,077] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 22:19:39,976] {processor.py:153} INFO - Started process (PID=3979) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:19:39,977] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:19:39,977] {logging_mixin.py:115} INFO - [2022-07-27 22:19:39,977] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:19:39,981] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:19:39,992] {logging_mixin.py:115} INFO - [2022-07-27 22:19:39,992] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:19:40,002] {logging_mixin.py:115} INFO - [2022-07-27 22:19:40,002] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:19:40.002010+00:00, run_after=2022-07-28T01:19:40.002010+00:00
+[2022-07-27 22:19:40,015] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 22:20:11,978] {processor.py:153} INFO - Started process (PID=4290) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:20:11,979] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:20:11,980] {logging_mixin.py:115} INFO - [2022-07-27 22:20:11,980] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:20:11,983] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:20:11,997] {logging_mixin.py:115} INFO - [2022-07-27 22:20:11,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:12,010] {logging_mixin.py:115} INFO - [2022-07-27 22:20:12,010] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:20:12.009994+00:00, run_after=2022-07-28T01:20:12.009994+00:00
+[2022-07-27 22:20:12,020] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2022-07-27 22:20:46,700] {processor.py:153} INFO - Started process (PID=4339) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:20:46,700] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:20:46,700] {logging_mixin.py:115} INFO - [2022-07-27 22:20:46,700] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:20:46,703] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:20:46,715] {logging_mixin.py:115} INFO - [2022-07-27 22:20:46,715] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:20:46,724] {logging_mixin.py:115} INFO - [2022-07-27 22:20:46,724] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:20:46.724704+00:00, run_after=2022-07-28T01:20:46.724704+00:00
+[2022-07-27 22:20:46,733] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:21:17,541] {processor.py:153} INFO - Started process (PID=4383) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:21:17,542] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:21:17,542] {logging_mixin.py:115} INFO - [2022-07-27 22:21:17,542] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:21:17,545] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:21:17,559] {logging_mixin.py:115} INFO - [2022-07-27 22:21:17,559] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:17,571] {logging_mixin.py:115} INFO - [2022-07-27 22:21:17,571] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:21:17.571228+00:00, run_after=2022-07-28T01:21:17.571228+00:00
+[2022-07-27 22:21:17,581] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2022-07-27 22:21:53,021] {processor.py:153} INFO - Started process (PID=4420) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:21:53,022] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:21:53,022] {logging_mixin.py:115} INFO - [2022-07-27 22:21:53,022] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:21:53,025] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:21:53,038] {logging_mixin.py:115} INFO - [2022-07-27 22:21:53,038] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:21:53,053] {logging_mixin.py:115} INFO - [2022-07-27 22:21:53,053] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:21:53.053422+00:00, run_after=2022-07-28T01:21:53.053422+00:00
+[2022-07-27 22:21:53,120] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2022-07-27 22:22:23,855] {processor.py:153} INFO - Started process (PID=4461) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:22:23,855] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:22:23,856] {logging_mixin.py:115} INFO - [2022-07-27 22:22:23,856] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:22:23,859] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:22:23,873] {logging_mixin.py:115} INFO - [2022-07-27 22:22:23,873] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:23,884] {logging_mixin.py:115} INFO - [2022-07-27 22:22:23,884] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:22:23.883931+00:00, run_after=2022-07-28T01:22:23.883931+00:00
+[2022-07-27 22:22:23,895] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2022-07-27 22:22:57,066] {processor.py:153} INFO - Started process (PID=4527) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:22:57,066] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:22:57,067] {logging_mixin.py:115} INFO - [2022-07-27 22:22:57,067] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:22:57,070] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:22:57,089] {logging_mixin.py:115} INFO - [2022-07-27 22:22:57,089] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:22:57,102] {logging_mixin.py:115} INFO - [2022-07-27 22:22:57,102] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:22:57.102197+00:00, run_after=2022-07-28T01:22:57.102197+00:00
+[2022-07-27 22:22:57,113] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2022-07-27 22:23:29,717] {processor.py:153} INFO - Started process (PID=4567) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:23:29,718] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:23:29,718] {logging_mixin.py:115} INFO - [2022-07-27 22:23:29,718] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:23:29,721] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:23:29,734] {logging_mixin.py:115} INFO - [2022-07-27 22:23:29,734] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:23:29,745] {logging_mixin.py:115} INFO - [2022-07-27 22:23:29,745] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:23:29.745270+00:00, run_after=2022-07-28T01:23:29.745270+00:00
+[2022-07-27 22:23:29,758] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2022-07-27 22:24:01,826] {processor.py:153} INFO - Started process (PID=4604) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:24:01,827] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:24:01,828] {logging_mixin.py:115} INFO - [2022-07-27 22:24:01,828] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:24:01,831] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:24:01,843] {logging_mixin.py:115} INFO - [2022-07-27 22:24:01,843] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:01,853] {logging_mixin.py:115} INFO - [2022-07-27 22:24:01,853] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:24:01.853349+00:00, run_after=2022-07-28T01:24:01.853349+00:00
+[2022-07-27 22:24:01,863] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:24:34,247] {processor.py:153} INFO - Started process (PID=4638) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:24:34,248] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:24:34,248] {logging_mixin.py:115} INFO - [2022-07-27 22:24:34,248] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:24:34,251] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:24:34,262] {logging_mixin.py:115} INFO - [2022-07-27 22:24:34,262] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:24:34,272] {logging_mixin.py:115} INFO - [2022-07-27 22:24:34,272] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:24:34.272514+00:00, run_after=2022-07-28T01:24:34.272514+00:00
+[2022-07-27 22:24:34,284] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:25:07,707] {processor.py:153} INFO - Started process (PID=4708) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:25:07,707] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:25:07,708] {logging_mixin.py:115} INFO - [2022-07-27 22:25:07,708] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:25:07,711] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:25:07,728] {logging_mixin.py:115} INFO - [2022-07-27 22:25:07,728] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:07,741] {logging_mixin.py:115} INFO - [2022-07-27 22:25:07,741] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:25:07.741624+00:00, run_after=2022-07-28T01:25:07.741624+00:00
+[2022-07-27 22:25:07,754] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2022-07-27 22:25:39,328] {processor.py:153} INFO - Started process (PID=4752) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:25:39,329] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:25:39,329] {logging_mixin.py:115} INFO - [2022-07-27 22:25:39,329] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:25:39,333] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:25:39,344] {logging_mixin.py:115} INFO - [2022-07-27 22:25:39,344] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:25:39,353] {logging_mixin.py:115} INFO - [2022-07-27 22:25:39,353] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:25:39.353247+00:00, run_after=2022-07-28T01:25:39.353247+00:00
+[2022-07-27 22:25:39,362] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:26:13,513] {processor.py:153} INFO - Started process (PID=4803) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:26:13,513] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:26:13,514] {logging_mixin.py:115} INFO - [2022-07-27 22:26:13,514] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:26:13,517] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:26:13,529] {logging_mixin.py:115} INFO - [2022-07-27 22:26:13,529] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:13,540] {logging_mixin.py:115} INFO - [2022-07-27 22:26:13,540] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:26:13.540059+00:00, run_after=2022-07-28T01:26:13.540059+00:00
+[2022-07-27 22:26:13,550] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:26:45,239] {processor.py:153} INFO - Started process (PID=4842) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:26:45,239] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:26:45,239] {logging_mixin.py:115} INFO - [2022-07-27 22:26:45,239] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:26:45,243] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:26:45,257] {logging_mixin.py:115} INFO - [2022-07-27 22:26:45,257] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:26:45,272] {logging_mixin.py:115} INFO - [2022-07-27 22:26:45,271] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:26:45.271709+00:00, run_after=2022-07-28T01:26:45.271709+00:00
+[2022-07-27 22:26:45,284] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2022-07-27 22:27:18,936] {processor.py:153} INFO - Started process (PID=4886) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:27:18,937] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:27:18,937] {logging_mixin.py:115} INFO - [2022-07-27 22:27:18,937] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:27:18,941] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:27:18,952] {logging_mixin.py:115} INFO - [2022-07-27 22:27:18,952] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:18,962] {logging_mixin.py:115} INFO - [2022-07-27 22:27:18,962] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:27:18.962213+00:00, run_after=2022-07-28T01:27:18.962213+00:00
+[2022-07-27 22:27:18,971] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2022-07-27 22:27:51,122] {processor.py:153} INFO - Started process (PID=4925) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:27:51,123] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:27:51,123] {logging_mixin.py:115} INFO - [2022-07-27 22:27:51,123] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:27:51,126] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:27:51,138] {logging_mixin.py:115} INFO - [2022-07-27 22:27:51,138] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:27:51,149] {logging_mixin.py:115} INFO - [2022-07-27 22:27:51,149] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:27:51.149351+00:00, run_after=2022-07-28T01:27:51.149351+00:00
+[2022-07-27 22:27:51,157] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2022-07-27 22:28:24,751] {processor.py:153} INFO - Started process (PID=4978) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:28:24,753] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:28:24,753] {logging_mixin.py:115} INFO - [2022-07-27 22:28:24,753] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:28:24,756] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:28:24,774] {logging_mixin.py:115} INFO - [2022-07-27 22:28:24,774] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:24,787] {logging_mixin.py:115} INFO - [2022-07-27 22:28:24,787] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:28:24.786989+00:00, run_after=2022-07-28T01:28:24.786989+00:00
+[2022-07-27 22:28:24,798] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2022-07-27 22:28:56,751] {processor.py:153} INFO - Started process (PID=5020) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:28:56,751] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:28:56,752] {logging_mixin.py:115} INFO - [2022-07-27 22:28:56,752] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:28:56,755] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:28:56,768] {logging_mixin.py:115} INFO - [2022-07-27 22:28:56,768] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:28:56,779] {logging_mixin.py:115} INFO - [2022-07-27 22:28:56,779] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:28:56.779258+00:00, run_after=2022-07-28T01:28:56.779258+00:00
+[2022-07-27 22:28:56,788] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:29:29,068] {processor.py:153} INFO - Started process (PID=5079) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:29:29,069] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:29:29,069] {logging_mixin.py:115} INFO - [2022-07-27 22:29:29,069] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:29:29,076] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:29:29,090] {logging_mixin.py:115} INFO - [2022-07-27 22:29:29,090] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:29:29,101] {logging_mixin.py:115} INFO - [2022-07-27 22:29:29,101] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:29:29.101194+00:00, run_after=2022-07-28T01:29:29.101194+00:00
+[2022-07-27 22:29:29,115] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2022-07-27 22:30:01,656] {processor.py:153} INFO - Started process (PID=5125) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:30:01,657] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:30:01,658] {logging_mixin.py:115} INFO - [2022-07-27 22:30:01,658] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:30:01,662] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:30:01,675] {logging_mixin.py:115} INFO - [2022-07-27 22:30:01,675] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:01,686] {logging_mixin.py:115} INFO - [2022-07-27 22:30:01,686] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:30:01.686532+00:00, run_after=2022-07-28T01:30:01.686532+00:00
+[2022-07-27 22:30:01,699] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2022-07-27 22:30:33,184] {processor.py:153} INFO - Started process (PID=5166) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:30:33,184] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:30:33,184] {logging_mixin.py:115} INFO - [2022-07-27 22:30:33,184] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:30:33,187] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:30:33,198] {logging_mixin.py:115} INFO - [2022-07-27 22:30:33,198] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:30:33,208] {logging_mixin.py:115} INFO - [2022-07-27 22:30:33,208] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:30:33.208015+00:00, run_after=2022-07-28T01:30:33.208015+00:00
+[2022-07-27 22:30:33,217] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:31:04,015] {processor.py:153} INFO - Started process (PID=5218) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:31:04,018] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:31:04,018] {logging_mixin.py:115} INFO - [2022-07-27 22:31:04,018] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:31:04,022] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:31:04,039] {logging_mixin.py:115} INFO - [2022-07-27 22:31:04,039] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:04,054] {logging_mixin.py:115} INFO - [2022-07-27 22:31:04,054] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:31:04.054071+00:00, run_after=2022-07-28T01:31:04.054071+00:00
+[2022-07-27 22:31:04,066] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2022-07-27 22:31:39,985] {processor.py:153} INFO - Started process (PID=5265) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:31:39,986] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:31:39,986] {logging_mixin.py:115} INFO - [2022-07-27 22:31:39,986] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:31:39,989] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:31:40,006] {logging_mixin.py:115} INFO - [2022-07-27 22:31:40,006] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:31:40,020] {logging_mixin.py:115} INFO - [2022-07-27 22:31:40,020] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:31:40.020222+00:00, run_after=2022-07-28T01:31:40.020222+00:00
+[2022-07-27 22:31:40,030] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2022-07-27 22:32:11,882] {processor.py:153} INFO - Started process (PID=5312) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:32:11,882] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:32:11,882] {logging_mixin.py:115} INFO - [2022-07-27 22:32:11,882] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:32:11,886] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:32:11,899] {logging_mixin.py:115} INFO - [2022-07-27 22:32:11,899] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:11,909] {logging_mixin.py:115} INFO - [2022-07-27 22:32:11,909] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:32:11.909521+00:00, run_after=2022-07-28T01:32:11.909521+00:00
+[2022-07-27 22:32:11,921] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2022-07-27 22:32:43,697] {processor.py:153} INFO - Started process (PID=5351) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:32:43,698] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:32:43,698] {logging_mixin.py:115} INFO - [2022-07-27 22:32:43,698] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:32:43,701] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:32:43,716] {logging_mixin.py:115} INFO - [2022-07-27 22:32:43,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:32:43,729] {logging_mixin.py:115} INFO - [2022-07-27 22:32:43,729] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:32:43.729640+00:00, run_after=2022-07-28T01:32:43.729640+00:00
+[2022-07-27 22:32:43,741] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2022-07-27 22:33:16,980] {processor.py:153} INFO - Started process (PID=5395) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:33:16,981] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:33:16,981] {logging_mixin.py:115} INFO - [2022-07-27 22:33:16,981] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:33:16,985] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:33:17,001] {logging_mixin.py:115} INFO - [2022-07-27 22:33:17,001] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:17,018] {logging_mixin.py:115} INFO - [2022-07-27 22:33:17,018] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:33:17.018489+00:00, run_after=2022-07-28T01:33:17.018489+00:00
+[2022-07-27 22:33:17,048] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2022-07-27 22:33:49,661] {processor.py:153} INFO - Started process (PID=5443) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:33:49,662] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:33:49,662] {logging_mixin.py:115} INFO - [2022-07-27 22:33:49,662] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:33:49,665] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:33:49,677] {logging_mixin.py:115} INFO - [2022-07-27 22:33:49,676] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:33:49,686] {logging_mixin.py:115} INFO - [2022-07-27 22:33:49,686] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:33:49.686208+00:00, run_after=2022-07-28T01:33:49.686208+00:00
+[2022-07-27 22:33:49,695] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2022-07-27 22:34:22,717] {processor.py:153} INFO - Started process (PID=5499) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:34:22,718] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:34:22,718] {logging_mixin.py:115} INFO - [2022-07-27 22:34:22,718] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:34:22,721] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:34:22,734] {logging_mixin.py:115} INFO - [2022-07-27 22:34:22,734] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:22,745] {logging_mixin.py:115} INFO - [2022-07-27 22:34:22,745] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:34:22.745347+00:00, run_after=2022-07-28T01:34:22.745347+00:00
+[2022-07-27 22:34:22,757] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2022-07-27 22:34:53,406] {processor.py:153} INFO - Started process (PID=5531) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:34:53,407] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:34:53,407] {logging_mixin.py:115} INFO - [2022-07-27 22:34:53,407] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:34:53,410] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:34:53,425] {logging_mixin.py:115} INFO - [2022-07-27 22:34:53,425] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:34:53,437] {logging_mixin.py:115} INFO - [2022-07-27 22:34:53,437] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:34:53.436906+00:00, run_after=2022-07-28T01:34:53.436906+00:00
+[2022-07-27 22:34:53,448] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2022-07-27 22:35:25,394] {processor.py:153} INFO - Started process (PID=5578) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:35:25,394] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:35:25,394] {logging_mixin.py:115} INFO - [2022-07-27 22:35:25,394] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:35:25,397] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:35:25,409] {logging_mixin.py:115} INFO - [2022-07-27 22:35:25,409] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:25,424] {logging_mixin.py:115} INFO - [2022-07-27 22:35:25,424] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:35:25.424013+00:00, run_after=2022-07-28T01:35:25.424013+00:00
+[2022-07-27 22:35:25,437] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2022-07-27 22:35:55,933] {processor.py:153} INFO - Started process (PID=5627) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:35:55,934] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:35:55,935] {logging_mixin.py:115} INFO - [2022-07-27 22:35:55,935] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:35:55,939] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:35:55,962] {logging_mixin.py:115} INFO - [2022-07-27 22:35:55,962] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:35:55,975] {logging_mixin.py:115} INFO - [2022-07-27 22:35:55,975] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:35:55.975226+00:00, run_after=2022-07-28T01:35:55.975226+00:00
+[2022-07-27 22:35:55,988] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2022-07-27 22:36:28,751] {processor.py:153} INFO - Started process (PID=5769) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:36:28,752] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:36:28,752] {logging_mixin.py:115} INFO - [2022-07-27 22:36:28,752] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:36:28,756] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:36:28,770] {logging_mixin.py:115} INFO - [2022-07-27 22:36:28,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:36:28,782] {logging_mixin.py:115} INFO - [2022-07-27 22:36:28,781] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:36:28.781641+00:00, run_after=2022-07-28T01:36:28.781641+00:00
+[2022-07-27 22:36:28,795] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2022-07-27 22:37:00,710] {processor.py:153} INFO - Started process (PID=5807) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:37:00,712] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:37:00,712] {logging_mixin.py:115} INFO - [2022-07-27 22:37:00,712] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:37:00,716] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:37:00,731] {logging_mixin.py:115} INFO - [2022-07-27 22:37:00,731] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:00,744] {logging_mixin.py:115} INFO - [2022-07-27 22:37:00,744] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:37:00.744378+00:00, run_after=2022-07-28T01:37:00.744378+00:00
+[2022-07-27 22:37:00,753] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2022-07-27 22:37:32,946] {processor.py:153} INFO - Started process (PID=5842) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:37:32,947] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:37:32,947] {logging_mixin.py:115} INFO - [2022-07-27 22:37:32,947] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:37:32,950] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:37:32,963] {logging_mixin.py:115} INFO - [2022-07-27 22:37:32,963] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:37:32,979] {logging_mixin.py:115} INFO - [2022-07-27 22:37:32,979] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:37:32.979258+00:00, run_after=2022-07-28T01:37:32.979258+00:00
+[2022-07-27 22:37:32,989] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2022-07-27 22:38:05,235] {processor.py:153} INFO - Started process (PID=5883) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:38:05,238] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:38:05,238] {logging_mixin.py:115} INFO - [2022-07-27 22:38:05,238] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:38:05,242] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:38:05,259] {logging_mixin.py:115} INFO - [2022-07-27 22:38:05,259] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:05,271] {logging_mixin.py:115} INFO - [2022-07-27 22:38:05,271] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:38:05.271278+00:00, run_after=2022-07-28T01:38:05.271278+00:00
+[2022-07-27 22:38:05,282] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2022-07-27 22:38:36,118] {processor.py:153} INFO - Started process (PID=5927) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:38:36,118] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:38:36,119] {logging_mixin.py:115} INFO - [2022-07-27 22:38:36,119] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:38:36,122] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:38:36,132] {logging_mixin.py:115} INFO - [2022-07-27 22:38:36,132] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:38:36,142] {logging_mixin.py:115} INFO - [2022-07-27 22:38:36,142] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:38:36.142599+00:00, run_after=2022-07-28T01:38:36.142599+00:00
+[2022-07-27 22:38:36,155] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:39:08,392] {processor.py:153} INFO - Started process (PID=5972) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:39:08,394] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:39:08,394] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,394] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:39:08,398] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:39:08,410] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,410] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:08,424] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,424] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:39:08.424330+00:00, run_after=2022-07-28T01:39:08.424330+00:00
+[2022-07-27 22:39:08,434] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2022-07-27 22:39:39,894] {processor.py:153} INFO - Started process (PID=6019) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:39:39,895] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:39:39,895] {logging_mixin.py:115} INFO - [2022-07-27 22:39:39,895] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:39:39,899] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:39:39,912] {logging_mixin.py:115} INFO - [2022-07-27 22:39:39,912] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:39:39,923] {logging_mixin.py:115} INFO - [2022-07-27 22:39:39,923] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:39:39.923054+00:00, run_after=2022-07-28T01:39:39.923054+00:00
+[2022-07-27 22:39:39,933] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 22:40:14,809] {processor.py:153} INFO - Started process (PID=6061) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:40:14,809] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:40:14,810] {logging_mixin.py:115} INFO - [2022-07-27 22:40:14,810] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:40:14,813] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:40:14,825] {logging_mixin.py:115} INFO - [2022-07-27 22:40:14,824] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:14,836] {logging_mixin.py:115} INFO - [2022-07-27 22:40:14,836] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:40:14.836153+00:00, run_after=2022-07-28T01:40:14.836153+00:00
+[2022-07-27 22:40:14,846] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:40:47,907] {processor.py:153} INFO - Started process (PID=6106) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:40:47,908] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:40:47,908] {logging_mixin.py:115} INFO - [2022-07-27 22:40:47,908] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:40:47,911] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:40:47,924] {logging_mixin.py:115} INFO - [2022-07-27 22:40:47,924] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:40:47,944] {logging_mixin.py:115} INFO - [2022-07-27 22:40:47,944] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:40:47.943878+00:00, run_after=2022-07-28T01:40:47.943878+00:00
+[2022-07-27 22:40:47,955] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2022-07-27 22:41:20,155] {processor.py:153} INFO - Started process (PID=6164) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:41:20,155] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:41:20,155] {logging_mixin.py:115} INFO - [2022-07-27 22:41:20,155] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:41:20,158] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:41:20,173] {logging_mixin.py:115} INFO - [2022-07-27 22:41:20,173] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:20,184] {logging_mixin.py:115} INFO - [2022-07-27 22:41:20,184] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:41:20.184558+00:00, run_after=2022-07-28T01:41:20.184558+00:00
+[2022-07-27 22:41:20,194] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 22:41:52,495] {processor.py:153} INFO - Started process (PID=6213) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:41:52,495] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:41:52,496] {logging_mixin.py:115} INFO - [2022-07-27 22:41:52,495] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:41:52,499] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:41:52,509] {logging_mixin.py:115} INFO - [2022-07-27 22:41:52,509] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:41:52,519] {logging_mixin.py:115} INFO - [2022-07-27 22:41:52,519] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:41:52.519406+00:00, run_after=2022-07-28T01:41:52.519406+00:00
+[2022-07-27 22:41:52,528] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:42:24,531] {processor.py:153} INFO - Started process (PID=6257) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:42:24,531] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:42:24,532] {logging_mixin.py:115} INFO - [2022-07-27 22:42:24,532] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:42:24,535] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:42:24,545] {logging_mixin.py:115} INFO - [2022-07-27 22:42:24,545] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:24,555] {logging_mixin.py:115} INFO - [2022-07-27 22:42:24,555] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:42:24.555312+00:00, run_after=2022-07-28T01:42:24.555312+00:00
+[2022-07-27 22:42:24,564] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:42:57,690] {processor.py:153} INFO - Started process (PID=6313) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:42:57,691] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:42:57,691] {logging_mixin.py:115} INFO - [2022-07-27 22:42:57,691] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:42:57,695] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:42:57,708] {logging_mixin.py:115} INFO - [2022-07-27 22:42:57,708] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:42:57,720] {logging_mixin.py:115} INFO - [2022-07-27 22:42:57,720] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:42:57.720269+00:00, run_after=2022-07-28T01:42:57.720269+00:00
+[2022-07-27 22:42:57,731] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.043 seconds
+[2022-07-27 22:43:31,392] {processor.py:153} INFO - Started process (PID=6373) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:43:31,392] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:43:31,393] {logging_mixin.py:115} INFO - [2022-07-27 22:43:31,393] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:43:31,397] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:43:31,411] {logging_mixin.py:115} INFO - [2022-07-27 22:43:31,411] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:43:31,426] {logging_mixin.py:115} INFO - [2022-07-27 22:43:31,426] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:43:31.425487+00:00, run_after=2022-07-28T01:43:31.425487+00:00
+[2022-07-27 22:43:31,441] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2022-07-27 22:44:02,177] {processor.py:153} INFO - Started process (PID=6411) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:44:02,177] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:44:02,178] {logging_mixin.py:115} INFO - [2022-07-27 22:44:02,178] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:44:02,181] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:44:02,191] {logging_mixin.py:115} INFO - [2022-07-27 22:44:02,191] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:02,201] {logging_mixin.py:115} INFO - [2022-07-27 22:44:02,201] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:44:02.200934+00:00, run_after=2022-07-28T01:44:02.200934+00:00
+[2022-07-27 22:44:02,210] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:44:33,701] {processor.py:153} INFO - Started process (PID=6443) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:44:33,702] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:44:33,702] {logging_mixin.py:115} INFO - [2022-07-27 22:44:33,702] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:44:33,705] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:44:33,716] {logging_mixin.py:115} INFO - [2022-07-27 22:44:33,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:44:33,725] {logging_mixin.py:115} INFO - [2022-07-27 22:44:33,725] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:44:33.725427+00:00, run_after=2022-07-28T01:44:33.725427+00:00
+[2022-07-27 22:44:33,734] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 22:45:06,533] {processor.py:153} INFO - Started process (PID=6482) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:45:06,533] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:45:06,534] {logging_mixin.py:115} INFO - [2022-07-27 22:45:06,534] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:45:06,537] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:45:06,547] {logging_mixin.py:115} INFO - [2022-07-27 22:45:06,547] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:06,556] {logging_mixin.py:115} INFO - [2022-07-27 22:45:06,556] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:45:06.556330+00:00, run_after=2022-07-28T01:45:06.556330+00:00
+[2022-07-27 22:45:06,565] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 22:45:36,995] {processor.py:153} INFO - Started process (PID=6531) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:45:36,995] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:45:36,996] {logging_mixin.py:115} INFO - [2022-07-27 22:45:36,996] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:45:36,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:45:37,008] {logging_mixin.py:115} INFO - [2022-07-27 22:45:37,008] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:45:37,019] {logging_mixin.py:115} INFO - [2022-07-27 22:45:37,019] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:45:37.019182+00:00, run_after=2022-07-28T01:45:37.019182+00:00
+[2022-07-27 22:45:37,028] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:46:08,200] {processor.py:153} INFO - Started process (PID=6586) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:46:08,201] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:46:08,202] {logging_mixin.py:115} INFO - [2022-07-27 22:46:08,202] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:46:08,205] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:46:08,218] {logging_mixin.py:115} INFO - [2022-07-27 22:46:08,218] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:08,230] {logging_mixin.py:115} INFO - [2022-07-27 22:46:08,230] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:46:08.230392+00:00, run_after=2022-07-28T01:46:08.230392+00:00
+[2022-07-27 22:46:08,241] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2022-07-27 22:46:41,145] {processor.py:153} INFO - Started process (PID=6631) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:46:41,145] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:46:41,145] {logging_mixin.py:115} INFO - [2022-07-27 22:46:41,145] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:46:41,148] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:46:41,158] {logging_mixin.py:115} INFO - [2022-07-27 22:46:41,158] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:46:41,168] {logging_mixin.py:115} INFO - [2022-07-27 22:46:41,168] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:46:41.167920+00:00, run_after=2022-07-28T01:46:41.167920+00:00
+[2022-07-27 22:46:41,177] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 22:47:14,350] {processor.py:153} INFO - Started process (PID=6674) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:47:14,350] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:47:14,351] {logging_mixin.py:115} INFO - [2022-07-27 22:47:14,351] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:47:14,353] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:47:14,364] {logging_mixin.py:115} INFO - [2022-07-27 22:47:14,364] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:14,373] {logging_mixin.py:115} INFO - [2022-07-27 22:47:14,373] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:47:14.373463+00:00, run_after=2022-07-28T01:47:14.373463+00:00
+[2022-07-27 22:47:14,382] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 22:47:45,750] {processor.py:153} INFO - Started process (PID=6773) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:47:45,750] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:47:45,750] {logging_mixin.py:115} INFO - [2022-07-27 22:47:45,750] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:47:45,753] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:47:45,765] {logging_mixin.py:115} INFO - [2022-07-27 22:47:45,765] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:47:45,776] {logging_mixin.py:115} INFO - [2022-07-27 22:47:45,776] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:47:45.776265+00:00, run_after=2022-07-28T01:47:45.776265+00:00
+[2022-07-27 22:47:45,786] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2022-07-27 22:48:21,121] {processor.py:153} INFO - Started process (PID=6816) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:48:21,121] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:48:21,121] {logging_mixin.py:115} INFO - [2022-07-27 22:48:21,121] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:48:21,124] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:48:21,136] {logging_mixin.py:115} INFO - [2022-07-27 22:48:21,136] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:21,147] {logging_mixin.py:115} INFO - [2022-07-27 22:48:21,147] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:48:21.147685+00:00, run_after=2022-07-28T01:48:21.147685+00:00
+[2022-07-27 22:48:21,160] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 22:48:51,863] {processor.py:153} INFO - Started process (PID=6888) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:48:51,864] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:48:51,864] {logging_mixin.py:115} INFO - [2022-07-27 22:48:51,864] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:48:51,867] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:48:51,878] {logging_mixin.py:115} INFO - [2022-07-27 22:48:51,878] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:48:51,890] {logging_mixin.py:115} INFO - [2022-07-27 22:48:51,890] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:48:51.890458+00:00, run_after=2022-07-28T01:48:51.890458+00:00
+[2022-07-27 22:48:51,902] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 22:49:24,531] {processor.py:153} INFO - Started process (PID=6926) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:49:24,532] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:49:24,532] {logging_mixin.py:115} INFO - [2022-07-27 22:49:24,532] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:49:24,535] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:49:24,546] {logging_mixin.py:115} INFO - [2022-07-27 22:49:24,546] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:24,557] {logging_mixin.py:115} INFO - [2022-07-27 22:49:24,557] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:49:24.556998+00:00, run_after=2022-07-28T01:49:24.556998+00:00
+[2022-07-27 22:49:24,566] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2022-07-27 22:49:56,798] {processor.py:153} INFO - Started process (PID=6960) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:49:56,798] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:49:56,798] {logging_mixin.py:115} INFO - [2022-07-27 22:49:56,798] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:49:56,802] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:49:56,813] {logging_mixin.py:115} INFO - [2022-07-27 22:49:56,813] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:49:56,824] {logging_mixin.py:115} INFO - [2022-07-27 22:49:56,823] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:49:56.823727+00:00, run_after=2022-07-28T01:49:56.823727+00:00
+[2022-07-27 22:49:56,835] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2022-07-27 22:50:28,295] {processor.py:153} INFO - Started process (PID=7016) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:50:28,296] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:50:28,296] {logging_mixin.py:115} INFO - [2022-07-27 22:50:28,296] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:50:28,299] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:50:28,310] {logging_mixin.py:115} INFO - [2022-07-27 22:50:28,310] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:50:28,321] {logging_mixin.py:115} INFO - [2022-07-27 22:50:28,321] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:50:28.320962+00:00, run_after=2022-07-28T01:50:28.320962+00:00
+[2022-07-27 22:50:28,332] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:51:00,946] {processor.py:153} INFO - Started process (PID=7050) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:51:00,947] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:51:00,947] {logging_mixin.py:115} INFO - [2022-07-27 22:51:00,947] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:51:00,951] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:51:00,961] {logging_mixin.py:115} INFO - [2022-07-27 22:51:00,961] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:00,973] {logging_mixin.py:115} INFO - [2022-07-27 22:51:00,972] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:51:00.972766+00:00, run_after=2022-07-28T01:51:00.972766+00:00
+[2022-07-27 22:51:00,988] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.043 seconds
+[2022-07-27 22:51:31,816] {processor.py:153} INFO - Started process (PID=7103) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:51:31,817] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:51:31,817] {logging_mixin.py:115} INFO - [2022-07-27 22:51:31,817] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:51:31,820] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:51:31,829] {logging_mixin.py:115} INFO - [2022-07-27 22:51:31,829] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:51:31,838] {logging_mixin.py:115} INFO - [2022-07-27 22:51:31,838] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:51:31.838679+00:00, run_after=2022-07-28T01:51:31.838679+00:00
+[2022-07-27 22:51:31,847] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2022-07-27 22:52:05,128] {processor.py:153} INFO - Started process (PID=7138) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:52:05,128] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:52:05,129] {logging_mixin.py:115} INFO - [2022-07-27 22:52:05,129] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:52:05,132] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:52:05,141] {logging_mixin.py:115} INFO - [2022-07-27 22:52:05,141] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:05,150] {logging_mixin.py:115} INFO - [2022-07-27 22:52:05,150] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:52:05.150635+00:00, run_after=2022-07-28T01:52:05.150635+00:00
+[2022-07-27 22:52:05,160] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 22:52:36,901] {processor.py:153} INFO - Started process (PID=7179) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:52:36,902] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:52:36,902] {logging_mixin.py:115} INFO - [2022-07-27 22:52:36,902] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:52:36,907] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:52:36,927] {logging_mixin.py:115} INFO - [2022-07-27 22:52:36,927] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:52:36,946] {logging_mixin.py:115} INFO - [2022-07-27 22:52:36,946] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:52:36.946007+00:00, run_after=2022-07-28T01:52:36.946007+00:00
+[2022-07-27 22:52:36,961] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2022-07-27 22:53:09,463] {processor.py:153} INFO - Started process (PID=7220) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:53:09,464] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:53:09,464] {logging_mixin.py:115} INFO - [2022-07-27 22:53:09,464] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:53:09,467] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:53:09,479] {logging_mixin.py:115} INFO - [2022-07-27 22:53:09,479] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:09,489] {logging_mixin.py:115} INFO - [2022-07-27 22:53:09,489] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:53:09.489502+00:00, run_after=2022-07-28T01:53:09.489502+00:00
+[2022-07-27 22:53:09,499] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2022-07-27 22:53:41,328] {processor.py:153} INFO - Started process (PID=7275) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:53:41,328] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:53:41,328] {logging_mixin.py:115} INFO - [2022-07-27 22:53:41,328] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:53:41,332] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:53:41,345] {logging_mixin.py:115} INFO - [2022-07-27 22:53:41,345] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:53:41,370] {logging_mixin.py:115} INFO - [2022-07-27 22:53:41,370] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:53:41.370194+00:00, run_after=2022-07-28T01:53:41.370194+00:00
+[2022-07-27 22:53:41,388] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2022-07-27 22:54:15,543] {processor.py:153} INFO - Started process (PID=7312) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:54:15,546] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:54:15,546] {logging_mixin.py:115} INFO - [2022-07-27 22:54:15,546] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:54:15,549] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:54:15,561] {logging_mixin.py:115} INFO - [2022-07-27 22:54:15,561] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:15,573] {logging_mixin.py:115} INFO - [2022-07-27 22:54:15,572] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:54:15.572686+00:00, run_after=2022-07-28T01:54:15.572686+00:00
+[2022-07-27 22:54:15,585] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.043 seconds
+[2022-07-27 22:54:46,912] {processor.py:153} INFO - Started process (PID=7357) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:54:46,912] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:54:46,913] {logging_mixin.py:115} INFO - [2022-07-27 22:54:46,912] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:54:46,916] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:54:46,928] {logging_mixin.py:115} INFO - [2022-07-27 22:54:46,928] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:54:46,939] {logging_mixin.py:115} INFO - [2022-07-27 22:54:46,939] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:54:46.939418+00:00, run_after=2022-07-28T01:54:46.939418+00:00
+[2022-07-27 22:54:46,953] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2022-07-27 22:55:20,012] {processor.py:153} INFO - Started process (PID=7406) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:55:20,013] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:55:20,013] {logging_mixin.py:115} INFO - [2022-07-27 22:55:20,013] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:55:20,016] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:55:20,028] {logging_mixin.py:115} INFO - [2022-07-27 22:55:20,028] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:20,038] {logging_mixin.py:115} INFO - [2022-07-27 22:55:20,038] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:55:20.038157+00:00, run_after=2022-07-28T01:55:20.038157+00:00
+[2022-07-27 22:55:20,048] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2022-07-27 22:55:53,197] {processor.py:153} INFO - Started process (PID=7464) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:55:53,197] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:55:53,198] {logging_mixin.py:115} INFO - [2022-07-27 22:55:53,198] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:55:53,201] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:55:53,212] {logging_mixin.py:115} INFO - [2022-07-27 22:55:53,212] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:55:53,223] {logging_mixin.py:115} INFO - [2022-07-27 22:55:53,223] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:55:53.223230+00:00, run_after=2022-07-28T01:55:53.223230+00:00
+[2022-07-27 22:55:53,240] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2022-07-27 22:56:26,122] {processor.py:153} INFO - Started process (PID=7527) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:56:26,123] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:56:26,123] {logging_mixin.py:115} INFO - [2022-07-27 22:56:26,123] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:56:26,127] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:56:26,140] {logging_mixin.py:115} INFO - [2022-07-27 22:56:26,139] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:26,155] {logging_mixin.py:115} INFO - [2022-07-27 22:56:26,155] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:56:26.155670+00:00, run_after=2022-07-28T01:56:26.155670+00:00
+[2022-07-27 22:56:26,167] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2022-07-27 22:56:58,640] {processor.py:153} INFO - Started process (PID=7571) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:56:58,640] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:56:58,640] {logging_mixin.py:115} INFO - [2022-07-27 22:56:58,640] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:56:58,643] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:56:58,655] {logging_mixin.py:115} INFO - [2022-07-27 22:56:58,655] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:56:58,666] {logging_mixin.py:115} INFO - [2022-07-27 22:56:58,666] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:56:58.666005+00:00, run_after=2022-07-28T01:56:58.666005+00:00
+[2022-07-27 22:56:58,676] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2022-07-27 22:57:33,056] {processor.py:153} INFO - Started process (PID=7607) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:57:33,057] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:57:33,057] {logging_mixin.py:115} INFO - [2022-07-27 22:57:33,057] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:57:33,061] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:57:33,080] {logging_mixin.py:115} INFO - [2022-07-27 22:57:33,079] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:57:33,091] {logging_mixin.py:115} INFO - [2022-07-27 22:57:33,091] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:57:33.091254+00:00, run_after=2022-07-28T01:57:33.091254+00:00
+[2022-07-27 22:57:33,105] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2022-07-27 22:58:04,582] {processor.py:153} INFO - Started process (PID=7641) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:58:04,582] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:58:04,582] {logging_mixin.py:115} INFO - [2022-07-27 22:58:04,582] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:58:04,585] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:58:04,596] {logging_mixin.py:115} INFO - [2022-07-27 22:58:04,596] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:04,605] {logging_mixin.py:115} INFO - [2022-07-27 22:58:04,605] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:58:04.605390+00:00, run_after=2022-07-28T01:58:04.605390+00:00
+[2022-07-27 22:58:04,615] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 22:58:36,010] {processor.py:153} INFO - Started process (PID=7690) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:58:36,010] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:58:36,011] {logging_mixin.py:115} INFO - [2022-07-27 22:58:36,010] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:58:36,014] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:58:36,027] {logging_mixin.py:115} INFO - [2022-07-27 22:58:36,027] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:58:36,038] {logging_mixin.py:115} INFO - [2022-07-27 22:58:36,038] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:58:36.038273+00:00, run_after=2022-07-28T01:58:36.038273+00:00
+[2022-07-27 22:58:36,047] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 22:59:08,570] {processor.py:153} INFO - Started process (PID=7726) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:59:08,571] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:59:08,571] {logging_mixin.py:115} INFO - [2022-07-27 22:59:08,571] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:59:08,574] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:59:08,589] {logging_mixin.py:115} INFO - [2022-07-27 22:59:08,588] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:08,600] {logging_mixin.py:115} INFO - [2022-07-27 22:59:08,600] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:59:08.600339+00:00, run_after=2022-07-28T01:59:08.600339+00:00
+[2022-07-27 22:59:08,610] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 22:59:40,534] {processor.py:153} INFO - Started process (PID=7774) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:59:40,535] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 22:59:40,535] {logging_mixin.py:115} INFO - [2022-07-27 22:59:40,535] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:59:40,538] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 22:59:40,547] {logging_mixin.py:115} INFO - [2022-07-27 22:59:40,547] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 22:59:40,557] {logging_mixin.py:115} INFO - [2022-07-27 22:59:40,557] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T01:59:40.557309+00:00, run_after=2022-07-28T01:59:40.557309+00:00
+[2022-07-27 22:59:40,571] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 23:00:13,083] {processor.py:153} INFO - Started process (PID=7815) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:00:13,083] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:00:13,084] {logging_mixin.py:115} INFO - [2022-07-27 23:00:13,084] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:00:13,087] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:00:13,097] {logging_mixin.py:115} INFO - [2022-07-27 23:00:13,096] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:13,106] {logging_mixin.py:115} INFO - [2022-07-27 23:00:13,106] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:00:13.106410+00:00, run_after=2022-07-28T02:00:13.106410+00:00
+[2022-07-27 23:00:13,115] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:00:44,301] {processor.py:153} INFO - Started process (PID=7851) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:00:44,302] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:00:44,302] {logging_mixin.py:115} INFO - [2022-07-27 23:00:44,302] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:00:44,305] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:00:44,315] {logging_mixin.py:115} INFO - [2022-07-27 23:00:44,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:00:44,324] {logging_mixin.py:115} INFO - [2022-07-27 23:00:44,324] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:00:44.324229+00:00, run_after=2022-07-28T02:00:44.324229+00:00
+[2022-07-27 23:00:44,333] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:01:18,087] {processor.py:153} INFO - Started process (PID=7885) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:01:18,087] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:01:18,088] {logging_mixin.py:115} INFO - [2022-07-27 23:01:18,088] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:01:18,091] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:01:18,102] {logging_mixin.py:115} INFO - [2022-07-27 23:01:18,102] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:18,112] {logging_mixin.py:115} INFO - [2022-07-27 23:01:18,112] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:01:18.112389+00:00, run_after=2022-07-28T02:01:18.112389+00:00
+[2022-07-27 23:01:18,121] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2022-07-27 23:01:48,936] {processor.py:153} INFO - Started process (PID=7938) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:01:48,936] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:01:48,937] {logging_mixin.py:115} INFO - [2022-07-27 23:01:48,937] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:01:48,939] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:01:48,949] {logging_mixin.py:115} INFO - [2022-07-27 23:01:48,949] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:01:48,958] {logging_mixin.py:115} INFO - [2022-07-27 23:01:48,958] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:01:48.958422+00:00, run_after=2022-07-28T02:01:48.958422+00:00
+[2022-07-27 23:01:48,966] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.032 seconds
+[2022-07-27 23:02:23,745] {processor.py:153} INFO - Started process (PID=7985) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:02:23,746] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:02:23,746] {logging_mixin.py:115} INFO - [2022-07-27 23:02:23,746] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:02:23,749] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:02:23,759] {logging_mixin.py:115} INFO - [2022-07-27 23:02:23,759] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:23,768] {logging_mixin.py:115} INFO - [2022-07-27 23:02:23,768] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:02:23.768428+00:00, run_after=2022-07-28T02:02:23.768428+00:00
+[2022-07-27 23:02:23,777] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:02:57,261] {processor.py:153} INFO - Started process (PID=8041) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:02:57,261] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:02:57,261] {logging_mixin.py:115} INFO - [2022-07-27 23:02:57,261] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:02:57,264] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:02:57,274] {logging_mixin.py:115} INFO - [2022-07-27 23:02:57,274] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:02:57,284] {logging_mixin.py:115} INFO - [2022-07-27 23:02:57,284] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:02:57.284260+00:00, run_after=2022-07-28T02:02:57.284260+00:00
+[2022-07-27 23:02:57,293] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:03:28,762] {processor.py:153} INFO - Started process (PID=8081) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:03:28,762] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:03:28,763] {logging_mixin.py:115} INFO - [2022-07-27 23:03:28,763] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:03:28,766] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:03:28,776] {logging_mixin.py:115} INFO - [2022-07-27 23:03:28,776] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:03:28,785] {logging_mixin.py:115} INFO - [2022-07-27 23:03:28,785] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:03:28.785528+00:00, run_after=2022-07-28T02:03:28.785528+00:00
+[2022-07-27 23:03:28,794] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:04:03,618] {processor.py:153} INFO - Started process (PID=8125) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:04:03,619] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:04:03,619] {logging_mixin.py:115} INFO - [2022-07-27 23:04:03,619] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:04:03,622] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:04:03,632] {logging_mixin.py:115} INFO - [2022-07-27 23:04:03,632] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:03,642] {logging_mixin.py:115} INFO - [2022-07-27 23:04:03,642] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:04:03.642495+00:00, run_after=2022-07-28T02:04:03.642495+00:00
+[2022-07-27 23:04:03,651] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:04:36,535] {processor.py:153} INFO - Started process (PID=8159) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:04:36,536] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:04:36,536] {logging_mixin.py:115} INFO - [2022-07-27 23:04:36,536] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:04:36,539] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:04:36,549] {logging_mixin.py:115} INFO - [2022-07-27 23:04:36,549] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:04:36,558] {logging_mixin.py:115} INFO - [2022-07-27 23:04:36,558] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:04:36.558440+00:00, run_after=2022-07-28T02:04:36.558440+00:00
+[2022-07-27 23:04:36,567] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:05:09,129] {processor.py:153} INFO - Started process (PID=8218) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:05:09,130] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:05:09,130] {logging_mixin.py:115} INFO - [2022-07-27 23:05:09,130] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:05:09,133] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:05:09,143] {logging_mixin.py:115} INFO - [2022-07-27 23:05:09,143] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:09,153] {logging_mixin.py:115} INFO - [2022-07-27 23:05:09,152] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:05:09.152837+00:00, run_after=2022-07-28T02:05:09.152837+00:00
+[2022-07-27 23:05:09,161] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:05:43,400] {processor.py:153} INFO - Started process (PID=8266) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:05:43,401] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:05:43,401] {logging_mixin.py:115} INFO - [2022-07-27 23:05:43,401] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:05:43,405] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:05:43,416] {logging_mixin.py:115} INFO - [2022-07-27 23:05:43,416] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:05:43,427] {logging_mixin.py:115} INFO - [2022-07-27 23:05:43,427] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:05:43.427172+00:00, run_after=2022-07-28T02:05:43.427172+00:00
+[2022-07-27 23:05:43,437] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2022-07-27 23:06:16,507] {processor.py:153} INFO - Started process (PID=8316) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:06:16,508] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:06:16,508] {logging_mixin.py:115} INFO - [2022-07-27 23:06:16,508] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:06:16,511] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:06:16,521] {logging_mixin.py:115} INFO - [2022-07-27 23:06:16,521] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:16,531] {logging_mixin.py:115} INFO - [2022-07-27 23:06:16,530] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:06:16.530790+00:00, run_after=2022-07-28T02:06:16.530790+00:00
+[2022-07-27 23:06:16,539] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:06:48,980] {processor.py:153} INFO - Started process (PID=8360) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:06:48,980] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:06:48,981] {logging_mixin.py:115} INFO - [2022-07-27 23:06:48,981] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:06:48,984] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:06:48,993] {logging_mixin.py:115} INFO - [2022-07-27 23:06:48,993] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:06:49,003] {logging_mixin.py:115} INFO - [2022-07-27 23:06:49,003] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:06:49.003124+00:00, run_after=2022-07-28T02:06:49.003124+00:00
+[2022-07-27 23:06:49,012] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:07:22,823] {processor.py:153} INFO - Started process (PID=8402) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:07:22,824] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:07:22,824] {logging_mixin.py:115} INFO - [2022-07-27 23:07:22,824] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:07:22,827] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:07:22,836] {logging_mixin.py:115} INFO - [2022-07-27 23:07:22,836] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:22,846] {logging_mixin.py:115} INFO - [2022-07-27 23:07:22,846] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:07:22.846045+00:00, run_after=2022-07-28T02:07:22.846045+00:00
+[2022-07-27 23:07:22,854] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:07:54,780] {processor.py:153} INFO - Started process (PID=8447) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:07:54,781] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:07:54,781] {logging_mixin.py:115} INFO - [2022-07-27 23:07:54,781] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:07:54,784] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:07:54,794] {logging_mixin.py:115} INFO - [2022-07-27 23:07:54,794] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:07:54,803] {logging_mixin.py:115} INFO - [2022-07-27 23:07:54,803] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:07:54.803504+00:00, run_after=2022-07-28T02:07:54.803504+00:00
+[2022-07-27 23:07:54,813] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 23:08:28,425] {processor.py:153} INFO - Started process (PID=8502) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:08:28,426] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:08:28,426] {logging_mixin.py:115} INFO - [2022-07-27 23:08:28,426] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:08:28,429] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:08:28,439] {logging_mixin.py:115} INFO - [2022-07-27 23:08:28,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:08:28,450] {logging_mixin.py:115} INFO - [2022-07-27 23:08:28,450] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:08:28.449953+00:00, run_after=2022-07-28T02:08:28.449953+00:00
+[2022-07-27 23:08:28,461] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2022-07-27 23:09:00,350] {processor.py:153} INFO - Started process (PID=8538) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:09:00,351] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:09:00,351] {logging_mixin.py:115} INFO - [2022-07-27 23:09:00,351] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:09:00,354] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:09:00,365] {logging_mixin.py:115} INFO - [2022-07-27 23:09:00,365] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:00,377] {logging_mixin.py:115} INFO - [2022-07-27 23:09:00,377] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:09:00.377367+00:00, run_after=2022-07-28T02:09:00.377367+00:00
+[2022-07-27 23:09:00,388] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2022-07-27 23:09:36,312] {processor.py:153} INFO - Started process (PID=8589) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:09:36,313] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:09:36,313] {logging_mixin.py:115} INFO - [2022-07-27 23:09:36,313] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:09:36,316] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:09:36,327] {logging_mixin.py:115} INFO - [2022-07-27 23:09:36,327] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:09:36,338] {logging_mixin.py:115} INFO - [2022-07-27 23:09:36,337] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:09:36.337646+00:00, run_after=2022-07-28T02:09:36.337646+00:00
+[2022-07-27 23:09:36,347] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2022-07-27 23:10:09,378] {processor.py:153} INFO - Started process (PID=8634) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:10:09,378] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:10:09,379] {logging_mixin.py:115} INFO - [2022-07-27 23:10:09,379] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:10:09,382] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:10:09,392] {logging_mixin.py:115} INFO - [2022-07-27 23:10:09,392] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:09,401] {logging_mixin.py:115} INFO - [2022-07-27 23:10:09,401] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:10:09.401446+00:00, run_after=2022-07-28T02:10:09.401446+00:00
+[2022-07-27 23:10:09,410] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:10:41,340] {processor.py:153} INFO - Started process (PID=8691) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:10:41,341] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:10:41,341] {logging_mixin.py:115} INFO - [2022-07-27 23:10:41,341] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:10:41,344] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:10:41,355] {logging_mixin.py:115} INFO - [2022-07-27 23:10:41,355] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:10:41,365] {logging_mixin.py:115} INFO - [2022-07-27 23:10:41,365] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:10:41.365514+00:00, run_after=2022-07-28T02:10:41.365514+00:00
+[2022-07-27 23:10:41,374] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 23:11:12,166] {processor.py:153} INFO - Started process (PID=8732) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:11:12,166] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:11:12,167] {logging_mixin.py:115} INFO - [2022-07-27 23:11:12,166] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:11:12,169] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:11:12,181] {logging_mixin.py:115} INFO - [2022-07-27 23:11:12,180] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:12,192] {logging_mixin.py:115} INFO - [2022-07-27 23:11:12,192] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:11:12.192049+00:00, run_after=2022-07-28T02:11:12.192049+00:00
+[2022-07-27 23:11:12,202] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2022-07-27 23:11:48,124] {processor.py:153} INFO - Started process (PID=8768) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:11:48,124] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:11:48,124] {logging_mixin.py:115} INFO - [2022-07-27 23:11:48,124] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:11:48,127] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:11:48,137] {logging_mixin.py:115} INFO - [2022-07-27 23:11:48,137] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:11:48,147] {logging_mixin.py:115} INFO - [2022-07-27 23:11:48,147] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:11:48.147599+00:00, run_after=2022-07-28T02:11:48.147599+00:00
+[2022-07-27 23:11:48,157] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 23:12:19,492] {processor.py:153} INFO - Started process (PID=8831) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:12:19,492] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:12:19,492] {logging_mixin.py:115} INFO - [2022-07-27 23:12:19,492] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:12:19,495] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:12:19,504] {logging_mixin.py:115} INFO - [2022-07-27 23:12:19,504] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:19,514] {logging_mixin.py:115} INFO - [2022-07-27 23:12:19,514] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:12:19.514009+00:00, run_after=2022-07-28T02:12:19.514009+00:00
+[2022-07-27 23:12:19,522] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.032 seconds
+[2022-07-27 23:12:51,517] {processor.py:153} INFO - Started process (PID=8865) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:12:51,517] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:12:51,518] {logging_mixin.py:115} INFO - [2022-07-27 23:12:51,518] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:12:51,520] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:12:51,531] {logging_mixin.py:115} INFO - [2022-07-27 23:12:51,531] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:12:51,541] {logging_mixin.py:115} INFO - [2022-07-27 23:12:51,541] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:12:51.540893+00:00, run_after=2022-07-28T02:12:51.540893+00:00
+[2022-07-27 23:12:51,549] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:13:26,121] {processor.py:153} INFO - Started process (PID=8902) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:13:26,121] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:13:26,121] {logging_mixin.py:115} INFO - [2022-07-27 23:13:26,121] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:13:26,124] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:13:26,134] {logging_mixin.py:115} INFO - [2022-07-27 23:13:26,134] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:26,143] {logging_mixin.py:115} INFO - [2022-07-27 23:13:26,143] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:13:26.143652+00:00, run_after=2022-07-28T02:13:26.143652+00:00
+[2022-07-27 23:13:26,152] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:13:59,259] {processor.py:153} INFO - Started process (PID=8937) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:13:59,259] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:13:59,259] {logging_mixin.py:115} INFO - [2022-07-27 23:13:59,259] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:13:59,262] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:13:59,272] {logging_mixin.py:115} INFO - [2022-07-27 23:13:59,272] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:13:59,282] {logging_mixin.py:115} INFO - [2022-07-27 23:13:59,282] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:13:59.282471+00:00, run_after=2022-07-28T02:13:59.282471+00:00
+[2022-07-27 23:13:59,291] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:14:34,114] {processor.py:153} INFO - Started process (PID=8975) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:14:34,114] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:14:34,114] {logging_mixin.py:115} INFO - [2022-07-27 23:14:34,114] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:14:34,117] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:14:34,128] {logging_mixin.py:115} INFO - [2022-07-27 23:14:34,128] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:14:34,137] {logging_mixin.py:115} INFO - [2022-07-27 23:14:34,137] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:14:34.137572+00:00, run_after=2022-07-28T02:14:34.137572+00:00
+[2022-07-27 23:14:34,146] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:15:05,767] {processor.py:153} INFO - Started process (PID=9032) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:15:05,767] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:15:05,767] {logging_mixin.py:115} INFO - [2022-07-27 23:15:05,767] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:15:05,770] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:15:05,780] {logging_mixin.py:115} INFO - [2022-07-27 23:15:05,780] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:05,790] {logging_mixin.py:115} INFO - [2022-07-27 23:15:05,790] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:15:05.790363+00:00, run_after=2022-07-28T02:15:05.790363+00:00
+[2022-07-27 23:15:05,799] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:15:39,769] {processor.py:153} INFO - Started process (PID=9073) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:15:39,769] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:15:39,769] {logging_mixin.py:115} INFO - [2022-07-27 23:15:39,769] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:15:39,772] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:15:39,782] {logging_mixin.py:115} INFO - [2022-07-27 23:15:39,782] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:15:39,792] {logging_mixin.py:115} INFO - [2022-07-27 23:15:39,792] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:15:39.792173+00:00, run_after=2022-07-28T02:15:39.792173+00:00
+[2022-07-27 23:15:39,801] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:16:11,812] {processor.py:153} INFO - Started process (PID=9109) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:16:11,812] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:16:11,812] {logging_mixin.py:115} INFO - [2022-07-27 23:16:11,812] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:16:11,816] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:16:11,828] {logging_mixin.py:115} INFO - [2022-07-27 23:16:11,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:11,843] {logging_mixin.py:115} INFO - [2022-07-27 23:16:11,842] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:16:11.842724+00:00, run_after=2022-07-28T02:16:11.842724+00:00
+[2022-07-27 23:16:11,861] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2022-07-27 23:16:44,890] {processor.py:153} INFO - Started process (PID=9143) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:16:44,890] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:16:44,890] {logging_mixin.py:115} INFO - [2022-07-27 23:16:44,890] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:16:44,893] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:16:44,904] {logging_mixin.py:115} INFO - [2022-07-27 23:16:44,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:16:44,913] {logging_mixin.py:115} INFO - [2022-07-27 23:16:44,913] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:16:44.913731+00:00, run_after=2022-07-28T02:16:44.913731+00:00
+[2022-07-27 23:16:44,922] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:17:16,996] {processor.py:153} INFO - Started process (PID=9184) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:17:16,997] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:17:16,997] {logging_mixin.py:115} INFO - [2022-07-27 23:17:16,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:17:17,000] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:17:17,009] {logging_mixin.py:115} INFO - [2022-07-27 23:17:17,009] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:17,019] {logging_mixin.py:115} INFO - [2022-07-27 23:17:17,019] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:17:17.019260+00:00, run_after=2022-07-28T02:17:17.019260+00:00
+[2022-07-27 23:17:17,027] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:17:50,495] {processor.py:153} INFO - Started process (PID=9217) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:17:50,495] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:17:50,495] {logging_mixin.py:115} INFO - [2022-07-27 23:17:50,495] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:17:50,498] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:17:50,508] {logging_mixin.py:115} INFO - [2022-07-27 23:17:50,508] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:17:50,518] {logging_mixin.py:115} INFO - [2022-07-27 23:17:50,518] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:17:50.517911+00:00, run_after=2022-07-28T02:17:50.517911+00:00
+[2022-07-27 23:17:50,526] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:18:22,485] {processor.py:153} INFO - Started process (PID=9251) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:18:22,486] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:18:22,486] {logging_mixin.py:115} INFO - [2022-07-27 23:18:22,486] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:18:22,489] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:18:22,499] {logging_mixin.py:115} INFO - [2022-07-27 23:18:22,499] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:22,509] {logging_mixin.py:115} INFO - [2022-07-27 23:18:22,508] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:18:22.508806+00:00, run_after=2022-07-28T02:18:22.508806+00:00
+[2022-07-27 23:18:22,517] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:18:55,054] {processor.py:153} INFO - Started process (PID=9286) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:18:55,054] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:18:55,055] {logging_mixin.py:115} INFO - [2022-07-27 23:18:55,055] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:18:55,057] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:18:55,068] {logging_mixin.py:115} INFO - [2022-07-27 23:18:55,068] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:18:55,078] {logging_mixin.py:115} INFO - [2022-07-27 23:18:55,078] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:18:55.078477+00:00, run_after=2022-07-28T02:18:55.078477+00:00
+[2022-07-27 23:18:55,087] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-07-27 23:19:26,926] {processor.py:153} INFO - Started process (PID=9320) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:19:26,926] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:19:26,927] {logging_mixin.py:115} INFO - [2022-07-27 23:19:26,927] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:19:26,930] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:19:26,939] {logging_mixin.py:115} INFO - [2022-07-27 23:19:26,939] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:26,949] {logging_mixin.py:115} INFO - [2022-07-27 23:19:26,949] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:19:26.949204+00:00, run_after=2022-07-28T02:19:26.949204+00:00
+[2022-07-27 23:19:26,957] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:19:57,765] {processor.py:153} INFO - Started process (PID=9353) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:19:57,766] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:19:57,766] {logging_mixin.py:115} INFO - [2022-07-27 23:19:57,766] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:19:57,769] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:19:57,779] {logging_mixin.py:115} INFO - [2022-07-27 23:19:57,779] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:19:57,789] {logging_mixin.py:115} INFO - [2022-07-27 23:19:57,789] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:19:57.789206+00:00, run_after=2022-07-28T02:19:57.789206+00:00
+[2022-07-27 23:19:57,798] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:20:31,602] {processor.py:153} INFO - Started process (PID=9393) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:20:31,603] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:20:31,603] {logging_mixin.py:115} INFO - [2022-07-27 23:20:31,603] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:20:31,606] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:20:31,616] {logging_mixin.py:115} INFO - [2022-07-27 23:20:31,616] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:20:31,626] {logging_mixin.py:115} INFO - [2022-07-27 23:20:31,626] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:20:31.626640+00:00, run_after=2022-07-28T02:20:31.626640+00:00
+[2022-07-27 23:20:31,635] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-07-27 23:21:04,563] {processor.py:153} INFO - Started process (PID=9428) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:21:04,564] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:21:04,564] {logging_mixin.py:115} INFO - [2022-07-27 23:21:04,564] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:21:04,567] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:21:04,577] {logging_mixin.py:115} INFO - [2022-07-27 23:21:04,577] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:04,586] {logging_mixin.py:115} INFO - [2022-07-27 23:21:04,586] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:21:04.586460+00:00, run_after=2022-07-28T02:21:04.586460+00:00
+[2022-07-27 23:21:04,595] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.033 seconds
+[2022-07-27 23:21:36,583] {processor.py:153} INFO - Started process (PID=9474) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:21:36,584] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-07-27 23:21:36,584] {logging_mixin.py:115} INFO - [2022-07-27 23:21:36,584] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:21:36,587] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-07-27 23:21:36,597] {logging_mixin.py:115} INFO - [2022-07-27 23:21:36,597] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-27 23:21:36,607] {logging_mixin.py:115} INFO - [2022-07-27 23:21:36,607] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-07-27T02:21:36.607375+00:00, run_after=2022-07-28T02:21:36.607375+00:00
+[2022-07-27 23:21:36,615] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds

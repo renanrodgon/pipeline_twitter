@@ -1,0 +1,1068 @@
+[2022-07-27 22:18:43,178] {processor.py:153} INFO - Started process (PID=3842) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:18:43,178] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:18:43,179] {logging_mixin.py:115} INFO - [2022-07-27 22:18:43,179] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:18:43,182] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:18:43,202] {logging_mixin.py:115} INFO - [2022-07-27 22:18:43,202] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:18:43,211] {logging_mixin.py:115} INFO - [2022-07-27 22:18:43,211] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:18:43,211] {logging_mixin.py:115} INFO - [2022-07-27 22:18:43,211] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:18:43,221] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.045 seconds
+[2022-07-27 22:19:17,466] {processor.py:153} INFO - Started process (PID=3955) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:19:17,467] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:19:17,467] {logging_mixin.py:115} INFO - [2022-07-27 22:19:17,467] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:19:17,470] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:19:17,493] {logging_mixin.py:115} INFO - [2022-07-27 22:19:17,493] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:19:17,505] {logging_mixin.py:115} INFO - [2022-07-27 22:19:17,505] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:19:17,505] {logging_mixin.py:115} INFO - [2022-07-27 22:19:17,505] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:19:17,516] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.052 seconds
+[2022-07-27 22:19:50,248] {processor.py:153} INFO - Started process (PID=3993) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:19:50,249] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:19:50,249] {logging_mixin.py:115} INFO - [2022-07-27 22:19:50,249] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:19:50,252] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:19:50,273] {logging_mixin.py:115} INFO - [2022-07-27 22:19:50,273] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:19:50,282] {logging_mixin.py:115} INFO - [2022-07-27 22:19:50,282] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:19:50,283] {logging_mixin.py:115} INFO - [2022-07-27 22:19:50,283] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:19:50,293] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:20:23,325] {processor.py:153} INFO - Started process (PID=4311) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:20:23,325] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:20:23,326] {logging_mixin.py:115} INFO - [2022-07-27 22:20:23,326] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:20:23,328] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:20:23,347] {logging_mixin.py:115} INFO - [2022-07-27 22:20:23,347] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:20:23,357] {logging_mixin.py:115} INFO - [2022-07-27 22:20:23,357] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:20:23,357] {logging_mixin.py:115} INFO - [2022-07-27 22:20:23,357] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:20:23,366] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds
+[2022-07-27 22:20:56,992] {processor.py:153} INFO - Started process (PID=4351) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:20:56,992] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:20:56,993] {logging_mixin.py:115} INFO - [2022-07-27 22:20:56,993] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:20:56,995] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:20:57,014] {logging_mixin.py:115} INFO - [2022-07-27 22:20:57,014] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:20:57,024] {logging_mixin.py:115} INFO - [2022-07-27 22:20:57,023] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:20:57,024] {logging_mixin.py:115} INFO - [2022-07-27 22:20:57,024] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:20:57,032] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 22:21:28,995] {processor.py:153} INFO - Started process (PID=4395) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:21:28,995] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:21:28,995] {logging_mixin.py:115} INFO - [2022-07-27 22:21:28,995] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:21:28,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:21:29,020] {logging_mixin.py:115} INFO - [2022-07-27 22:21:29,020] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:21:29,034] {logging_mixin.py:115} INFO - [2022-07-27 22:21:29,034] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:21:29,034] {logging_mixin.py:115} INFO - [2022-07-27 22:21:29,034] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:21:29,043] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.050 seconds
+[2022-07-27 22:22:03,291] {processor.py:153} INFO - Started process (PID=4438) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:22:03,291] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:22:03,292] {logging_mixin.py:115} INFO - [2022-07-27 22:22:03,292] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:22:03,294] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:22:03,315] {logging_mixin.py:115} INFO - [2022-07-27 22:22:03,314] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:22:03,326] {logging_mixin.py:115} INFO - [2022-07-27 22:22:03,326] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:22:03,327] {logging_mixin.py:115} INFO - [2022-07-27 22:22:03,327] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:22:03,338] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.049 seconds
+[2022-07-27 22:22:35,663] {processor.py:153} INFO - Started process (PID=4486) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:22:35,663] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:22:35,664] {logging_mixin.py:115} INFO - [2022-07-27 22:22:35,664] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:22:35,666] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:22:35,692] {logging_mixin.py:115} INFO - [2022-07-27 22:22:35,692] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:22:35,705] {logging_mixin.py:115} INFO - [2022-07-27 22:22:35,705] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:22:35,705] {logging_mixin.py:115} INFO - [2022-07-27 22:22:35,705] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:22:35,719] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.058 seconds
+[2022-07-27 22:23:09,455] {processor.py:153} INFO - Started process (PID=4539) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:23:09,456] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:23:09,456] {logging_mixin.py:115} INFO - [2022-07-27 22:23:09,456] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:23:09,459] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:23:09,479] {logging_mixin.py:115} INFO - [2022-07-27 22:23:09,479] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:23:09,490] {logging_mixin.py:115} INFO - [2022-07-27 22:23:09,490] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:23:09,490] {logging_mixin.py:115} INFO - [2022-07-27 22:23:09,490] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:23:09,500] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:23:39,988] {processor.py:153} INFO - Started process (PID=4580) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:23:39,989] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:23:39,989] {logging_mixin.py:115} INFO - [2022-07-27 22:23:39,989] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:23:39,993] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:23:40,014] {logging_mixin.py:115} INFO - [2022-07-27 22:23:40,014] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:23:40,023] {logging_mixin.py:115} INFO - [2022-07-27 22:23:40,023] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:23:40,023] {logging_mixin.py:115} INFO - [2022-07-27 22:23:40,023] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:23:40,034] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.048 seconds
+[2022-07-27 22:24:14,325] {processor.py:153} INFO - Started process (PID=4616) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:24:14,326] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:24:14,326] {logging_mixin.py:115} INFO - [2022-07-27 22:24:14,326] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:24:14,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:24:14,356] {logging_mixin.py:115} INFO - [2022-07-27 22:24:14,355] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:24:14,368] {logging_mixin.py:115} INFO - [2022-07-27 22:24:14,368] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:24:14,368] {logging_mixin.py:115} INFO - [2022-07-27 22:24:14,368] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:24:14,384] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.061 seconds
+[2022-07-27 22:24:47,448] {processor.py:153} INFO - Started process (PID=4668) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:24:47,449] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:24:47,449] {logging_mixin.py:115} INFO - [2022-07-27 22:24:47,449] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:24:47,453] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:24:47,469] {logging_mixin.py:115} INFO - [2022-07-27 22:24:47,468] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 1
+    from ai
+          ^
+SyntaxError: invalid syntax
+[2022-07-27 22:24:47,477] {logging_mixin.py:115} INFO - [2022-07-27 22:24:47,476] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:24:47,488] {logging_mixin.py:115} INFO - [2022-07-27 22:24:47,488] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:24:47,488] {logging_mixin.py:115} INFO - [2022-07-27 22:24:47,488] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:24:47,502] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.055 seconds
+[2022-07-27 22:25:18,968] {processor.py:153} INFO - Started process (PID=4723) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:25:18,970] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:25:18,971] {logging_mixin.py:115} INFO - [2022-07-27 22:25:18,971] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:25:18,974] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:25:18,991] {logging_mixin.py:115} INFO - [2022-07-27 22:25:18,991] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 1
+    from airflow.models
+                      ^
+SyntaxError: invalid syntax
+[2022-07-27 22:25:19,003] {logging_mixin.py:115} INFO - [2022-07-27 22:25:19,003] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:25:19,019] {logging_mixin.py:115} INFO - [2022-07-27 22:25:19,019] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:25:19,020] {logging_mixin.py:115} INFO - [2022-07-27 22:25:19,020] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:25:19,033] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.068 seconds
+[2022-07-27 22:25:52,634] {processor.py:153} INFO - Started process (PID=4765) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:25:52,634] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:25:52,634] {logging_mixin.py:115} INFO - [2022-07-27 22:25:52,634] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:25:52,637] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:25:52,657] {logging_mixin.py:115} INFO - [2022-07-27 22:25:52,656] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:25:52,666] {logging_mixin.py:115} INFO - [2022-07-27 22:25:52,666] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:25:52,666] {logging_mixin.py:115} INFO - [2022-07-27 22:25:52,666] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:25:52,675] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds
+[2022-07-27 22:26:25,899] {processor.py:153} INFO - Started process (PID=4819) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:26:25,900] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:26:25,901] {logging_mixin.py:115} INFO - [2022-07-27 22:26:25,901] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:26:25,903] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:26:25,927] {logging_mixin.py:115} INFO - [2022-07-27 22:26:25,927] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:26:25,938] {logging_mixin.py:115} INFO - [2022-07-27 22:26:25,938] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:26:25,938] {logging_mixin.py:115} INFO - [2022-07-27 22:26:25,938] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:26:25,951] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.055 seconds
+[2022-07-27 22:26:59,239] {processor.py:153} INFO - Started process (PID=4863) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:26:59,241] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:26:59,241] {logging_mixin.py:115} INFO - [2022-07-27 22:26:59,241] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:26:59,245] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:26:59,275] {logging_mixin.py:115} INFO - [2022-07-27 22:26:59,274] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:26:59,284] {logging_mixin.py:115} INFO - [2022-07-27 22:26:59,284] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:26:59,284] {logging_mixin.py:115} INFO - [2022-07-27 22:26:59,284] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:26:59,294] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.057 seconds
+[2022-07-27 22:27:33,030] {processor.py:153} INFO - Started process (PID=4903) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:27:33,030] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:27:33,030] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,030] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:27:33,033] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:27:33,046] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,046] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 11
+    ):
+     ^
+SyntaxError: invalid syntax
+[2022-07-27 22:27:33,052] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,052] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:27:33,061] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,061] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:27:33,061] {logging_mixin.py:115} INFO - [2022-07-27 22:27:33,061] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:27:33,070] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 22:28:05,283] {processor.py:153} INFO - Started process (PID=4941) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:28:05,284] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:28:05,284] {logging_mixin.py:115} INFO - [2022-07-27 22:28:05,284] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:28:05,287] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:28:05,301] {logging_mixin.py:115} INFO - [2022-07-27 22:28:05,301] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 11
+    ):
+     ^
+SyntaxError: invalid syntax
+[2022-07-27 22:28:05,308] {logging_mixin.py:115} INFO - [2022-07-27 22:28:05,307] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:28:05,319] {logging_mixin.py:115} INFO - [2022-07-27 22:28:05,319] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:28:05,319] {logging_mixin.py:115} INFO - [2022-07-27 22:28:05,319] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:28:05,332] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.050 seconds
+[2022-07-27 22:28:38,421] {processor.py:153} INFO - Started process (PID=4995) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:28:38,422] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:28:38,423] {logging_mixin.py:115} INFO - [2022-07-27 22:28:38,423] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:28:38,425] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:28:38,442] {logging_mixin.py:115} INFO - [2022-07-27 22:28:38,441] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 12
+    def execute(self, context):
+    ^
+IndentationError: expected an indented block
+[2022-07-27 22:28:38,450] {logging_mixin.py:115} INFO - [2022-07-27 22:28:38,449] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:28:38,463] {logging_mixin.py:115} INFO - [2022-07-27 22:28:38,463] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:28:38,463] {logging_mixin.py:115} INFO - [2022-07-27 22:28:38,463] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:28:38,476] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.057 seconds
+[2022-07-27 22:29:10,418] {processor.py:153} INFO - Started process (PID=5048) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:29:10,418] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:29:10,419] {logging_mixin.py:115} INFO - [2022-07-27 22:29:10,418] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:29:10,421] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:29:10,441] {logging_mixin.py:115} INFO - [2022-07-27 22:29:10,441] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:29:10,451] {logging_mixin.py:115} INFO - [2022-07-27 22:29:10,451] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:29:10,451] {logging_mixin.py:115} INFO - [2022-07-27 22:29:10,451] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:29:10,460] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds
+[2022-07-27 22:29:42,997] {processor.py:153} INFO - Started process (PID=5096) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:29:42,997] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:29:42,997] {logging_mixin.py:115} INFO - [2022-07-27 22:29:42,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:29:43,000] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:29:43,021] {logging_mixin.py:115} INFO - [2022-07-27 22:29:43,021] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:29:43,032] {logging_mixin.py:115} INFO - [2022-07-27 22:29:43,032] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:29:43,032] {logging_mixin.py:115} INFO - [2022-07-27 22:29:43,032] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:29:43,042] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:30:16,639] {processor.py:153} INFO - Started process (PID=5145) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:30:16,639] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:30:16,640] {logging_mixin.py:115} INFO - [2022-07-27 22:30:16,640] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:30:16,643] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:30:16,665] {logging_mixin.py:115} INFO - [2022-07-27 22:30:16,665] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:30:16,675] {logging_mixin.py:115} INFO - [2022-07-27 22:30:16,675] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:30:16,675] {logging_mixin.py:115} INFO - [2022-07-27 22:30:16,675] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:30:16,684] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:30:51,987] {processor.py:153} INFO - Started process (PID=5189) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:30:51,988] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:30:51,988] {logging_mixin.py:115} INFO - [2022-07-27 22:30:51,988] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:30:51,991] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:30:52,010] {logging_mixin.py:115} INFO - [2022-07-27 22:30:52,010] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:30:52,019] {logging_mixin.py:115} INFO - [2022-07-27 22:30:52,019] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:30:52,019] {logging_mixin.py:115} INFO - [2022-07-27 22:30:52,019] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:30:52,030] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.044 seconds
+[2022-07-27 22:31:24,574] {processor.py:153} INFO - Started process (PID=5242) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:31:24,574] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:31:24,575] {logging_mixin.py:115} INFO - [2022-07-27 22:31:24,575] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:31:24,578] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:31:24,601] {logging_mixin.py:115} INFO - [2022-07-27 22:31:24,601] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:31:24,611] {logging_mixin.py:115} INFO - [2022-07-27 22:31:24,611] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:31:24,611] {logging_mixin.py:115} INFO - [2022-07-27 22:31:24,611] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:31:24,624] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.052 seconds
+[2022-07-27 22:31:58,732] {processor.py:153} INFO - Started process (PID=5285) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:31:58,733] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:31:58,733] {logging_mixin.py:115} INFO - [2022-07-27 22:31:58,733] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:31:58,736] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:31:58,755] {logging_mixin.py:115} INFO - [2022-07-27 22:31:58,755] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:31:58,764] {logging_mixin.py:115} INFO - [2022-07-27 22:31:58,764] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:31:58,764] {logging_mixin.py:115} INFO - [2022-07-27 22:31:58,764] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:31:58,773] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds
+[2022-07-27 22:32:29,327] {processor.py:153} INFO - Started process (PID=5332) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:32:29,328] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:32:29,328] {logging_mixin.py:115} INFO - [2022-07-27 22:32:29,328] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:32:29,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:32:29,351] {logging_mixin.py:115} INFO - [2022-07-27 22:32:29,351] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:32:29,361] {logging_mixin.py:115} INFO - [2022-07-27 22:32:29,361] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:32:29,361] {logging_mixin.py:115} INFO - [2022-07-27 22:32:29,361] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:32:29,369] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.044 seconds
+[2022-07-27 22:33:05,092] {processor.py:153} INFO - Started process (PID=5380) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:33:05,093] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:33:05,093] {logging_mixin.py:115} INFO - [2022-07-27 22:33:05,093] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:33:05,096] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:33:05,116] {logging_mixin.py:115} INFO - [2022-07-27 22:33:05,115] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 3
+    from hooks.twitter_hook import
+                                  ^
+SyntaxError: invalid syntax
+[2022-07-27 22:33:05,122] {logging_mixin.py:115} INFO - [2022-07-27 22:33:05,122] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:33:05,132] {logging_mixin.py:115} INFO - [2022-07-27 22:33:05,132] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:33:05,132] {logging_mixin.py:115} INFO - [2022-07-27 22:33:05,132] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:33:05,144] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.054 seconds
+[2022-07-27 22:33:38,123] {processor.py:153} INFO - Started process (PID=5426) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:33:38,124] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:33:38,124] {logging_mixin.py:115} INFO - [2022-07-27 22:33:38,124] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:33:38,127] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:33:38,149] {logging_mixin.py:115} INFO - [2022-07-27 22:33:38,149] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:33:38,158] {logging_mixin.py:115} INFO - [2022-07-27 22:33:38,158] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:33:38,159] {logging_mixin.py:115} INFO - [2022-07-27 22:33:38,159] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:33:38,234] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.112 seconds
+[2022-07-27 22:34:11,317] {processor.py:153} INFO - Started process (PID=5486) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:34:11,318] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:34:11,318] {logging_mixin.py:115} INFO - [2022-07-27 22:34:11,318] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:34:11,320] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:34:11,345] {logging_mixin.py:115} INFO - [2022-07-27 22:34:11,345] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:34:11,357] {logging_mixin.py:115} INFO - [2022-07-27 22:34:11,357] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:34:11,357] {logging_mixin.py:115} INFO - [2022-07-27 22:34:11,357] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:34:11,368] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.053 seconds
+[2022-07-27 22:34:43,264] {processor.py:153} INFO - Started process (PID=5521) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:34:43,264] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:34:43,264] {logging_mixin.py:115} INFO - [2022-07-27 22:34:43,264] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:34:43,267] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:34:43,287] {logging_mixin.py:115} INFO - [2022-07-27 22:34:43,287] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:34:43,298] {logging_mixin.py:115} INFO - [2022-07-27 22:34:43,298] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:34:43,298] {logging_mixin.py:115} INFO - [2022-07-27 22:34:43,298] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:34:43,307] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.046 seconds
+[2022-07-27 22:35:16,837] {processor.py:153} INFO - Started process (PID=5564) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:35:16,838] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:35:16,838] {logging_mixin.py:115} INFO - [2022-07-27 22:35:16,838] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:35:16,841] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:35:16,868] {logging_mixin.py:115} INFO - [2022-07-27 22:35:16,868] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:35:16,878] {logging_mixin.py:115} INFO - [2022-07-27 22:35:16,878] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:35:16,878] {logging_mixin.py:115} INFO - [2022-07-27 22:35:16,878] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:35:16,894] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.059 seconds
+[2022-07-27 22:35:49,985] {processor.py:153} INFO - Started process (PID=5619) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:35:49,985] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:35:49,985] {logging_mixin.py:115} INFO - [2022-07-27 22:35:49,985] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:35:49,988] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:35:50,013] {logging_mixin.py:115} INFO - [2022-07-27 22:35:50,013] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:35:50,023] {logging_mixin.py:115} INFO - [2022-07-27 22:35:50,023] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:35:50,023] {logging_mixin.py:115} INFO - [2022-07-27 22:35:50,023] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:35:50,037] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.054 seconds
+[2022-07-27 22:36:25,863] {processor.py:153} INFO - Started process (PID=5690) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:36:25,863] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:36:25,864] {logging_mixin.py:115} INFO - [2022-07-27 22:36:25,864] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:36:25,866] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:36:25,891] {logging_mixin.py:115} INFO - [2022-07-27 22:36:25,891] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:36:25,908] {logging_mixin.py:115} INFO - [2022-07-27 22:36:25,908] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:36:25,908] {logging_mixin.py:115} INFO - [2022-07-27 22:36:25,908] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:36:25,925] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.063 seconds
+[2022-07-27 22:36:56,698] {processor.py:153} INFO - Started process (PID=5803) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:36:56,698] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:36:56,698] {logging_mixin.py:115} INFO - [2022-07-27 22:36:56,698] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:36:56,701] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:36:56,725] {logging_mixin.py:115} INFO - [2022-07-27 22:36:56,725] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:36:56,737] {logging_mixin.py:115} INFO - [2022-07-27 22:36:56,736] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:36:56,737] {logging_mixin.py:115} INFO - [2022-07-27 22:36:56,737] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:36:56,752] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.056 seconds
+[2022-07-27 22:37:31,605] {processor.py:153} INFO - Started process (PID=5840) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:37:31,605] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:37:31,605] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,605] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:37:31,608] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:37:31,624] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,624] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 34
+    with DAG(dag_id="TwitterTest")
+                                 ^
+SyntaxError: invalid syntax
+[2022-07-27 22:37:31,631] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,631] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:37:31,644] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,644] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:37:31,644] {logging_mixin.py:115} INFO - [2022-07-27 22:37:31,644] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:37:31,657] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.054 seconds
+[2022-07-27 22:38:03,202] {processor.py:153} INFO - Started process (PID=5881) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:38:03,203] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:38:03,203] {logging_mixin.py:115} INFO - [2022-07-27 22:38:03,203] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:38:03,206] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:38:03,223] {logging_mixin.py:115} INFO - [2022-07-27 22:38:03,223] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 34
+    with DAG(dag_id="TwitterTest", start_date=)
+                                              ^
+SyntaxError: invalid syntax
+[2022-07-27 22:38:03,229] {logging_mixin.py:115} INFO - [2022-07-27 22:38:03,229] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:38:03,240] {logging_mixin.py:115} INFO - [2022-07-27 22:38:03,240] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:38:03,240] {logging_mixin.py:115} INFO - [2022-07-27 22:38:03,240] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:38:03,251] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.051 seconds
+[2022-07-27 22:38:34,587] {processor.py:153} INFO - Started process (PID=5925) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:38:34,587] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:38:34,587] {logging_mixin.py:115} INFO - [2022-07-27 22:38:34,587] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:38:34,590] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:38:34,604] {logging_mixin.py:115} INFO - [2022-07-27 22:38:34,604] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now())
+                                                             ^
+SyntaxError: invalid syntax
+[2022-07-27 22:38:34,613] {logging_mixin.py:115} INFO - [2022-07-27 22:38:34,612] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:38:34,624] {logging_mixin.py:115} INFO - [2022-07-27 22:38:34,624] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:38:34,625] {logging_mixin.py:115} INFO - [2022-07-27 22:38:34,624] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:38:34,635] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.050 seconds
+[2022-07-27 22:39:08,071] {processor.py:153} INFO - Started process (PID=5971) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:39:08,072] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:39:08,073] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,073] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:39:08,075] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:39:08,088] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,088] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:39:08,095] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,095] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:39:08,108] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,108] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:39:08,109] {logging_mixin.py:115} INFO - [2022-07-27 22:39:08,108] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:39:08,119] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.050 seconds
+[2022-07-27 22:39:42,148] {processor.py:153} INFO - Started process (PID=6022) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:39:42,148] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:39:42,149] {logging_mixin.py:115} INFO - [2022-07-27 22:39:42,149] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:39:42,152] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:39:42,167] {logging_mixin.py:115} INFO - [2022-07-27 22:39:42,167] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:39:42,175] {logging_mixin.py:115} INFO - [2022-07-27 22:39:42,175] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:39:42,187] {logging_mixin.py:115} INFO - [2022-07-27 22:39:42,187] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:39:42,188] {logging_mixin.py:115} INFO - [2022-07-27 22:39:42,188] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:39:42,201] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.056 seconds
+[2022-07-27 22:40:17,060] {processor.py:153} INFO - Started process (PID=6064) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:40:17,061] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:40:17,061] {logging_mixin.py:115} INFO - [2022-07-27 22:40:17,061] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:40:17,064] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:40:17,081] {logging_mixin.py:115} INFO - [2022-07-27 22:40:17,080] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:40:17,090] {logging_mixin.py:115} INFO - [2022-07-27 22:40:17,090] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:40:17,105] {logging_mixin.py:115} INFO - [2022-07-27 22:40:17,104] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:40:17,105] {logging_mixin.py:115} INFO - [2022-07-27 22:40:17,105] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:40:17,117] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.058 seconds
+[2022-07-27 22:40:51,006] {processor.py:153} INFO - Started process (PID=6110) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:40:51,006] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:40:51,007] {logging_mixin.py:115} INFO - [2022-07-27 22:40:51,007] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:40:51,010] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:40:51,032] {logging_mixin.py:115} INFO - [2022-07-27 22:40:51,030] {plugins_manager.py:264} ERROR - Failed to import plugin /home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py
+Traceback (most recent call last):
+  File "/home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/plugins_manager.py", line 256, in load_plugins_from_plugin_directory
+    loader.exec_module(mod)
+  File "<frozen importlib._bootstrap_external>", line 844, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 981, in get_code
+  File "<frozen importlib._bootstrap_external>", line 911, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/renan/datapipeline/airflow/plugins/operators/twitter_operator.py", line 35
+    with DAG(dag_id="TwitterTest", start_date=datetime.now()) as dag:
+                                                                    ^
+SyntaxError: unexpected EOF while parsing
+[2022-07-27 22:40:51,040] {logging_mixin.py:115} INFO - [2022-07-27 22:40:51,040] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:40:51,056] {logging_mixin.py:115} INFO - [2022-07-27 22:40:51,056] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:40:51,056] {logging_mixin.py:115} INFO - [2022-07-27 22:40:51,056] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:40:51,065] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.062 seconds
+[2022-07-27 22:41:22,734] {processor.py:153} INFO - Started process (PID=6167) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:41:22,734] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:41:22,735] {logging_mixin.py:115} INFO - [2022-07-27 22:41:22,734] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:41:22,737] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:41:22,758] {logging_mixin.py:115} INFO - [2022-07-27 22:41:22,758] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:41:22,769] {logging_mixin.py:115} INFO - [2022-07-27 22:41:22,769] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:41:22,769] {logging_mixin.py:115} INFO - [2022-07-27 22:41:22,769] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:41:22,779] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.048 seconds
+[2022-07-27 22:41:56,493] {processor.py:153} INFO - Started process (PID=6228) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:41:56,494] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:41:56,494] {logging_mixin.py:115} INFO - [2022-07-27 22:41:56,494] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:41:56,496] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:41:56,517] {logging_mixin.py:115} INFO - [2022-07-27 22:41:56,517] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:41:56,526] {logging_mixin.py:115} INFO - [2022-07-27 22:41:56,526] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:41:56,526] {logging_mixin.py:115} INFO - [2022-07-27 22:41:56,526] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:41:56,535] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.045 seconds
+[2022-07-27 22:42:29,645] {processor.py:153} INFO - Started process (PID=6264) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:42:29,645] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:42:29,646] {logging_mixin.py:115} INFO - [2022-07-27 22:42:29,646] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:42:29,648] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:42:29,668] {logging_mixin.py:115} INFO - [2022-07-27 22:42:29,668] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:42:29,678] {logging_mixin.py:115} INFO - [2022-07-27 22:42:29,678] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:42:29,678] {logging_mixin.py:115} INFO - [2022-07-27 22:42:29,678] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:42:29,688] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.045 seconds
+[2022-07-27 22:43:02,536] {processor.py:153} INFO - Started process (PID=6318) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:43:02,536] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:43:02,537] {logging_mixin.py:115} INFO - [2022-07-27 22:43:02,536] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:43:02,539] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:43:02,562] {logging_mixin.py:115} INFO - [2022-07-27 22:43:02,562] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:43:02,575] {logging_mixin.py:115} INFO - [2022-07-27 22:43:02,575] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:43:02,575] {logging_mixin.py:115} INFO - [2022-07-27 22:43:02,575] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:43:02,587] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.053 seconds
+[2022-07-27 22:43:34,829] {processor.py:153} INFO - Started process (PID=6378) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:43:34,830] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:43:34,830] {logging_mixin.py:115} INFO - [2022-07-27 22:43:34,830] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:43:34,834] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:43:34,855] {logging_mixin.py:115} INFO - [2022-07-27 22:43:34,855] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:43:34,865] {logging_mixin.py:115} INFO - [2022-07-27 22:43:34,865] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:43:34,865] {logging_mixin.py:115} INFO - [2022-07-27 22:43:34,865] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:43:34,880] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.053 seconds
+[2022-07-27 22:44:07,318] {processor.py:153} INFO - Started process (PID=6416) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:44:07,318] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:44:07,319] {logging_mixin.py:115} INFO - [2022-07-27 22:44:07,319] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:44:07,321] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:44:07,339] {logging_mixin.py:115} INFO - [2022-07-27 22:44:07,339] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:44:07,348] {logging_mixin.py:115} INFO - [2022-07-27 22:44:07,348] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:44:07,348] {logging_mixin.py:115} INFO - [2022-07-27 22:44:07,348] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:44:07,357] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 22:44:40,450] {processor.py:153} INFO - Started process (PID=6450) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:44:40,450] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:44:40,451] {logging_mixin.py:115} INFO - [2022-07-27 22:44:40,451] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:44:40,453] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:44:40,471] {logging_mixin.py:115} INFO - [2022-07-27 22:44:40,471] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:44:40,481] {logging_mixin.py:115} INFO - [2022-07-27 22:44:40,481] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:44:40,481] {logging_mixin.py:115} INFO - [2022-07-27 22:44:40,481] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:44:40,490] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 22:45:12,854] {processor.py:153} INFO - Started process (PID=6488) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:45:12,854] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:45:12,854] {logging_mixin.py:115} INFO - [2022-07-27 22:45:12,854] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:45:12,857] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:45:12,876] {logging_mixin.py:115} INFO - [2022-07-27 22:45:12,876] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:45:12,886] {logging_mixin.py:115} INFO - [2022-07-27 22:45:12,886] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:45:12,886] {logging_mixin.py:115} INFO - [2022-07-27 22:45:12,886] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:45:12,895] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds
+[2022-07-27 22:45:45,766] {processor.py:153} INFO - Started process (PID=6542) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:45:45,766] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:45:45,766] {logging_mixin.py:115} INFO - [2022-07-27 22:45:45,766] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:45:45,769] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:45:45,787] {logging_mixin.py:115} INFO - [2022-07-27 22:45:45,787] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:45:45,796] {logging_mixin.py:115} INFO - [2022-07-27 22:45:45,796] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:45:45,796] {logging_mixin.py:115} INFO - [2022-07-27 22:45:45,796] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:45:45,862] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.098 seconds
+[2022-07-27 22:46:20,732] {processor.py:153} INFO - Started process (PID=6600) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:46:20,733] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:46:20,733] {logging_mixin.py:115} INFO - [2022-07-27 22:46:20,733] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:46:20,736] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:46:20,761] {logging_mixin.py:115} INFO - [2022-07-27 22:46:20,761] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:46:20,773] {logging_mixin.py:115} INFO - [2022-07-27 22:46:20,773] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:46:20,774] {logging_mixin.py:115} INFO - [2022-07-27 22:46:20,774] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:46:20,786] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.056 seconds
+[2022-07-27 22:46:54,321] {processor.py:153} INFO - Started process (PID=6649) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:46:54,322] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:46:54,322] {logging_mixin.py:115} INFO - [2022-07-27 22:46:54,322] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:46:54,324] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:46:54,343] {logging_mixin.py:115} INFO - [2022-07-27 22:46:54,343] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:46:54,352] {logging_mixin.py:115} INFO - [2022-07-27 22:46:54,352] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:46:54,352] {logging_mixin.py:115} INFO - [2022-07-27 22:46:54,352] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:46:54,361] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 22:47:26,349] {processor.py:153} INFO - Started process (PID=6699) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:47:26,349] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:47:26,350] {logging_mixin.py:115} INFO - [2022-07-27 22:47:26,350] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:47:26,352] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:47:26,372] {logging_mixin.py:115} INFO - [2022-07-27 22:47:26,372] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:47:26,383] {logging_mixin.py:115} INFO - [2022-07-27 22:47:26,383] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:47:26,383] {logging_mixin.py:115} INFO - [2022-07-27 22:47:26,383] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:47:26,398] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.052 seconds
+[2022-07-27 22:48:00,549] {processor.py:153} INFO - Started process (PID=6788) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:48:00,549] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:48:00,550] {logging_mixin.py:115} INFO - [2022-07-27 22:48:00,550] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:48:00,552] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:48:00,573] {logging_mixin.py:115} INFO - [2022-07-27 22:48:00,573] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:48:00,584] {logging_mixin.py:115} INFO - [2022-07-27 22:48:00,584] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:48:00,584] {logging_mixin.py:115} INFO - [2022-07-27 22:48:00,584] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:48:00,594] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:48:35,267] {processor.py:153} INFO - Started process (PID=6842) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:48:35,268] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:48:35,268] {logging_mixin.py:115} INFO - [2022-07-27 22:48:35,268] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:48:35,270] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:48:35,291] {logging_mixin.py:115} INFO - [2022-07-27 22:48:35,291] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:48:35,301] {logging_mixin.py:115} INFO - [2022-07-27 22:48:35,301] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:48:35,301] {logging_mixin.py:115} INFO - [2022-07-27 22:48:35,301] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:48:35,311] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.045 seconds
+[2022-07-27 22:49:06,134] {processor.py:153} INFO - Started process (PID=6905) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:49:06,135] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:49:06,135] {logging_mixin.py:115} INFO - [2022-07-27 22:49:06,135] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:49:06,138] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:49:06,159] {logging_mixin.py:115} INFO - [2022-07-27 22:49:06,159] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:49:06,170] {logging_mixin.py:115} INFO - [2022-07-27 22:49:06,170] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:49:06,171] {logging_mixin.py:115} INFO - [2022-07-27 22:49:06,171] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:49:06,182] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.050 seconds
+[2022-07-27 22:49:41,080] {processor.py:153} INFO - Started process (PID=6943) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:49:41,081] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:49:41,082] {logging_mixin.py:115} INFO - [2022-07-27 22:49:41,082] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:49:41,084] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:49:41,105] {logging_mixin.py:115} INFO - [2022-07-27 22:49:41,105] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:49:41,115] {logging_mixin.py:115} INFO - [2022-07-27 22:49:41,115] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:49:41,115] {logging_mixin.py:115} INFO - [2022-07-27 22:49:41,115] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:49:41,125] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:50:13,017] {processor.py:153} INFO - Started process (PID=6981) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:50:13,018] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:50:13,018] {logging_mixin.py:115} INFO - [2022-07-27 22:50:13,018] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:50:13,021] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:50:13,040] {logging_mixin.py:115} INFO - [2022-07-27 22:50:13,040] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:50:13,050] {logging_mixin.py:115} INFO - [2022-07-27 22:50:13,050] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:50:13,050] {logging_mixin.py:115} INFO - [2022-07-27 22:50:13,050] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:50:13,064] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.049 seconds
+[2022-07-27 22:50:48,554] {processor.py:153} INFO - Started process (PID=7036) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:50:48,556] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:50:48,556] {logging_mixin.py:115} INFO - [2022-07-27 22:50:48,556] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:50:48,559] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:50:48,579] {logging_mixin.py:115} INFO - [2022-07-27 22:50:48,579] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:50:48,591] {logging_mixin.py:115} INFO - [2022-07-27 22:50:48,591] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:50:48,591] {logging_mixin.py:115} INFO - [2022-07-27 22:50:48,591] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:50:48,604] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.051 seconds
+[2022-07-27 22:51:21,208] {processor.py:153} INFO - Started process (PID=7085) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:51:21,208] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:51:21,209] {logging_mixin.py:115} INFO - [2022-07-27 22:51:21,209] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:51:21,212] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:51:21,232] {logging_mixin.py:115} INFO - [2022-07-27 22:51:21,232] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:51:21,244] {logging_mixin.py:115} INFO - [2022-07-27 22:51:21,244] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:51:21,245] {logging_mixin.py:115} INFO - [2022-07-27 22:51:21,244] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:51:21,256] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.050 seconds
+[2022-07-27 22:51:53,996] {processor.py:153} INFO - Started process (PID=7125) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:51:53,996] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:51:53,996] {logging_mixin.py:115} INFO - [2022-07-27 22:51:53,996] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:51:53,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:51:54,016] {logging_mixin.py:115} INFO - [2022-07-27 22:51:54,016] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:51:54,025] {logging_mixin.py:115} INFO - [2022-07-27 22:51:54,025] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:51:54,025] {logging_mixin.py:115} INFO - [2022-07-27 22:51:54,025] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:51:54,087] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.093 seconds
+[2022-07-27 22:52:26,524] {processor.py:153} INFO - Started process (PID=7166) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:52:26,525] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:52:26,525] {logging_mixin.py:115} INFO - [2022-07-27 22:52:26,525] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:52:26,527] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:52:26,550] {logging_mixin.py:115} INFO - [2022-07-27 22:52:26,550] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:52:26,561] {logging_mixin.py:115} INFO - [2022-07-27 22:52:26,561] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:52:26,561] {logging_mixin.py:115} INFO - [2022-07-27 22:52:26,561] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:52:26,572] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.050 seconds
+[2022-07-27 22:52:59,193] {processor.py:153} INFO - Started process (PID=7209) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:52:59,194] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:52:59,194] {logging_mixin.py:115} INFO - [2022-07-27 22:52:59,194] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:52:59,197] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:52:59,217] {logging_mixin.py:115} INFO - [2022-07-27 22:52:59,217] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:52:59,229] {logging_mixin.py:115} INFO - [2022-07-27 22:52:59,228] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:52:59,229] {logging_mixin.py:115} INFO - [2022-07-27 22:52:59,229] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:52:59,239] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:53:31,054] {processor.py:153} INFO - Started process (PID=7244) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:53:31,054] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:53:31,054] {logging_mixin.py:115} INFO - [2022-07-27 22:53:31,054] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:53:31,057] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:53:31,077] {logging_mixin.py:115} INFO - [2022-07-27 22:53:31,076] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:53:31,087] {logging_mixin.py:115} INFO - [2022-07-27 22:53:31,087] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:53:31,087] {logging_mixin.py:115} INFO - [2022-07-27 22:53:31,087] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:53:31,098] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.046 seconds
+[2022-07-27 22:54:05,256] {processor.py:153} INFO - Started process (PID=7301) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:54:05,257] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:54:05,257] {logging_mixin.py:115} INFO - [2022-07-27 22:54:05,257] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:54:05,260] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:54:05,280] {logging_mixin.py:115} INFO - [2022-07-27 22:54:05,280] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:54:05,291] {logging_mixin.py:115} INFO - [2022-07-27 22:54:05,291] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:54:05,291] {logging_mixin.py:115} INFO - [2022-07-27 22:54:05,291] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:54:05,301] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.047 seconds
+[2022-07-27 22:54:36,640] {processor.py:153} INFO - Started process (PID=7341) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:54:36,643] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:54:36,643] {logging_mixin.py:115} INFO - [2022-07-27 22:54:36,643] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:54:36,646] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:54:36,664] {logging_mixin.py:115} INFO - [2022-07-27 22:54:36,664] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:54:36,674] {logging_mixin.py:115} INFO - [2022-07-27 22:54:36,674] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:54:36,675] {logging_mixin.py:115} INFO - [2022-07-27 22:54:36,675] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:54:36,685] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.046 seconds
+[2022-07-27 22:55:10,506] {processor.py:153} INFO - Started process (PID=7393) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:55:10,506] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:55:10,507] {logging_mixin.py:115} INFO - [2022-07-27 22:55:10,507] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:55:10,509] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:55:10,530] {logging_mixin.py:115} INFO - [2022-07-27 22:55:10,530] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:55:10,541] {logging_mixin.py:115} INFO - [2022-07-27 22:55:10,541] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:55:10,541] {logging_mixin.py:115} INFO - [2022-07-27 22:55:10,541] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:55:10,553] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.049 seconds
+[2022-07-27 22:55:46,716] {processor.py:153} INFO - Started process (PID=7453) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:55:46,718] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:55:46,718] {logging_mixin.py:115} INFO - [2022-07-27 22:55:46,718] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:55:46,721] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:55:46,745] {logging_mixin.py:115} INFO - [2022-07-27 22:55:46,745] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:55:46,757] {logging_mixin.py:115} INFO - [2022-07-27 22:55:46,757] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:55:46,758] {logging_mixin.py:115} INFO - [2022-07-27 22:55:46,758] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:55:46,772] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.059 seconds
+[2022-07-27 22:56:21,124] {processor.py:153} INFO - Started process (PID=7505) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:56:21,125] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:56:21,125] {logging_mixin.py:115} INFO - [2022-07-27 22:56:21,125] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:56:21,129] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:56:21,149] {logging_mixin.py:115} INFO - [2022-07-27 22:56:21,149] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:56:21,160] {logging_mixin.py:115} INFO - [2022-07-27 22:56:21,160] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:56:21,160] {logging_mixin.py:115} INFO - [2022-07-27 22:56:21,160] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:56:21,171] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.049 seconds
+[2022-07-27 22:56:53,785] {processor.py:153} INFO - Started process (PID=7565) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:56:53,786] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:56:53,786] {logging_mixin.py:115} INFO - [2022-07-27 22:56:53,786] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:56:53,791] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:56:53,815] {logging_mixin.py:115} INFO - [2022-07-27 22:56:53,815] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:56:53,828] {logging_mixin.py:115} INFO - [2022-07-27 22:56:53,828] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:56:53,828] {logging_mixin.py:115} INFO - [2022-07-27 22:56:53,828] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:56:53,842] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.059 seconds
+[2022-07-27 22:57:26,648] {processor.py:153} INFO - Started process (PID=7601) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:57:26,648] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:57:26,649] {logging_mixin.py:115} INFO - [2022-07-27 22:57:26,648] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:57:26,651] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:57:26,670] {logging_mixin.py:115} INFO - [2022-07-27 22:57:26,670] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:57:26,681] {logging_mixin.py:115} INFO - [2022-07-27 22:57:26,681] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:57:26,681] {logging_mixin.py:115} INFO - [2022-07-27 22:57:26,681] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:57:26,695] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.049 seconds
+[2022-07-27 22:58:01,844] {processor.py:153} INFO - Started process (PID=7638) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:58:01,845] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:58:01,845] {logging_mixin.py:115} INFO - [2022-07-27 22:58:01,845] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:58:01,847] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:58:01,867] {logging_mixin.py:115} INFO - [2022-07-27 22:58:01,866] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:58:01,876] {logging_mixin.py:115} INFO - [2022-07-27 22:58:01,876] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:58:01,876] {logging_mixin.py:115} INFO - [2022-07-27 22:58:01,876] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:58:01,884] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 22:58:32,608] {processor.py:153} INFO - Started process (PID=7687) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:58:32,608] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:58:32,609] {logging_mixin.py:115} INFO - [2022-07-27 22:58:32,609] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:58:32,611] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:58:32,631] {logging_mixin.py:115} INFO - [2022-07-27 22:58:32,631] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:58:32,640] {logging_mixin.py:115} INFO - [2022-07-27 22:58:32,640] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:58:32,641] {logging_mixin.py:115} INFO - [2022-07-27 22:58:32,641] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:58:32,649] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds
+[2022-07-27 22:59:04,572] {processor.py:153} INFO - Started process (PID=7722) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:59:04,572] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:59:04,573] {logging_mixin.py:115} INFO - [2022-07-27 22:59:04,573] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:59:04,576] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:59:04,597] {logging_mixin.py:115} INFO - [2022-07-27 22:59:04,596] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:59:04,610] {logging_mixin.py:115} INFO - [2022-07-27 22:59:04,610] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:59:04,610] {logging_mixin.py:115} INFO - [2022-07-27 22:59:04,610] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:59:04,621] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.052 seconds
+[2022-07-27 22:59:38,819] {processor.py:153} INFO - Started process (PID=7770) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:59:38,819] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 22:59:38,820] {logging_mixin.py:115} INFO - [2022-07-27 22:59:38,820] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:59:38,822] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 22:59:38,841] {logging_mixin.py:115} INFO - [2022-07-27 22:59:38,841] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 22:59:38,850] {logging_mixin.py:115} INFO - [2022-07-27 22:59:38,850] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 22:59:38,850] {logging_mixin.py:115} INFO - [2022-07-27 22:59:38,850] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 22:59:38,859] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 23:00:13,936] {processor.py:153} INFO - Started process (PID=7816) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:00:13,937] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:00:13,937] {logging_mixin.py:115} INFO - [2022-07-27 23:00:13,937] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:00:13,940] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:00:13,957] {logging_mixin.py:115} INFO - [2022-07-27 23:00:13,957] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:00:13,966] {logging_mixin.py:115} INFO - [2022-07-27 23:00:13,966] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:00:13,967] {logging_mixin.py:115} INFO - [2022-07-27 23:00:13,966] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:00:13,976] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:00:47,552] {processor.py:153} INFO - Started process (PID=7854) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:00:47,552] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:00:47,552] {logging_mixin.py:115} INFO - [2022-07-27 23:00:47,552] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:00:47,555] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:00:47,572] {logging_mixin.py:115} INFO - [2022-07-27 23:00:47,572] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:00:47,582] {logging_mixin.py:115} INFO - [2022-07-27 23:00:47,581] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:00:47,582] {logging_mixin.py:115} INFO - [2022-07-27 23:00:47,582] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:00:47,590] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:01:22,088] {processor.py:153} INFO - Started process (PID=7889) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:01:22,088] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:01:22,089] {logging_mixin.py:115} INFO - [2022-07-27 23:01:22,089] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:01:22,091] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:01:22,109] {logging_mixin.py:115} INFO - [2022-07-27 23:01:22,109] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:01:22,119] {logging_mixin.py:115} INFO - [2022-07-27 23:01:22,119] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:01:22,119] {logging_mixin.py:115} INFO - [2022-07-27 23:01:22,119] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:01:22,129] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds
+[2022-07-27 23:01:52,924] {processor.py:153} INFO - Started process (PID=7947) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:01:52,924] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:01:52,925] {logging_mixin.py:115} INFO - [2022-07-27 23:01:52,925] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:01:52,927] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:01:52,945] {logging_mixin.py:115} INFO - [2022-07-27 23:01:52,945] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:01:52,955] {logging_mixin.py:115} INFO - [2022-07-27 23:01:52,955] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:01:52,955] {logging_mixin.py:115} INFO - [2022-07-27 23:01:52,955] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:01:52,963] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:02:27,932] {processor.py:153} INFO - Started process (PID=7996) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:02:27,932] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:02:27,933] {logging_mixin.py:115} INFO - [2022-07-27 23:02:27,933] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:02:27,935] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:02:27,956] {logging_mixin.py:115} INFO - [2022-07-27 23:02:27,956] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:02:27,969] {logging_mixin.py:115} INFO - [2022-07-27 23:02:27,968] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:02:27,969] {logging_mixin.py:115} INFO - [2022-07-27 23:02:27,969] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:02:27,979] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.049 seconds
+[2022-07-27 23:03:01,919] {processor.py:153} INFO - Started process (PID=8047) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:03:01,919] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:03:01,920] {logging_mixin.py:115} INFO - [2022-07-27 23:03:01,920] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:03:01,922] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:03:01,940] {logging_mixin.py:115} INFO - [2022-07-27 23:03:01,940] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:03:01,949] {logging_mixin.py:115} INFO - [2022-07-27 23:03:01,949] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:03:01,949] {logging_mixin.py:115} INFO - [2022-07-27 23:03:01,949] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:03:01,957] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:03:33,871] {processor.py:153} INFO - Started process (PID=8088) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:03:33,872] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:03:33,872] {logging_mixin.py:115} INFO - [2022-07-27 23:03:33,872] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:03:33,875] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:03:33,892] {logging_mixin.py:115} INFO - [2022-07-27 23:03:33,892] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:03:33,901] {logging_mixin.py:115} INFO - [2022-07-27 23:03:33,901] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:03:33,902] {logging_mixin.py:115} INFO - [2022-07-27 23:03:33,902] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:03:33,910] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:04:09,287] {processor.py:153} INFO - Started process (PID=8131) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:04:09,287] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:04:09,287] {logging_mixin.py:115} INFO - [2022-07-27 23:04:09,287] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:04:09,289] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:04:09,308] {logging_mixin.py:115} INFO - [2022-07-27 23:04:09,308] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:04:09,317] {logging_mixin.py:115} INFO - [2022-07-27 23:04:09,317] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:04:09,317] {logging_mixin.py:115} INFO - [2022-07-27 23:04:09,317] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:04:09,325] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:04:43,423] {processor.py:153} INFO - Started process (PID=8167) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:04:43,423] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:04:43,424] {logging_mixin.py:115} INFO - [2022-07-27 23:04:43,424] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:04:43,426] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:04:43,444] {logging_mixin.py:115} INFO - [2022-07-27 23:04:43,444] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:04:43,455] {logging_mixin.py:115} INFO - [2022-07-27 23:04:43,455] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:04:43,455] {logging_mixin.py:115} INFO - [2022-07-27 23:04:43,455] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:04:43,464] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 23:05:15,945] {processor.py:153} INFO - Started process (PID=8225) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:05:15,946] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:05:15,946] {logging_mixin.py:115} INFO - [2022-07-27 23:05:15,946] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:05:15,948] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:05:15,967] {logging_mixin.py:115} INFO - [2022-07-27 23:05:15,967] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:05:15,977] {logging_mixin.py:115} INFO - [2022-07-27 23:05:15,977] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:05:15,977] {logging_mixin.py:115} INFO - [2022-07-27 23:05:15,977] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:05:15,985] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 23:05:51,409] {processor.py:153} INFO - Started process (PID=8280) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:05:51,409] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:05:51,410] {logging_mixin.py:115} INFO - [2022-07-27 23:05:51,410] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:05:51,412] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:05:51,431] {logging_mixin.py:115} INFO - [2022-07-27 23:05:51,431] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:05:51,441] {logging_mixin.py:115} INFO - [2022-07-27 23:05:51,441] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:05:51,441] {logging_mixin.py:115} INFO - [2022-07-27 23:05:51,441] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:05:51,450] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 23:06:26,259] {processor.py:153} INFO - Started process (PID=8329) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:06:26,259] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:06:26,260] {logging_mixin.py:115} INFO - [2022-07-27 23:06:26,260] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:06:26,263] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:06:26,289] {logging_mixin.py:115} INFO - [2022-07-27 23:06:26,289] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:06:26,302] {logging_mixin.py:115} INFO - [2022-07-27 23:06:26,302] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:06:26,302] {logging_mixin.py:115} INFO - [2022-07-27 23:06:26,302] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:06:26,315] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.058 seconds
+[2022-07-27 23:06:59,120] {processor.py:153} INFO - Started process (PID=8374) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:06:59,120] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:06:59,121] {logging_mixin.py:115} INFO - [2022-07-27 23:06:59,121] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:06:59,123] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:06:59,141] {logging_mixin.py:115} INFO - [2022-07-27 23:06:59,141] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:06:59,151] {logging_mixin.py:115} INFO - [2022-07-27 23:06:59,151] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:06:59,151] {logging_mixin.py:115} INFO - [2022-07-27 23:06:59,151] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:06:59,159] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:07:32,182] {processor.py:153} INFO - Started process (PID=8418) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:07:32,182] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:07:32,182] {logging_mixin.py:115} INFO - [2022-07-27 23:07:32,182] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:07:32,185] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:07:32,205] {logging_mixin.py:115} INFO - [2022-07-27 23:07:32,205] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:07:32,217] {logging_mixin.py:115} INFO - [2022-07-27 23:07:32,217] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:07:32,217] {logging_mixin.py:115} INFO - [2022-07-27 23:07:32,217] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:07:32,229] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.048 seconds
+[2022-07-27 23:08:05,020] {processor.py:153} INFO - Started process (PID=8467) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:08:05,021] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:08:05,021] {logging_mixin.py:115} INFO - [2022-07-27 23:08:05,021] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:08:05,023] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:08:05,042] {logging_mixin.py:115} INFO - [2022-07-27 23:08:05,042] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:08:05,051] {logging_mixin.py:115} INFO - [2022-07-27 23:08:05,051] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:08:05,051] {logging_mixin.py:115} INFO - [2022-07-27 23:08:05,051] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:08:05,059] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:08:38,085] {processor.py:153} INFO - Started process (PID=8512) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:08:38,085] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:08:38,086] {logging_mixin.py:115} INFO - [2022-07-27 23:08:38,085] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:08:38,088] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:08:38,105] {logging_mixin.py:115} INFO - [2022-07-27 23:08:38,105] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:08:38,115] {logging_mixin.py:115} INFO - [2022-07-27 23:08:38,115] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:08:38,115] {logging_mixin.py:115} INFO - [2022-07-27 23:08:38,115] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:08:38,123] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:09:10,626] {processor.py:153} INFO - Started process (PID=8549) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:09:10,627] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:09:10,627] {logging_mixin.py:115} INFO - [2022-07-27 23:09:10,627] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:09:10,629] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:09:10,648] {logging_mixin.py:115} INFO - [2022-07-27 23:09:10,648] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:09:10,658] {logging_mixin.py:115} INFO - [2022-07-27 23:09:10,658] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:09:10,658] {logging_mixin.py:115} INFO - [2022-07-27 23:09:10,658] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:09:10,666] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:09:48,223] {processor.py:153} INFO - Started process (PID=8605) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:09:48,223] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:09:48,223] {logging_mixin.py:115} INFO - [2022-07-27 23:09:48,223] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:09:48,226] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:09:48,244] {logging_mixin.py:115} INFO - [2022-07-27 23:09:48,244] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:09:48,253] {logging_mixin.py:115} INFO - [2022-07-27 23:09:48,253] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:09:48,253] {logging_mixin.py:115} INFO - [2022-07-27 23:09:48,253] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:09:48,262] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:10:20,746] {processor.py:153} INFO - Started process (PID=8650) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:10:20,746] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:10:20,746] {logging_mixin.py:115} INFO - [2022-07-27 23:10:20,746] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:10:20,750] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:10:20,774] {logging_mixin.py:115} INFO - [2022-07-27 23:10:20,773] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:10:20,785] {logging_mixin.py:115} INFO - [2022-07-27 23:10:20,785] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:10:20,786] {logging_mixin.py:115} INFO - [2022-07-27 23:10:20,786] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:10:20,797] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.054 seconds
+[2022-07-27 23:10:53,373] {processor.py:153} INFO - Started process (PID=8706) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:10:53,373] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:10:53,374] {logging_mixin.py:115} INFO - [2022-07-27 23:10:53,374] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:10:53,376] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:10:53,395] {logging_mixin.py:115} INFO - [2022-07-27 23:10:53,395] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:10:53,405] {logging_mixin.py:115} INFO - [2022-07-27 23:10:53,405] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:10:53,405] {logging_mixin.py:115} INFO - [2022-07-27 23:10:53,405] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:10:53,416] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.045 seconds
+[2022-07-27 23:11:27,586] {processor.py:153} INFO - Started process (PID=8748) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:11:27,586] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:11:27,586] {logging_mixin.py:115} INFO - [2022-07-27 23:11:27,586] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:11:27,589] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:11:27,606] {logging_mixin.py:115} INFO - [2022-07-27 23:11:27,606] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:11:27,616] {logging_mixin.py:115} INFO - [2022-07-27 23:11:27,616] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:11:27,616] {logging_mixin.py:115} INFO - [2022-07-27 23:11:27,616] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:11:27,625] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:12:04,049] {processor.py:153} INFO - Started process (PID=8813) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:12:04,050] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:12:04,050] {logging_mixin.py:115} INFO - [2022-07-27 23:12:04,050] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:12:04,053] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:12:04,076] {logging_mixin.py:115} INFO - [2022-07-27 23:12:04,076] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:12:04,088] {logging_mixin.py:115} INFO - [2022-07-27 23:12:04,088] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:12:04,088] {logging_mixin.py:115} INFO - [2022-07-27 23:12:04,088] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:12:04,102] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.056 seconds
+[2022-07-27 23:12:34,894] {processor.py:153} INFO - Started process (PID=8848) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:12:34,894] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:12:34,894] {logging_mixin.py:115} INFO - [2022-07-27 23:12:34,894] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:12:34,897] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:12:34,915] {logging_mixin.py:115} INFO - [2022-07-27 23:12:34,915] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:12:34,925] {logging_mixin.py:115} INFO - [2022-07-27 23:12:34,925] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:12:34,925] {logging_mixin.py:115} INFO - [2022-07-27 23:12:34,925] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:12:34,933] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:13:10,936] {processor.py:153} INFO - Started process (PID=8886) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:13:10,937] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:13:10,937] {logging_mixin.py:115} INFO - [2022-07-27 23:13:10,937] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:13:10,939] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:13:10,957] {logging_mixin.py:115} INFO - [2022-07-27 23:13:10,957] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:13:10,967] {logging_mixin.py:115} INFO - [2022-07-27 23:13:10,967] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:13:10,967] {logging_mixin.py:115} INFO - [2022-07-27 23:13:10,967] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:13:10,976] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:13:46,366] {processor.py:153} INFO - Started process (PID=8923) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:13:46,366] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:13:46,366] {logging_mixin.py:115} INFO - [2022-07-27 23:13:46,366] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:13:46,369] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:13:46,389] {logging_mixin.py:115} INFO - [2022-07-27 23:13:46,389] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:13:46,399] {logging_mixin.py:115} INFO - [2022-07-27 23:13:46,398] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:13:46,399] {logging_mixin.py:115} INFO - [2022-07-27 23:13:46,399] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:13:46,408] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.044 seconds
+[2022-07-27 23:14:19,951] {processor.py:153} INFO - Started process (PID=8957) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:14:19,952] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:14:19,952] {logging_mixin.py:115} INFO - [2022-07-27 23:14:19,952] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:14:19,954] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:14:19,973] {logging_mixin.py:115} INFO - [2022-07-27 23:14:19,973] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:14:19,982] {logging_mixin.py:115} INFO - [2022-07-27 23:14:19,982] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:14:19,982] {logging_mixin.py:115} INFO - [2022-07-27 23:14:19,982] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:14:19,991] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:14:53,488] {processor.py:153} INFO - Started process (PID=8995) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:14:53,488] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:14:53,488] {logging_mixin.py:115} INFO - [2022-07-27 23:14:53,488] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:14:53,491] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:14:53,509] {logging_mixin.py:115} INFO - [2022-07-27 23:14:53,509] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:14:53,518] {logging_mixin.py:115} INFO - [2022-07-27 23:14:53,518] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:14:53,518] {logging_mixin.py:115} INFO - [2022-07-27 23:14:53,518] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:14:53,527] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:15:25,454] {processor.py:153} INFO - Started process (PID=9057) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:15:25,455] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:15:25,455] {logging_mixin.py:115} INFO - [2022-07-27 23:15:25,455] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:15:25,458] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:15:25,476] {logging_mixin.py:115} INFO - [2022-07-27 23:15:25,476] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:15:25,485] {logging_mixin.py:115} INFO - [2022-07-27 23:15:25,485] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:15:25,485] {logging_mixin.py:115} INFO - [2022-07-27 23:15:25,485] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:15:25,495] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 23:16:00,354] {processor.py:153} INFO - Started process (PID=9096) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:16:00,354] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:16:00,355] {logging_mixin.py:115} INFO - [2022-07-27 23:16:00,354] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:16:00,357] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:16:00,375] {logging_mixin.py:115} INFO - [2022-07-27 23:16:00,375] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:16:00,384] {logging_mixin.py:115} INFO - [2022-07-27 23:16:00,384] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:16:00,384] {logging_mixin.py:115} INFO - [2022-07-27 23:16:00,384] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:16:00,392] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:16:32,300] {processor.py:153} INFO - Started process (PID=9130) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:16:32,300] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:16:32,300] {logging_mixin.py:115} INFO - [2022-07-27 23:16:32,300] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:16:32,303] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:16:32,321] {logging_mixin.py:115} INFO - [2022-07-27 23:16:32,321] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:16:32,330] {logging_mixin.py:115} INFO - [2022-07-27 23:16:32,330] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:16:32,330] {logging_mixin.py:115} INFO - [2022-07-27 23:16:32,330] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:16:32,339] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:17:06,451] {processor.py:153} INFO - Started process (PID=9168) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:17:06,452] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:17:06,452] {logging_mixin.py:115} INFO - [2022-07-27 23:17:06,452] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:17:06,454] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:17:06,472] {logging_mixin.py:115} INFO - [2022-07-27 23:17:06,472] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:17:06,481] {logging_mixin.py:115} INFO - [2022-07-27 23:17:06,481] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:17:06,482] {logging_mixin.py:115} INFO - [2022-07-27 23:17:06,482] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:17:06,490] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:17:39,043] {processor.py:153} INFO - Started process (PID=9206) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:17:39,043] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:17:39,044] {logging_mixin.py:115} INFO - [2022-07-27 23:17:39,044] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:17:39,046] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:17:39,064] {logging_mixin.py:115} INFO - [2022-07-27 23:17:39,064] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:17:39,081] {logging_mixin.py:115} INFO - [2022-07-27 23:17:39,081] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:17:39,081] {logging_mixin.py:115} INFO - [2022-07-27 23:17:39,081] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:17:39,090] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.049 seconds
+[2022-07-27 23:18:15,065] {processor.py:153} INFO - Started process (PID=9243) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:18:15,066] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:18:15,066] {logging_mixin.py:115} INFO - [2022-07-27 23:18:15,066] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:18:15,068] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:18:15,086] {logging_mixin.py:115} INFO - [2022-07-27 23:18:15,086] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:18:15,095] {logging_mixin.py:115} INFO - [2022-07-27 23:18:15,095] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:18:15,096] {logging_mixin.py:115} INFO - [2022-07-27 23:18:15,096] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:18:15,104] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:18:47,007] {processor.py:153} INFO - Started process (PID=9278) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:18:47,007] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:18:47,008] {logging_mixin.py:115} INFO - [2022-07-27 23:18:47,008] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:18:47,010] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:18:47,028] {logging_mixin.py:115} INFO - [2022-07-27 23:18:47,028] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:18:47,037] {logging_mixin.py:115} INFO - [2022-07-27 23:18:47,037] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:18:47,037] {logging_mixin.py:115} INFO - [2022-07-27 23:18:47,037] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:18:47,046] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:19:20,642] {processor.py:153} INFO - Started process (PID=9313) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:19:20,642] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:19:20,642] {logging_mixin.py:115} INFO - [2022-07-27 23:19:20,642] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:19:20,645] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:19:20,663] {logging_mixin.py:115} INFO - [2022-07-27 23:19:20,663] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:19:20,672] {logging_mixin.py:115} INFO - [2022-07-27 23:19:20,672] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:19:20,672] {logging_mixin.py:115} INFO - [2022-07-27 23:19:20,672] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:19:20,681] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:19:51,490] {processor.py:153} INFO - Started process (PID=9347) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:19:51,490] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:19:51,490] {logging_mixin.py:115} INFO - [2022-07-27 23:19:51,490] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:19:51,493] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:19:51,510] {logging_mixin.py:115} INFO - [2022-07-27 23:19:51,510] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:19:51,519] {logging_mixin.py:115} INFO - [2022-07-27 23:19:51,519] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:19:51,519] {logging_mixin.py:115} INFO - [2022-07-27 23:19:51,519] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:19:51,528] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-07-27 23:20:26,883] {processor.py:153} INFO - Started process (PID=9388) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:20:26,884] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:20:26,884] {logging_mixin.py:115} INFO - [2022-07-27 23:20:26,884] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:20:26,886] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:20:26,905] {logging_mixin.py:115} INFO - [2022-07-27 23:20:26,905] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:20:26,914] {logging_mixin.py:115} INFO - [2022-07-27 23:20:26,914] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:20:26,914] {logging_mixin.py:115} INFO - [2022-07-27 23:20:26,914] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:20:26,923] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.042 seconds
+[2022-07-27 23:20:59,423] {processor.py:153} INFO - Started process (PID=9422) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:20:59,423] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:20:59,424] {logging_mixin.py:115} INFO - [2022-07-27 23:20:59,424] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:20:59,426] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:20:59,444] {logging_mixin.py:115} INFO - [2022-07-27 23:20:59,444] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:20:59,453] {logging_mixin.py:115} INFO - [2022-07-27 23:20:59,453] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:20:59,454] {logging_mixin.py:115} INFO - [2022-07-27 23:20:59,454] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:20:59,463] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2022-07-27 23:21:34,256] {processor.py:153} INFO - Started process (PID=9472) to work on /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:21:34,257] {processor.py:641} INFO - Processing file /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-07-27 23:21:34,257] {logging_mixin.py:115} INFO - [2022-07-27 23:21:34,257] {dagbag.py:508} INFO - Filling up the DagBag from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:21:34,259] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-07-27 23:21:34,277] {logging_mixin.py:115} INFO - [2022-07-27 23:21:34,277] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-07-27 23:21:34,286] {logging_mixin.py:115} INFO - [2022-07-27 23:21:34,286] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2022-07-27 23:21:34,287] {logging_mixin.py:115} INFO - [2022-07-27 23:21:34,286] {dag.py:2968} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2022-07-27 23:21:34,295] {processor.py:161} INFO - Processing /home/renan/datapipeline/.env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
